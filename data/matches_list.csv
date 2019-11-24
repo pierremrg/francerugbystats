@@ -1,1529 +1,1529 @@
-result,where,opponent,pointsFor,pointsAgainst,pointsForHalfTime,pointsAgainstHalfTime,date
-won,home,Argentina,5,0,-,-,28 Aug 1949
-won,home,Argentina,12,3,-,-,4 Sep 1949
-won,home,Argentina,22,8,16,0,29 Aug 1954
-won,home,Argentina,30,3,-,-,12 Sep 1954
-won,home,Argentina,37,3,16,3,23 Jul 1960
-won,home,Argentina,12,3,-,-,6 Aug 1960
-won,home,Argentina,29,6,21,0,17 Aug 1960
-won,home,Argentina,20,15,6,12,20 Jun 1974
-won,home,Argentina,31,27,12,12,29 Jun 1974
-won,home,Argentina,29,6,11,6,19 Oct 1975
-won,home,Argentina,36,21,26,12,25 Oct 1975
-won,home,Argentina,26,3,6,3,25 Jun 1977
-draw,home,Argentina,18,18,0,9,2 Jul 1977
-won,home,Argentina,25,12,4,9,14 Nov 1982
-won,home,Argentina,13,6,0,3,20 Nov 1982
-lost,home,Argentina,16,24,6,15,22 Jun 1985
-won,home,Argentina,23,15,16,6,29 Jun 1985
-lost,home,Argentina,13,15,10,3,31 May 1986
-won,home,Argentina,22,9,13,3,7 Jun 1986
-won,home,Argentina,18,15,12,15,18 Jun 1988
-lost,home,Argentina,6,18,3,9,25 Jun 1988
-won,home,Argentina,29,9,10,3,5 Nov 1988
-won,home,Argentina,28,18,13,9,11 Nov 1988
-won,home,Argentina,27,12,14,6,4 Jul 1992
-won,home,Argentina,33,9,9,6,11 Jul 1992
-lost,home,Argentina,20,24,15,12,14 Nov 1992
-won,home,Argentina,47,12,20,6,21 Oct 1995
-won,home,Argentina,34,27,22,0,22 Jun 1996
-won,home,Argentina,34,15,13,9,29 Jun 1996
-won,home,Argentina,32,27,5,7,26 Oct 1997
-won,home,Argentina,35,18,14,6,13 Jun 1998
-won,home,Argentina,37,12,18,6,20 Jun 1998
-won,home,Argentina,34,14,17,8,14 Nov 1998
-won,home,Argentina,47,26,27,20,24 Oct 1999
-lost,home,Argentina,27,28,6,6,15 Jun 2002
-lost,home,Argentina,6,10,0,10,14 Jun 2003
-lost,home,Argentina,32,33,12,21,20 Jun 2003
-lost,home,Argentina,14,24,5,19,20 Nov 2004
-won,home,Argentina,27,26,17,9,25 Nov 2006
-lost,home,Argentina,12,17,9,17,7 Sep 2007
-lost,home,Argentina,10,34,3,17,19 Oct 2007
-won,home,Argentina,12,6,9,6,8 Nov 2008
-lost,home,Argentina,13,41,6,19,26 Jun 2010
-won,home,Argentina,15,9,9,3,20 Nov 2010
-lost,home,Argentina,20,23,14,13,16 Jun 2012
-won,home,Argentina,49,10,30,3,23 Jun 2012
-won,home,Argentina,39,22,24,13,17 Nov 2012
-lost,home,Argentina,13,18,3,15,22 Nov 2014
-lost,home,Argentina,19,30,10,17,19 Jun 2016
-won,home,Argentina,27,0,10,0,25 Jun 2016
-won,home,Argentina,28,13,11,10,17 Nov 2018
-won,home,Argentina,23,21,20,3,21 Sep 2019
-lost,home,Australia,8,11,3,11,22 Jan 1928
-won,home,Australia,13,6,13,3,11 Jan 1948
-won,home,Australia,19,0,-,-,9 Mar 1958
-won,home,Australia,15,8,9,3,26 Aug 1961
-won,home,Australia,20,14,8,5,11 Feb 1967
-lost,home,Australia,10,11,5,0,17 Aug 1968
-lost,home,Australia,11,13,11,6,20 Nov 1971
-won,home,Australia,18,9,12,6,27 Nov 1971
-draw,home,Australia,14,14,10,7,17 Jun 1972
-won,home,Australia,16,15,6,6,25 Jun 1972
-won,home,Australia,18,15,12,9,24 Oct 1976
-won,home,Australia,34,6,13,3,30 Oct 1976
-lost,home,Australia,15,17,9,10,5 Jul 1981
-lost,home,Australia,14,24,6,9,11 Jul 1981
-draw,home,Australia,15,15,9,6,13 Nov 1983
-won,home,Australia,15,6,6,3,19 Nov 1983
-lost,home,Australia,14,27,4,15,21 Jun 1986
-won,home,Australia,30,24,6,9,13 Jun 1987
-lost,home,Australia,15,32,12,10,4 Nov 1989
-won,home,Australia,25,19,6,13,11 Nov 1989
-lost,home,Australia,9,21,6,15,9 Jun 1990
-lost,home,Australia,31,48,15,24,24 Jun 1990
-won,home,Australia,28,19,13,12,30 Jun 1990
-won,home,Australia,16,13,13,10,30 Oct 1993
-lost,home,Australia,3,24,3,13,6 Nov 1993
-lost,home,Australia,15,29,8,6,21 Jun 1997
-lost,home,Australia,19,26,13,20,28 Jun 1997
-lost,home,Australia,21,32,21,20,21 Nov 1998
-lost,home,Australia,12,35,6,12,6 Nov 1999
-lost,home,Australia,13,18,3,9,4 Nov 2000
-won,home,Australia,14,13,11,3,17 Nov 2001
-lost,home,Australia,17,29,9,23,22 Jun 2002
-lost,home,Australia,25,31,8,13,29 Jun 2002
-won,home,Australia,27,14,12,11,13 Nov 2004
-lost,home,Australia,31,37,7,15,2 Jul 2005
-won,home,Australia,26,16,10,9,5 Nov 2005
-lost,home,Australia,13,34,6,10,28 Jun 2008
-lost,home,Australia,10,40,3,26,5 Jul 2008
-lost,home,Australia,13,18,7,10,22 Nov 2008
-lost,home,Australia,6,22,3,10,27 Jun 2009
-lost,home,Australia,16,59,13,13,27 Nov 2010
-won,home,Australia,33,6,16,6,10 Nov 2012
-lost,home,Australia,23,50,9,29,7 Jun 2014
-lost,home,Australia,0,6,-,-,14 Jun 2014
-lost,home,Australia,13,39,6,20,21 Jun 2014
-won,home,Australia,29,26,17,16,15 Nov 2014
-lost,home,Australia,23,25,11,13,19 Nov 2016
-lost,home,Lions XV,27,29,9,16,4 Oct 1989
-lost,home,British Army,3,36,-,-,25 Feb 1940
-won,home,British Army,21,9,-,-,1 Jan 1945
-won,home,Canada,19,13,9,7,13 Oct 1991
-lost,home,Canada,16,18,6,12,4 Jun 1994
-won,home,Canada,28,9,8,6,17 Dec 1994
-won,home,Canada,33,20,18,10,2 Oct 1999
-won,home,Canada,35,3,13,0,23 Nov 2002
-won,home,Canada,47,13,24,13,10 Jul 2004
-won,home,Canada,50,6,25,3,12 Nov 2005
-won,home,Canada,46,19,19,10,18 Sep 2011
-won,home,Canada,41,18,24,12,1 Oct 2015
-won,home,Czech Rep,28,3,17,0,16 Dec 1956
-won,home,Czech Rep,19,6,16,3,5 May 1968
-lost,home,England,8,35,0,22,22 Mar 1906
-lost,home,England,13,41,13,13,5 Jan 1907
-lost,home,England,0,19,0,6,1 Jan 1908
-lost,home,England,0,22,0,10,30 Jan 1909
-lost,home,England,3,11,0,8,3 Mar 1910
-lost,home,England,0,37,0,8,28 Jan 1911
-lost,home,England,8,18,0,14,8 Apr 1912
-lost,home,England,0,20,0,6,25 Jan 1913
-lost,home,England,13,39,8,13,13 Apr 1914
-lost,home,England,3,8,3,3,31 Jan 1920
-lost,home,England,6,10,3,10,28 Mar 1921
-draw,home,England,11,11,0,6,25 Feb 1922
-lost,home,England,3,12,3,3,2 Apr 1923
-lost,home,England,7,19,0,9,23 Feb 1924
-lost,home,England,11,13,5,13,13 Apr 1925
-lost,home,England,0,11,0,6,27 Feb 1926
-won,home,England,3,0,3,0,2 Apr 1927
-lost,home,England,8,18,3,10,25 Feb 1928
-lost,home,England,6,16,3,8,1 Apr 1929
-lost,home,England,5,11,5,6,22 Feb 1930
-won,home,England,14,13,4,5,6 Apr 1931
-lost,home,England,3,6,0,3,19 Apr 1947
-won,home,England,15,0,3,0,29 Mar 1948
-lost,home,England,3,8,0,5,26 Feb 1949
-won,home,England,6,3,3,3,25 Feb 1950
-won,home,England,11,3,5,3,24 Feb 1951
-lost,home,England,3,6,3,0,5 Apr 1952
-lost,home,England,0,11,0,6,28 Feb 1953
-won,home,England,11,3,3,3,10 Apr 1954
-won,home,England,16,9,3,6,26 Feb 1955
-won,home,England,14,9,6,6,14 Apr 1956
-lost,home,England,5,9,0,6,23 Feb 1957
-lost,home,England,0,14,0,11,1 Mar 1958
-draw,home,England,3,3,3,3,28 Feb 1959
-draw,home,England,3,3,3,3,27 Feb 1960
-draw,home,England,5,5,-,-,25 Feb 1961
-won,home,England,13,0,5,0,24 Feb 1962
-lost,home,England,5,6,5,3,23 Feb 1963
-lost,home,England,3,6,3,3,22 Feb 1964
-lost,home,England,6,9,3,3,27 Feb 1965
-won,home,England,13,0,5,0,26 Feb 1966
-won,home,England,16,12,13,9,25 Feb 1967
-won,home,England,14,9,3,6,24 Feb 1968
-lost,home,England,8,22,5,11,22 Feb 1969
-won,home,England,35,13,14,0,18 Apr 1970
-draw,home,England,14,14,6,14,27 Feb 1971
-won,home,England,37,12,15,6,26 Feb 1972
-lost,home,England,6,14,0,7,24 Feb 1973
-draw,home,England,12,12,6,0,2 Mar 1974
-won,home,England,27,20,12,10,1 Feb 1975
-won,home,England,30,9,10,3,20 Mar 1976
-won,home,England,4,3,-,-,19 Feb 1977
-won,home,England,15,6,3,6,21 Jan 1978
-lost,home,England,6,7,0,3,3 Mar 1979
-lost,home,England,13,17,7,14,2 Feb 1980
-won,home,England,16,12,16,0,21 Mar 1981
-lost,home,England,15,27,6,12,20 Feb 1982
-won,home,England,19,15,3,9,15 Jan 1983
-won,home,England,32,18,9,6,3 Mar 1984
-draw,home,England,9,9,6,3,2 Feb 1985
-won,home,England,29,10,10,0,15 Mar 1986
-won,home,England,19,15,3,12,21 Feb 1987
-won,home,England,10,9,3,3,16 Jan 1988
-lost,home,England,0,11,0,4,4 Mar 1989
-lost,home,England,7,26,0,13,3 Feb 1990
-lost,home,England,19,21,9,18,16 Mar 1991
-lost,home,England,10,19,6,10,19 Oct 1991
-lost,home,England,13,31,4,15,15 Feb 1992
-lost,home,England,15,16,12,13,16 Jan 1993
-lost,home,England,14,18,0,9,5 Mar 1994
-lost,home,England,10,31,3,13,4 Feb 1995
-won,home,England,19,9,3,3,22 Jun 1995
-won,home,England,15,12,3,6,20 Jan 1996
-won,home,England,23,20,6,14,1 Mar 1997
-won,home,England,24,17,15,3,7 Feb 1998
-lost,home,England,10,21,0,9,20 Mar 1999
-lost,home,England,9,15,0,9,19 Feb 2000
-lost,home,England,19,48,16,13,7 Apr 2001
-won,home,England,20,15,17,7,2 Mar 2002
-lost,home,England,17,25,7,12,15 Feb 2003
-won,home,England,17,16,14,13,30 Aug 2003
-lost,home,England,14,45,3,33,6 Sep 2003
-lost,home,England,7,24,7,12,16 Nov 2003
-won,home,England,24,21,21,3,27 Mar 2004
-won,home,England,18,17,6,17,13 Feb 2005
-won,home,England,31,6,16,3,12 Mar 2006
-lost,home,England,18,26,12,9,11 Mar 2007
-won,home,England,21,15,11,12,11 Aug 2007
-won,home,England,22,9,12,3,18 Aug 2007
-lost,home,England,9,14,6,5,13 Oct 2007
-lost,home,England,13,24,7,13,23 Feb 2008
-lost,home,England,10,34,0,29,15 Mar 2009
-won,home,England,12,10,12,7,20 Mar 2010
-lost,home,England,9,17,9,9,26 Feb 2011
-won,home,England,19,12,16,0,8 Oct 2011
-lost,home,England,22,24,9,14,11 Mar 2012
-lost,home,England,13,23,10,9,23 Feb 2013
-won,home,England,26,24,16,8,1 Feb 2014
-lost,home,England,35,55,15,27,21 Mar 2015
-lost,home,England,14,19,9,12,15 Aug 2015
-won,home,England,25,20,15,6,22 Aug 2015
-lost,home,England,21,31,12,17,19 Mar 2016
-lost,home,England,16,19,9,9,4 Feb 2017
-won,home,England,22,16,9,9,10 Mar 2018
-lost,home,England,8,44,8,30,10 Feb 2019
-won,home,Fiji,21,3,13,0,17 Oct 1964
-won,home,Fiji,31,16,22,7,7 Jun 1987
-won,home,Fiji,33,9,19,3,8 Oct 1991
-won,home,Fiji,34,9,10,9,27 Jun 1998
-won,home,Fiji,28,19,13,3,16 Oct 1999
-won,home,Fiji,77,10,29,0,24 Nov 2001
-won,home,Fiji,61,18,24,8,11 Oct 2003
-won,home,Fiji,34,12,16,6,13 Nov 2010
-won,home,Fiji,40,15,14,0,8 Nov 2014
-lost,home,Fiji,14,21,14,12,24 Nov 2018
-won,home,Georgia,64,7,30,0,30 Sep 2007
-won,home,Germany,30,5,16,0,17 Apr 1927
-lost,home,Germany,16,17,5,0,15 May 1927
-won,home,Germany,14,3,3,3,18 Mar 1928
-won,home,Germany,24,0,8,0,28 Apr 1929
-won,home,Germany,31,0,-,-,6 Apr 1930
-won,home,Germany,34,0,8,0,19 Apr 1931
-won,home,Germany,20,4,14,4,17 Apr 1932
-won,home,Germany,38,17,-,-,26 Mar 1933
-won,home,Germany,13,9,-,-,25 Mar 1934
-won,home,Germany,18,3,-,-,24 Mar 1935
-won,home,Germany,19,14,8,9,17 May 1936
-won,home,Germany,6,3,-,-,1 Nov 1936
-won,home,Germany,27,6,11,3,18 Apr 1937
-lost,home,Germany,0,3,-,-,27 Mar 1938
-won,home,Germany,8,5,3,5,22 May 1938
-lost,home,Ireland,8,19,0,8,20 Mar 1909
-lost,home,Ireland,3,8,3,8,28 Mar 1910
-lost,home,Ireland,5,25,5,0,25 Mar 1911
-lost,home,Ireland,6,11,6,11,1 Jan 1912
-lost,home,Ireland,0,24,0,8,24 Mar 1913
-lost,home,Ireland,6,8,3,0,1 Jan 1914
-won,home,Ireland,15,7,9,0,3 Apr 1920
-won,home,Ireland,20,10,5,5,9 Apr 1921
-lost,home,Ireland,3,8,0,5,8 Apr 1922
-won,home,Ireland,14,8,6,5,14 Apr 1923
-lost,home,Ireland,0,6,0,3,26 Jan 1924
-lost,home,Ireland,3,9,3,0,1 Jan 1925
-lost,home,Ireland,0,11,0,8,23 Jan 1926
-lost,home,Ireland,3,8,0,3,1 Jan 1927
-lost,home,Ireland,8,12,8,6,28 Jan 1928
-lost,home,Ireland,0,6,-,-,31 Dec 1928
-won,home,Ireland,5,0,-,-,25 Jan 1930
-won,home,Ireland,3,0,3,0,1 Jan 1931
-won,home,Ireland XV,4,3,-,-,26 Jan 1946
-won,home,Ireland,12,8,3,8,25 Jan 1947
-lost,home,Ireland,6,13,0,10,1 Jan 1948
-won,home,Ireland,16,9,8,6,29 Jan 1949
-draw,home,Ireland,3,3,3,0,28 Jan 1950
-lost,home,Ireland,8,9,3,3,27 Jan 1951
-lost,home,Ireland,8,11,0,6,26 Jan 1952
-lost,home,Ireland,3,16,0,5,24 Jan 1953
-won,home,Ireland,8,0,-,-,23 Jan 1954
-won,home,Ireland,5,3,5,0,22 Jan 1955
-won,home,Ireland,14,8,3,0,28 Jan 1956
-lost,home,Ireland,6,11,3,8,26 Jan 1957
-won,home,Ireland,11,6,3,3,19 Apr 1958
-lost,home,Ireland,5,9,0,6,18 Apr 1959
-won,home,Ireland,23,6,12,3,9 Apr 1960
-won,home,Ireland,15,3,3,3,15 Apr 1961
-won,home,Ireland,11,0,5,0,14 Apr 1962
-won,home,Ireland,24,5,6,5,26 Jan 1963
-won,home,Ireland,27,6,14,3,11 Apr 1964
-draw,home,Ireland,3,3,-,-,23 Jan 1965
-won,home,Ireland,11,6,3,3,29 Jan 1966
-won,home,Ireland,11,6,5,3,15 Apr 1967
-won,home,Ireland,16,6,8,6,27 Jan 1968
-lost,home,Ireland,9,17,6,11,25 Jan 1969
-won,home,Ireland,8,0,-,-,24 Jan 1970
-draw,home,Ireland,9,9,3,0,30 Jan 1971
-lost,home,Ireland,9,14,3,11,29 Jan 1972
-lost,home,Ireland,14,24,4,15,29 Apr 1972
-lost,home,Ireland,4,6,0,3,14 Apr 1973
-won,home,Ireland,9,6,0,3,19 Jan 1974
-lost,home,Ireland,6,25,6,10,1 Mar 1975
-won,home,Ireland,26,3,6,0,7 Feb 1976
-won,home,Ireland,15,6,3,6,19 Mar 1977
-won,home,Ireland,10,9,10,6,18 Feb 1978
-draw,home,Ireland,9,9,3,6,20 Jan 1979
-won,home,Ireland,19,18,3,9,1 Mar 1980
-won,home,Ireland,19,13,12,9,7 Feb 1981
-won,home,Ireland,22,9,3,6,20 Mar 1982
-lost,home,Ireland,16,22,3,15,19 Feb 1983
-won,home,Ireland,25,12,16,9,21 Jan 1984
-draw,home,Ireland,15,15,9,12,2 Mar 1985
-won,home,Ireland,29,9,9,6,1 Feb 1986
-won,home,Ireland,19,13,3,10,21 Mar 1987
-won,home,Ireland,25,6,7,0,20 Feb 1988
-won,home,Ireland,26,21,7,18,21 Jan 1989
-won,home,Ireland,31,12,12,6,3 Mar 1990
-won,home,Ireland,21,13,6,10,2 Feb 1991
-won,home,Ireland,44,12,18,6,21 Mar 1992
-won,home,Ireland,21,6,6,6,20 Feb 1993
-won,home,Ireland,35,15,16,12,15 Jan 1994
-won,home,Ireland,25,7,3,0,4 Mar 1995
-won,home,Ireland,36,12,15,12,10 Jun 1995
-won,home,Ireland,45,10,24,3,17 Feb 1996
-won,home,Ireland,32,15,12,12,18 Jan 1997
-won,home,Ireland,18,16,6,13,7 Mar 1998
-won,home,Ireland,10,9,0,6,6 Feb 1999
-lost,home,Ireland,25,27,13,7,19 Mar 2000
-lost,home,Ireland,15,22,3,9,17 Feb 2001
-won,home,Ireland,44,5,28,5,6 Apr 2002
-lost,home,Ireland,12,15,3,12,8 Mar 2003
-won,home,Ireland,43,21,27,0,9 Nov 2003
-won,home,Ireland,35,17,11,3,14 Feb 2004
-won,home,Ireland,26,19,18,9,12 Mar 2005
-won,home,Ireland,43,31,29,3,11 Feb 2006
-won,home,Ireland,20,17,13,11,11 Feb 2007
-won,home,Ireland,25,3,12,3,21 Sep 2007
-won,home,Ireland,26,21,19,6,9 Feb 2008
-lost,home,Ireland,21,30,10,13,7 Feb 2009
-won,home,Ireland,33,10,17,3,13 Feb 2010
-won,home,Ireland,25,22,12,15,13 Feb 2011
-won,home,Ireland,19,12,13,3,13 Aug 2011
-won,home,Ireland,26,22,16,8,20 Aug 2011
-draw,home,Ireland,17,17,6,17,4 Mar 2012
-draw,home,Ireland,13,13,3,13,9 Mar 2013
-lost,home,Ireland,20,22,13,12,15 Mar 2014
-lost,home,Ireland,11,18,6,12,14 Feb 2015
-lost,home,Ireland,9,24,6,9,11 Oct 2015
-won,home,Ireland,10,9,3,9,13 Feb 2016
-lost,home,Ireland,9,19,6,7,25 Feb 2017
-lost,home,Ireland,13,15,3,9,3 Feb 2018
-lost,home,Ireland,14,26,0,19,10 Mar 2019
-won,home,Italy,43,5,17,5,17 Oct 1937
-won,home,Italy,17,8,3,5,17 May 1952
-won,home,Italy,22,8,11,3,26 Apr 1953
-won,home,Italy,39,12,16,6,24 Apr 1954
-won,home,Italy,24,0,14,0,10 Apr 1955
-won,home,Italy,16,3,3,3,2 Apr 1956
-won,home,Italy,38,6,10,6,21 Apr 1957
-won,home,Italy,11,3,8,3,7 Apr 1958
-won,home,Italy,22,0,14,0,29 Mar 1959
-won,home,Italy,26,0,18,0,17 Apr 1960
-won,home,Italy,17,0,6,0,2 Apr 1961
-won,home,Italy,6,3,6,3,22 Apr 1962
-won,home,Italy,14,12,6,3,14 Apr 1963
-won,home,Italy,12,3,6,0,29 Mar 1964
-won,home,Italy,21,0,10,0,18 Apr 1965
-won,home,Italy,21,0,11,0,9 Apr 1966
-won,home,Italy,60,13,34,3,26 Mar 1967
-won,home,Italy,34,22,10,16,14 Oct 1995
-lost,home,Italy,32,40,13,20,22 Mar 1997
-won,home,Italy,30,19,17,9,18 Oct 1997
-won,home,Italy,42,31,20,17,1 Apr 2000
-won,home,Italy,30,19,14,9,3 Mar 2001
-won,home,Italy,33,12,19,12,2 Feb 2002
-won,home,Italy,53,27,41,10,23 Mar 2003
-won,home,Italy,25,0,10,0,21 Feb 2004
-won,home,Italy,56,13,24,10,19 Mar 2005
-won,home,Italy,37,12,8,12,25 Feb 2006
-won,home,Italy,39,3,22,3,3 Feb 2007
-won,home,Italy,25,13,13,6,9 Mar 2008
-won,home,Italy,50,8,25,3,21 Mar 2009
-won,home,Italy,46,20,22,3,14 Mar 2010
-lost,home,Italy,21,22,8,6,12 Mar 2011
-won,home,Italy,30,12,15,6,4 Feb 2012
-lost,home,Italy,18,23,15,13,3 Feb 2013
-won,home,Italy,30,10,9,3,9 Feb 2014
-won,home,Italy,29,0,9,0,15 Mar 2015
-won,home,Italy,32,10,15,3,19 Sep 2015
-won,home,Italy,23,21,10,8,6 Feb 2016
-won,home,Italy,40,18,16,11,11 Mar 2017
-won,home,Italy,34,17,11,7,23 Feb 2018
-won,home,Italy,25,14,10,6,16 Mar 2019
-won,home,Italy,47,19,19,7,30 Aug 2019
-won,home,Cote d'Iv,54,18,28,3,30 May 1995
-won,home,Japan,30,18,10,7,27 Oct 1973
-won,home,Japan,51,29,20,16,18 Oct 2003
-won,home,Japan,47,21,25,11,10 Sep 2011
-draw,home,Japan,23,23,13,8,25 Nov 2017
-lost,home,Kiwis,9,14,3,8,10 Mar 1946
-won,home,Namibia,47,13,23,13,8 Oct 1999
-won,home,Namibia,87,10,40,3,16 Sep 2007
-lost,home,New Zealand,8,38,3,18,1 Jan 1906
-lost,home,New Zealand,6,30,0,17,18 Jan 1925
-won,home,New Zealand,3,0,3,0,27 Feb 1954
-lost,home,New Zealand,6,13,6,5,22 Jul 1961
-lost,home,New Zealand,3,5,-,-,5 Aug 1961
-lost,home,New Zealand,3,32,3,13,19 Aug 1961
-lost,home,New Zealand,3,12,3,6,8 Feb 1964
-lost,home,New Zealand,15,21,9,11,25 Nov 1967
-lost,home,New Zealand,9,12,3,3,13 Jul 1968
-lost,home,New Zealand,3,9,3,0,27 Jul 1968
-lost,home,New Zealand,12,19,0,16,10 Aug 1968
-won,home,New Zealand,13,6,10,3,10 Feb 1973
-won,home,New Zealand,18,13,6,10,11 Nov 1977
-lost,home,New Zealand,3,15,3,9,19 Nov 1977
-lost,home,New Zealand,9,23,3,10,7 Jul 1979
-won,home,New Zealand,24,19,11,7,14 Jul 1979
-lost,home,New Zealand,9,13,6,10,14 Nov 1981
-lost,home,New Zealand,6,18,3,9,21 Nov 1981
-lost,home,New Zealand,9,10,3,3,16 Jun 1984
-lost,home,New Zealand,18,31,6,16,23 Jun 1984
-lost,home,New Zealand,9,18,6,12,28 Jun 1986
-lost,home,New Zealand,7,19,3,6,8 Nov 1986
-won,home,New Zealand,16,3,3,3,15 Nov 1986
-lost,home,New Zealand,9,29,0,9,20 Jun 1987
-lost,home,New Zealand,17,25,0,18,17 Jun 1989
-lost,home,New Zealand,20,34,13,16,1 Jul 1989
-lost,home,New Zealand,3,24,3,18,3 Nov 1990
-lost,home,New Zealand,12,30,6,15,10 Nov 1990
-won,home,New Zealand,22,8,9,3,26 Jun 1994
-won,home,New Zealand,23,20,13,9,3 Jul 1994
-won,home,New Zealand,22,15,17,3,11 Nov 1995
-lost,home,New Zealand,12,37,5,20,18 Nov 1995
-lost,home,New Zealand,7,54,0,30,26 Jun 1999
-won,home,New Zealand,43,31,10,17,31 Oct 1999
-lost,home,New Zealand,26,39,12,15,11 Nov 2000
-won,home,New Zealand,42,33,26,24,18 Nov 2000
-lost,home,New Zealand,12,37,6,17,30 Jun 2001
-draw,home,New Zealand,20,20,10,10,16 Nov 2002
-lost,home,New Zealand,23,31,13,19,28 Jun 2003
-lost,home,New Zealand,13,40,6,14,20 Nov 2003
-lost,home,New Zealand,6,45,6,19,27 Nov 2004
-lost,home,New Zealand,3,47,3,23,11 Nov 2006
-lost,home,New Zealand,11,23,5,16,18 Nov 2006
-lost,home,New Zealand,11,42,3,20,2 Jun 2007
-lost,home,New Zealand,10,61,3,30,9 Jun 2007
-won,home,New Zealand,20,18,3,13,6 Oct 2007
-won,home,New Zealand,27,22,17,11,13 Jun 2009
-lost,home,New Zealand,10,14,0,8,20 Jun 2009
-lost,home,New Zealand,12,39,12,22,28 Nov 2009
-lost,home,New Zealand,17,37,3,19,24 Sep 2011
-lost,home,New Zealand,7,8,0,5,23 Oct 2011
-lost,home,New Zealand,13,23,10,17,8 Jun 2013
-lost,home,New Zealand,0,30,0,10,15 Jun 2013
-lost,home,New Zealand,9,24,6,8,22 Jun 2013
-lost,home,New Zealand,19,26,9,9,9 Nov 2013
-lost,home,New Zealand,13,62,13,29,17 Oct 2015
-lost,home,New Zealand,19,24,6,10,26 Nov 2016
-lost,home,New Zealand,18,38,5,31,11 Nov 2017
-lost,home,New Zealand,11,52,11,8,9 Jun 2018
-lost,home,New Zealand,13,26,6,21,16 Jun 2018
-lost,home,New Zealand,14,49,14,21,23 Jun 2018
-lost,home,NZ Maori,3,12,3,3,26 Dec 1926
-won,home,Pacific Is,42,17,17,12,15 Nov 2008
-won,home,Romania,61,3,19,3,4 May 1924
-won,home,Romania,11,8,11,0,15 May 1938
-won,home,Romania,18,15,6,9,19 May 1957
-won,home,Romania,39,0,16,0,15 Dec 1957
-lost,home,Romania,5,11,0,5,5 Jun 1960
-draw,home,Romania,5,5,-,-,12 Nov 1961
-lost,home,Romania,0,3,-,-,11 Nov 1962
-draw,home,Romania,6,6,3,3,15 Dec 1963
-won,home,Romania,9,6,3,3,29 Nov 1964
-won,home,Romania,8,3,5,0,28 Nov 1965
-won,home,Romania,9,3,3,3,27 Nov 1966
-won,home,Romania,11,3,6,3,10 Dec 1967
-lost,home,Romania,14,15,8,12,1 Dec 1968
-won,home,Romania,14,9,6,3,14 Dec 1969
-won,home,Romania,14,3,6,3,29 Nov 1970
-won,home,Romania,31,12,9,9,11 Dec 1971
-won,home,Romania,15,6,15,0,26 Nov 1972
-won,home,Romania,7,6,3,0,11 Nov 1973
-lost,home,Romania,10,15,6,3,13 Oct 1974
-won,home,Romania,36,12,13,3,23 Nov 1975
-lost,home,Romania,12,15,9,0,14 Nov 1976
-won,home,Romania,9,6,6,0,10 Dec 1977
-won,home,Romania,9,6,9,0,3 Dec 1978
-won,home,Romania,30,12,3,9,2 Dec 1979
-lost,home,Romania,0,15,-,-,23 Nov 1980
-won,home,Romania,17,9,14,6,1 Nov 1981
-lost,home,Romania,9,13,6,3,31 Oct 1982
-won,home,Romania,26,15,19,9,4 Dec 1983
-won,home,Romania,18,3,6,0,10 Nov 1984
-won,home,Romania,25,13,11,9,12 Apr 1986
-won,home,Romania,20,3,14,0,23 Oct 1986
-won,home,Romania,55,12,12,12,28 May 1987
-won,home,Romania,49,3,15,3,11 Nov 1987
-won,home,Romania,16,12,6,3,26 Nov 1988
-lost,home,Romania,6,12,0,9,24 May 1990
-won,home,Romania,33,21,18,18,22 Jun 1991
-won,home,Romania,30,3,6,0,4 Oct 1991
-won,home,Romania,25,6,9,0,28 May 1992
-won,home,Romania,37,20,16,3,20 May 1993
-won,home,Romania,51,0,16,0,17 Oct 1993
-won,home,Romania,24,15,6,12,8 Apr 1995
-won,home,Romania,52,8,22,0,17 Oct 1995
-won,home,Romania,64,12,26,12,20 Apr 1996
-won,home,Romania,51,20,29,10,1 Jun 1997
-won,home,Romania,39,3,27,3,22 Oct 1997
-won,home,Romania,62,8,29,3,3 Jun 1999
-won,home,Romania,67,20,29,8,28 May 2000
-won,home,Romania,56,8,35,5,22 Aug 2003
-won,home,Romania,62,14,31,6,17 Jun 2006
-won,home,Romania,38,11,17,6,23 Sep 2015
-won,home,Samoa,39,22,12,16,12 Jun 1999
-won,home,Samoa,43,5,33,0,21 Nov 2009
-won,home,Samoa,22,14,10,7,24 Nov 2012
-won,home,Samoa,52,8,26,3,12 Nov 2016
-lost,home,Scotland,0,27,0,11,22 Jan 1910
-won,home,Scotland,16,15,11,8,2 Jan 1911
-lost,home,Scotland,3,31,3,13,20 Jan 1912
-lost,home,Scotland,3,21,3,8,1 Jan 1913
-lost,home,Scotland,0,5,-,-,1 Jan 1920
-won,home,Scotland,3,0,3,0,22 Jan 1921
-draw,home,Scotland,3,3,3,3,2 Jan 1922
-lost,home,Scotland,3,16,0,5,20 Jan 1923
-won,home,Scotland,12,10,6,3,1 Jan 1924
-lost,home,Scotland,4,25,4,5,24 Jan 1925
-lost,home,Scotland,6,20,0,9,2 Jan 1926
-lost,home,Scotland,6,23,3,20,22 Jan 1927
-lost,home,Scotland,6,15,3,9,2 Jan 1928
-lost,home,Scotland,3,6,3,6,19 Jan 1929
-won,home,Scotland,7,3,3,3,1 Jan 1930
-lost,home,Scotland,4,6,0,6,24 Jan 1931
-won,home,Scotland,8,3,8,3,1 Jan 1947
-lost,home,Scotland,8,9,8,3,24 Jan 1948
-lost,home,Scotland,0,8,0,3,15 Jan 1949
-lost,home,Scotland,5,8,0,8,14 Jan 1950
-won,home,Scotland,14,12,6,6,13 Jan 1951
-won,home,Scotland,13,11,8,3,12 Jan 1952
-won,home,Scotland,11,5,6,5,10 Jan 1953
-won,home,Scotland,3,0,-,-,9 Jan 1954
-won,home,Scotland,15,0,9,0,8 Jan 1955
-lost,home,Scotland,0,12,0,6,14 Jan 1956
-lost,home,Scotland,0,6,-,-,12 Jan 1957
-lost,home,Scotland,9,11,6,8,11 Jan 1958
-won,home,Scotland,9,0,6,0,10 Jan 1959
-won,home,Scotland,13,11,5,0,9 Jan 1960
-won,home,Scotland,11,0,-,-,7 Jan 1961
-won,home,Scotland,11,3,3,3,13 Jan 1962
-lost,home,Scotland,6,11,6,0,12 Jan 1963
-lost,home,Scotland,0,10,0,5,4 Jan 1964
-won,home,Scotland,16,8,5,5,9 Jan 1965
-draw,home,Scotland,3,3,3,3,15 Jan 1966
-lost,home,Scotland,8,9,3,6,14 Jan 1967
-won,home,Scotland,8,6,3,3,13 Jan 1968
-lost,home,Scotland,3,6,0,3,11 Jan 1969
-won,home,Scotland,11,9,11,6,10 Jan 1970
-won,home,Scotland,13,8,3,3,16 Jan 1971
-lost,home,Scotland,9,20,0,10,15 Jan 1972
-won,home,Scotland,16,13,10,6,13 Jan 1973
-lost,home,Scotland,6,19,3,9,16 Mar 1974
-won,home,Scotland,10,9,3,3,15 Feb 1975
-won,home,Scotland,13,6,7,3,10 Jan 1976
-won,home,Scotland,23,3,9,3,5 Mar 1977
-won,home,Scotland,19,16,4,13,4 Feb 1978
-won,home,Scotland,21,17,10,10,17 Mar 1979
-lost,home,Scotland,14,22,7,4,16 Feb 1980
-won,home,Scotland,16,9,16,3,17 Jan 1981
-lost,home,Scotland,7,16,7,3,6 Mar 1982
-won,home,Scotland,19,15,15,15,5 Feb 1983
-lost,home,Scotland,12,21,6,3,17 Mar 1984
-won,home,Scotland,11,3,11,3,16 Feb 1985
-lost,home,Scotland,17,18,7,12,18 Jan 1986
-won,home,Scotland,28,22,18,7,7 Mar 1987
-draw,home,Scotland,20,20,6,13,23 May 1987
-lost,home,Scotland,12,23,6,11,6 Feb 1988
-won,home,Scotland,19,3,6,3,18 Mar 1989
-lost,home,Scotland,0,21,0,3,17 Feb 1990
-won,home,Scotland,15,9,9,3,19 Jan 1991
-lost,home,Scotland,6,10,3,4,7 Mar 1992
-won,home,Scotland,11,3,3,3,6 Feb 1993
-won,home,Scotland,20,12,13,9,19 Mar 1994
-lost,home,Scotland,21,23,5,13,18 Feb 1995
-won,home,Scotland,22,19,3,13,3 Jun 1995
-lost,home,Scotland,14,19,8,11,3 Feb 1996
-won,home,Scotland,47,20,26,13,15 Mar 1997
-won,home,Scotland,51,16,22,9,21 Feb 1998
-lost,home,Scotland,22,36,22,33,10 Apr 1999
-won,home,Scotland,28,16,10,6,4 Mar 2000
-won,home,Scotland,16,6,6,6,4 Feb 2001
-won,home,Scotland,22,10,10,3,23 Mar 2002
-won,home,Scotland,38,3,17,3,23 Feb 2003
-won,home,Scotland,51,9,19,6,25 Oct 2003
-won,home,Scotland,31,0,11,0,21 Mar 2004
-won,home,Scotland,16,9,0,6,5 Feb 2005
-lost,home,Scotland,16,20,3,13,5 Feb 2006
-won,home,Scotland,46,19,20,14,17 Mar 2007
-won,home,Scotland,27,6,17,6,3 Feb 2008
-won,home,Scotland,22,13,6,3,14 Feb 2009
-won,home,Scotland,18,9,15,6,7 Feb 2010
-won,home,Scotland,34,21,17,7,5 Feb 2011
-won,home,Scotland,23,17,10,10,26 Feb 2012
-won,home,Scotland,23,16,0,6,16 Mar 2013
-won,home,Scotland,19,17,9,14,8 Mar 2014
-won,home,Scotland,15,8,9,8,7 Feb 2015
-won,home,Scotland,19,16,6,9,5 Sep 2015
-lost,home,Scotland,18,29,12,18,13 Mar 2016
-won,home,Scotland,22,16,13,11,12 Feb 2017
-lost,home,Scotland,26,32,20,14,11 Feb 2018
-won,home,Scotland,27,10,10,3,23 Feb 2019
-won,home,Scotland,32,3,20,3,17 Aug 2019
-lost,home,Scotland,14,17,14,10,24 Aug 2019
-lost,home,South Africa,5,38,5,11,11 Jan 1913
-lost,home,South Africa,3,25,3,6,16 Feb 1952
-draw,home,South Africa,3,3,3,0,26 Jul 1958
-won,home,South Africa,9,5,3,5,16 Aug 1958
-draw,home,South Africa,0,0,-,-,18 Feb 1961
-won,home,South Africa,8,6,8,3,25 Jul 1964
-lost,home,South Africa,3,26,3,18,15 Jul 1967
-lost,home,South Africa,3,16,0,3,22 Jul 1967
-won,home,South Africa,19,14,8,6,29 Jul 1967
-draw,home,South Africa,6,6,3,0,12 Aug 1967
-lost,home,South Africa,9,12,3,9,9 Nov 1968
-lost,home,South Africa,11,16,6,3,16 Nov 1968
-lost,home,South Africa,9,22,3,6,12 Jun 1971
-draw,home,South Africa,8,8,3,0,19 Jun 1971
-lost,home,South Africa,4,13,0,7,23 Nov 1974
-lost,home,South Africa,8,10,4,3,30 Nov 1974
-lost,home,South Africa,25,38,3,21,21 Jun 1975
-lost,home,South Africa,18,33,15,18,28 Jun 1975
-lost,home,South Africa,15,37,0,13,8 Nov 1980
-lost,home,South Africa,15,20,0,13,17 Oct 1992
-won,home,South Africa,29,16,6,6,24 Oct 1992
-draw,home,South Africa,20,20,14,11,26 Jun 1993
-won,home,South Africa,18,17,9,8,3 Jul 1993
-lost,home,South Africa,15,19,6,10,17 Jun 1995
-lost,home,South Africa,12,22,6,19,30 Nov 1996
-lost,home,South Africa,12,13,3,10,7 Dec 1996
-lost,home,South Africa,32,36,9,19,15 Nov 1997
-lost,home,South Africa,10,52,3,28,22 Nov 1997
-won,home,South Africa,32,23,16,11,16 Jun 2001
-lost,home,South Africa,15,20,15,14,23 Jun 2001
-won,home,South Africa,20,10,9,3,10 Nov 2001
-won,home,South Africa,30,10,12,3,9 Nov 2002
-draw,home,South Africa,30,30,13,13,18 Jun 2005
-lost,home,South Africa,13,27,6,20,25 Jun 2005
-won,home,South Africa,26,20,15,3,26 Nov 2005
-won,home,South Africa,36,26,11,12,24 Jun 2006
-won,home,South Africa,20,13,11,13,13 Nov 2009
-lost,home,South Africa,17,42,10,25,12 Jun 2010
-lost,home,South Africa,10,19,7,13,23 Nov 2013
-lost,home,South Africa,14,37,7,16,10 Jun 2017
-lost,home,South Africa,15,37,7,23,17 Jun 2017
-lost,home,South Africa,12,35,9,16,24 Jun 2017
-lost,home,South Africa,17,18,7,8,18 Nov 2017
-lost,home,South Africa,26,29,16,9,10 Nov 2018
-won,home,Tonga,38,10,6,0,26 May 1995
-lost,home,Tonga,16,20,6,15,16 Jun 1999
-won,home,Tonga,43,8,12,8,19 Nov 2005
-lost,home,Tonga,14,19,6,13,1 Oct 2011
-won,home,Tonga,38,18,21,6,16 Nov 2013
-won,home,Tonga,23,21,17,7,6 Oct 2019
-won,home,USA,14,5,6,5,10 Oct 1920
-lost,home,USA,3,17,0,3,18 May 1924
-won,home,USA,33,14,15,10,12 Jun 1976
-won,home,USA,41,9,21,3,13 Jul 1991
-won,home,USA,10,3,10,3,20 Jul 1991
-won,home,USA,41,14,26,0,31 Oct 2003
-won,home,USA,39,31,17,21,3 Jul 2004
-won,home,USA,33,9,12,6,2 Oct 2019
-lost,home,Wales,4,36,4,17,2 Mar 1908
-lost,home,Wales,5,47,0,9,23 Feb 1909
-lost,home,Wales,14,49,14,21,1 Jan 1910
-lost,home,Wales,0,15,-,-,28 Feb 1911
-lost,home,Wales,8,14,8,6,25 Mar 1912
-lost,home,Wales,8,11,0,3,27 Feb 1913
-lost,home,Wales,0,31,0,13,2 Mar 1914
-lost,home,Wales,5,6,-,-,17 Feb 1920
-lost,home,Wales,4,12,0,12,26 Feb 1921
-lost,home,Wales,3,11,-,-,23 Mar 1922
-lost,home,Wales,8,16,3,5,24 Feb 1923
-lost,home,Wales,6,10,6,7,27 Mar 1924
-lost,home,Wales,5,11,0,3,28 Feb 1925
-lost,home,Wales,5,7,5,0,5 Apr 1926
-lost,home,Wales,7,25,3,12,26 Feb 1927
-won,home,Wales,8,3,0,3,9 Apr 1928
-lost,home,Wales,3,8,0,5,23 Feb 1929
-lost,home,Wales,0,11,0,3,21 Apr 1930
-lost,home,Wales,3,35,0,8,28 Feb 1931
-lost,home,Wales XV,0,8,-,-,22 Dec 1945
-won,home,Wales XV,12,0,3,0,22 Apr 1946
-lost,home,Wales,0,3,0,3,22 Mar 1947
-won,home,Wales,11,3,5,0,21 Feb 1948
-won,home,Wales,5,3,0,3,26 Mar 1949
-lost,home,Wales,0,21,0,5,25 Mar 1950
-won,home,Wales,8,3,0,3,7 Apr 1951
-lost,home,Wales,5,9,5,3,22 Mar 1952
-lost,home,Wales,3,6,0,3,28 Mar 1953
-lost,home,Wales,13,19,5,5,27 Mar 1954
-lost,home,Wales,11,16,0,11,26 Mar 1955
-lost,home,Wales,3,5,-,-,24 Mar 1956
-lost,home,Wales,13,19,3,8,23 Mar 1957
-won,home,Wales,16,6,3,3,29 Mar 1958
-won,home,Wales,11,3,8,3,4 Apr 1959
-won,home,Wales,16,8,5,3,26 Mar 1960
-won,home,Wales,8,6,3,3,25 Mar 1961
-lost,home,Wales,0,3,0,3,24 Mar 1962
-won,home,Wales,5,3,0,3,23 Mar 1963
-draw,home,Wales,11,11,11,3,21 Mar 1964
-won,home,Wales,22,13,19,0,27 Mar 1965
-lost,home,Wales,8,9,8,6,26 Mar 1966
-won,home,Wales,20,14,9,6,1 Apr 1967
-won,home,Wales,14,9,3,9,23 Mar 1968
-draw,home,Wales,8,8,0,8,22 Mar 1969
-lost,home,Wales,6,11,3,6,4 Apr 1970
-lost,home,Wales,5,9,5,3,27 Mar 1971
-lost,home,Wales,6,20,6,9,25 Mar 1972
-won,home,Wales,12,3,9,0,24 Mar 1973
-draw,home,Wales,16,16,13,13,16 Feb 1974
-lost,home,Wales,10,25,7,17,18 Jan 1975
-lost,home,Wales,13,19,9,13,6 Mar 1976
-won,home,Wales,16,9,3,3,5 Feb 1977
-lost,home,Wales,7,16,7,13,18 Mar 1978
-won,home,Wales,14,13,7,7,17 Feb 1979
-lost,home,Wales,9,18,3,4,19 Jan 1980
-won,home,Wales,19,15,9,9,7 Mar 1981
-lost,home,Wales,12,22,9,6,6 Feb 1982
-won,home,Wales,16,9,6,6,19 Mar 1983
-won,home,Wales,21,16,12,3,18 Feb 1984
-won,home,Wales,14,3,7,3,30 Mar 1985
-won,home,Wales,23,15,11,9,1 Mar 1986
-won,home,Wales,16,9,3,9,7 Feb 1987
-won,home,Wales,10,9,3,3,19 Mar 1988
-won,home,Wales,31,12,16,6,18 Feb 1989
-won,home,Wales,29,19,9,13,20 Jan 1990
-won,home,Wales,36,3,14,3,2 Mar 1991
-won,home,Wales,22,9,7,3,4 Sep 1991
-won,home,Wales,12,9,12,0,1 Feb 1992
-won,home,Wales,26,10,16,3,20 Mar 1993
-lost,home,Wales,15,24,3,11,19 Feb 1994
-won,home,Wales,21,9,15,6,21 Jan 1995
-lost,home,Wales,15,16,5,10,16 Mar 1996
-won,home,Wales,40,33,10,27,25 Sep 1996
-won,home,Wales,27,22,20,10,15 Feb 1997
-won,home,Wales,51,0,29,0,5 Apr 1998
-lost,home,Wales,33,34,18,28,6 Mar 1999
-lost,home,Wales,23,34,6,12,28 Aug 1999
-won,home,Wales,36,3,9,3,5 Feb 2000
-lost,home,Wales,35,43,19,16,17 Mar 2001
-won,home,Wales,37,33,24,19,16 Feb 2002
-won,home,Wales,33,5,10,5,29 Mar 2003
-won,home,Wales,29,22,13,12,7 Mar 2004
-lost,home,Wales,18,24,15,6,26 Feb 2005
-won,home,Wales,21,16,6,13,18 Mar 2006
-won,home,Wales,32,21,23,14,24 Feb 2007
-won,home,Wales,34,7,17,7,26 Aug 2007
-lost,home,Wales,12,29,6,9,15 Mar 2008
-won,home,Wales,21,16,13,13,27 Feb 2009
-won,home,Wales,26,20,20,0,26 Feb 2010
-won,home,Wales,28,9,11,3,19 Mar 2011
-won,home,Wales,9,8,6,3,15 Oct 2011
-lost,home,Wales,9,16,3,10,17 Mar 2012
-lost,home,Wales,6,16,3,3,9 Feb 2013
-lost,home,Wales,6,27,6,20,21 Feb 2014
-lost,home,Wales,13,20,3,6,28 Feb 2015
-lost,home,Wales,10,19,3,6,26 Feb 2016
-won,home,Wales,20,18,10,9,18 Mar 2017
-lost,home,Wales,13,14,10,14,17 Mar 2018
-lost,home,Wales,19,24,16,0,1 Feb 2019
-lost,home,Wales,19,20,19,10,20 Oct 2019
-won,home,Zimbabwe,70,12,22,3,2 Jun 1987
-won,home,Argentina,5,0,-,-,28 Aug 1949
-won,home,Argentina,12,3,-,-,4 Sep 1949
-won,home,Argentina,22,8,16,0,29 Aug 1954
-won,home,Argentina,30,3,-,-,12 Sep 1954
-won,home,Argentina,37,3,16,3,23 Jul 1960
-won,home,Argentina,12,3,-,-,6 Aug 1960
-won,home,Argentina,29,6,21,0,17 Aug 1960
-won,home,Argentina,20,15,6,12,20 Jun 1974
-won,home,Argentina,31,27,12,12,29 Jun 1974
-won,home,Argentina,26,3,6,3,25 Jun 1977
-draw,home,Argentina,18,18,0,9,2 Jul 1977
-lost,home,Argentina,16,24,6,15,22 Jun 1985
-won,home,Argentina,23,15,16,6,29 Jun 1985
-lost,home,Argentina,13,15,10,3,31 May 1986
-won,home,Argentina,22,9,13,3,7 Jun 1986
-won,home,Argentina,18,15,12,15,18 Jun 1988
-lost,home,Argentina,6,18,3,9,25 Jun 1988
-won,home,Argentina,27,12,14,6,4 Jul 1992
-won,home,Argentina,33,9,9,6,11 Jul 1992
-won,home,Italy,34,22,10,16,14 Oct 1995
-won,home,Romania,52,8,22,0,17 Oct 1995
-won,home,Argentina,47,12,20,6,21 Oct 1995
-won,home,Argentina,34,27,22,0,22 Jun 1996
-won,home,Argentina,34,15,13,9,29 Jun 1996
-won,home,Argentina,35,18,14,6,13 Jun 1998
-won,home,Argentina,37,12,18,6,20 Jun 1998
-lost,home,Argentina,27,28,6,6,15 Jun 2002
-lost,home,Argentina,6,10,0,10,14 Jun 2003
-lost,home,Argentina,32,33,12,21,20 Jun 2003
-lost,home,Argentina,13,41,6,19,26 Jun 2010
-lost,home,Argentina,20,23,14,13,16 Jun 2012
-won,home,Argentina,49,10,30,3,23 Jun 2012
-lost,home,Argentina,19,30,10,17,19 Jun 2016
-won,home,Argentina,27,0,10,0,25 Jun 2016
-won,home,Australia,15,8,9,3,26 Aug 1961
-lost,home,Australia,10,11,5,0,17 Aug 1968
-draw,home,Australia,14,14,10,7,17 Jun 1972
-won,home,Australia,16,15,6,6,25 Jun 1972
-lost,home,Australia,15,17,9,10,5 Jul 1981
-lost,home,Australia,14,24,6,9,11 Jul 1981
-lost,home,Australia,14,27,4,15,21 Jun 1986
-won,home,Australia,30,24,6,9,13 Jun 1987
-lost,home,Australia,9,21,6,15,9 Jun 1990
-lost,home,Australia,31,48,15,24,24 Jun 1990
-won,home,Australia,28,19,13,12,30 Jun 1990
-lost,home,Australia,15,29,8,6,21 Jun 1997
-lost,home,Australia,19,26,13,20,28 Jun 1997
-lost,home,Australia,17,29,9,23,22 Jun 2002
-lost,home,Australia,25,31,8,13,29 Jun 2002
-won,home,Fiji,61,18,24,8,11 Oct 2003
-won,home,Japan,51,29,20,16,18 Oct 2003
-won,home,Scotland,51,9,19,6,25 Oct 2003
-won,home,USA,41,14,26,0,31 Oct 2003
-won,home,Ireland,43,21,27,0,9 Nov 2003
-lost,home,England,7,24,7,12,16 Nov 2003
-lost,home,New Zealand,13,40,6,14,20 Nov 2003
-lost,home,Australia,31,37,7,15,2 Jul 2005
-lost,home,Australia,13,34,6,10,28 Jun 2008
-lost,home,Australia,10,40,3,26,5 Jul 2008
-lost,home,Australia,6,22,3,10,27 Jun 2009
-lost,home,Australia,23,50,9,29,7 Jun 2014
-lost,home,Australia,0,6,-,-,14 Jun 2014
-lost,home,Australia,13,39,6,20,21 Jun 2014
-lost,home,Canada,16,18,6,12,4 Jun 1994
-won,home,Canada,47,13,24,13,10 Jul 2004
-won,home,Czech Rep,19,6,16,3,5 May 1968
-lost,home,England,13,41,13,13,5 Jan 1907
-lost,home,England,0,22,0,10,30 Jan 1909
-lost,home,England,0,37,0,8,28 Jan 1911
-lost,home,England,0,20,0,6,25 Jan 1913
-lost,home,England,3,8,3,3,31 Jan 1920
-draw,home,England,11,11,0,6,25 Feb 1922
-lost,home,England,7,19,0,9,23 Feb 1924
-lost,home,England,0,11,0,6,27 Feb 1926
-lost,home,England,8,18,3,10,25 Feb 1928
-lost,home,England,5,11,5,6,22 Feb 1930
-lost,home,England,3,6,0,3,19 Apr 1947
-lost,home,England,3,8,0,5,26 Feb 1949
-won,home,England,11,3,5,3,24 Feb 1951
-lost,home,England,0,11,0,6,28 Feb 1953
-won,home,England,16,9,3,6,26 Feb 1955
-lost,home,England,5,9,0,6,23 Feb 1957
-draw,home,England,3,3,3,3,28 Feb 1959
-draw,home,England,5,5,-,-,25 Feb 1961
-lost,home,England,5,6,5,3,23 Feb 1963
-lost,home,England,6,9,3,3,27 Feb 1965
-won,home,England,16,12,13,9,25 Feb 1967
-lost,home,England,8,22,5,11,22 Feb 1969
-draw,home,England,14,14,6,14,27 Feb 1971
-lost,home,England,6,14,0,7,24 Feb 1973
-won,home,England,27,20,12,10,1 Feb 1975
-won,home,England,4,3,-,-,19 Feb 1977
-lost,home,England,6,7,0,3,3 Mar 1979
-won,home,England,16,12,16,0,21 Mar 1981
-won,home,England,19,15,3,9,15 Jan 1983
-draw,home,England,9,9,6,3,2 Feb 1985
-won,home,England,19,15,3,12,21 Feb 1987
-lost,home,England,0,11,0,4,4 Mar 1989
-lost,home,England,19,21,9,18,16 Mar 1991
-lost,home,England,15,16,12,13,16 Jan 1993
-lost,home,England,10,31,3,13,4 Feb 1995
-won,home,England,23,20,6,14,1 Mar 1997
-won,home,Wales,51,0,29,0,5 Apr 1998
-lost,home,England,10,21,0,9,20 Mar 1999
-won,home,New Zealand,43,31,10,17,31 Oct 1999
-lost,home,England,19,48,16,13,7 Apr 2001
-lost,home,England,17,25,7,12,15 Feb 2003
-lost,home,England,14,45,3,33,6 Sep 2003
-won,home,England,18,17,6,17,13 Feb 2005
-lost,home,England,18,26,12,9,11 Mar 2007
-won,home,England,21,15,11,12,11 Aug 2007
-lost,home,England,10,34,0,29,15 Mar 2009
-lost,home,England,9,17,9,9,26 Feb 2011
-lost,home,England,13,23,10,9,23 Feb 2013
-lost,home,England,35,55,15,27,21 Mar 2015
-lost,home,England,14,19,9,12,15 Aug 2015
-won,home,Italy,32,10,15,3,19 Sep 2015
-won,home,Romania,38,11,17,6,23 Sep 2015
-won,home,Canada,41,18,24,12,1 Oct 2015
-lost,home,England,16,19,9,9,4 Feb 2017
-lost,home,England,8,44,8,30,10 Feb 2019
-won,home,Fiji,34,9,10,9,27 Jun 1998
-lost,home,New Zealand,8,38,3,18,1 Jan 1906
-lost,home,England,8,35,0,22,22 Mar 1906
-lost,home,England,0,19,0,6,1 Jan 1908
-lost,home,Wales,5,47,0,9,23 Feb 1909
-lost,home,England,3,11,0,8,3 Mar 1910
-lost,home,Ireland,3,8,3,8,28 Mar 1910
-won,home,Scotland,16,15,11,8,2 Jan 1911
-lost,home,Wales,0,15,-,-,28 Feb 1911
-lost,home,Ireland,6,11,6,11,1 Jan 1912
-lost,home,England,8,18,0,14,8 Apr 1912
-lost,home,Scotland,3,21,3,8,1 Jan 1913
-lost,home,South Africa,5,38,5,11,11 Jan 1913
-lost,home,Wales,8,11,0,3,27 Feb 1913
-lost,home,Ireland,6,8,3,0,1 Jan 1914
-lost,home,England,13,39,8,13,13 Apr 1914
-lost,home,Scotland,0,5,-,-,1 Jan 1920
-lost,home,Wales,5,6,-,-,17 Feb 1920
-won,home,USA,14,5,6,5,10 Oct 1920
-lost,home,England,6,10,3,10,28 Mar 1921
-won,home,Ireland,20,10,5,5,9 Apr 1921
-draw,home,Scotland,3,3,3,3,2 Jan 1922
-lost,home,Wales,3,11,-,-,23 Mar 1922
-lost,home,England,3,12,3,3,2 Apr 1923
-won,home,Ireland,14,8,6,5,14 Apr 1923
-won,home,Scotland,12,10,6,3,1 Jan 1924
-lost,home,Wales,6,10,6,7,27 Mar 1924
-won,home,Romania,61,3,19,3,4 May 1924
-lost,home,USA,3,17,0,3,18 May 1924
-lost,home,Ireland,3,9,3,0,1 Jan 1925
-lost,home,New Zealand,6,30,0,17,18 Jan 1925
-lost,home,England,11,13,5,13,13 Apr 1925
-lost,home,Scotland,6,20,0,9,2 Jan 1926
-lost,home,Wales,5,7,5,0,5 Apr 1926
-lost,home,NZ Maori,3,12,3,3,26 Dec 1926
-lost,home,Ireland,3,8,0,3,1 Jan 1927
-won,home,England,3,0,3,0,2 Apr 1927
-won,home,Germany,30,5,16,0,17 Apr 1927
-lost,home,Scotland,6,15,3,9,2 Jan 1928
-lost,home,Australia,8,11,3,11,22 Jan 1928
-won,home,Wales,8,3,0,3,9 Apr 1928
-lost,home,Ireland,0,6,-,-,31 Dec 1928
-lost,home,England,6,16,3,8,1 Apr 1929
-won,home,Germany,24,0,8,0,28 Apr 1929
-won,home,Scotland,7,3,3,3,1 Jan 1930
-lost,home,Wales,0,11,0,3,21 Apr 1930
-won,home,Ireland,3,0,3,0,1 Jan 1931
-won,home,England,14,13,4,5,6 Apr 1931
-won,home,Germany,34,0,8,0,19 Apr 1931
-won,home,Germany,38,17,-,-,26 Mar 1933
-won,home,Germany,18,3,-,-,24 Mar 1935
-won,home,Germany,27,6,11,3,18 Apr 1937
-won,home,Italy,43,5,17,5,17 Oct 1937
-lost,home,British Army,3,36,-,-,25 Feb 1940
-won,home,British Army,21,9,-,-,1 Jan 1945
-lost,home,Kiwis,9,14,3,8,10 Mar 1946
-won,home,Wales XV,12,0,3,0,22 Apr 1946
-won,home,Scotland,8,3,8,3,1 Jan 1947
-lost,home,Wales,0,3,0,3,22 Mar 1947
-lost,home,Ireland,6,13,0,10,1 Jan 1948
-won,home,Australia,13,6,13,3,11 Jan 1948
-won,home,England,15,0,3,0,29 Mar 1948
-lost,home,Scotland,0,8,0,3,15 Jan 1949
-won,home,Wales,5,3,0,3,26 Mar 1949
-draw,home,Ireland,3,3,3,0,28 Jan 1950
-won,home,England,6,3,3,3,25 Feb 1950
-won,home,Scotland,14,12,6,6,13 Jan 1951
-won,home,Wales,8,3,0,3,7 Apr 1951
-lost,home,Ireland,8,11,0,6,26 Jan 1952
-lost,home,South Africa,3,25,3,6,16 Feb 1952
-lost,home,England,3,6,3,0,5 Apr 1952
-won,home,Scotland,11,5,6,5,10 Jan 1953
-lost,home,Wales,3,6,0,3,28 Mar 1953
-won,home,Italy,22,8,11,3,26 Apr 1953
-won,home,Ireland,8,0,-,-,23 Jan 1954
-won,home,New Zealand,3,0,3,0,27 Feb 1954
-won,home,England,11,3,3,3,10 Apr 1954
-won,home,Scotland,15,0,9,0,8 Jan 1955
-lost,home,Wales,11,16,0,11,26 Mar 1955
-won,home,Italy,24,0,14,0,10 Apr 1955
-won,home,Ireland,14,8,3,0,28 Jan 1956
-won,home,England,14,9,6,6,14 Apr 1956
-won,home,Czech Rep,28,3,17,0,16 Dec 1956
-lost,home,Scotland,0,6,-,-,12 Jan 1957
-lost,home,Wales,13,19,3,8,23 Mar 1957
-won,home,Italy,38,6,10,6,21 Apr 1957
-won,home,Romania,39,0,16,0,15 Dec 1957
-lost,home,England,0,14,0,11,1 Mar 1958
-won,home,Australia,19,0,-,-,9 Mar 1958
-won,home,Ireland,11,6,3,3,19 Apr 1958
-won,home,Scotland,9,0,6,0,10 Jan 1959
-won,home,Italy,22,0,14,0,29 Mar 1959
-won,home,Wales,11,3,8,3,4 Apr 1959
-draw,home,England,3,3,3,3,27 Feb 1960
-won,home,Ireland,23,6,12,3,9 Apr 1960
-won,home,Scotland,11,0,-,-,7 Jan 1961
-draw,home,South Africa,0,0,-,-,18 Feb 1961
-won,home,Wales,8,6,3,3,25 Mar 1961
-won,home,Italy,17,0,6,0,2 Apr 1961
-draw,home,Romania,5,5,-,-,12 Nov 1961
-won,home,England,13,0,5,0,24 Feb 1962
-won,home,Ireland,11,0,5,0,14 Apr 1962
-lost,home,Scotland,6,11,6,0,12 Jan 1963
-won,home,Wales,5,3,0,3,23 Mar 1963
-won,home,Italy,14,12,6,3,14 Apr 1963
-draw,home,Romania,6,6,3,3,15 Dec 1963
-lost,home,New Zealand,3,12,3,6,8 Feb 1964
-lost,home,England,3,6,3,3,22 Feb 1964
-won,home,Ireland,27,6,14,3,11 Apr 1964
-won,home,Fiji,21,3,13,0,17 Oct 1964
-won,home,Scotland,16,8,5,5,9 Jan 1965
-won,home,Wales,22,13,19,0,27 Mar 1965
-won,home,Italy,21,0,10,0,18 Apr 1965
-won,home,Romania,8,3,5,0,28 Nov 1965
-won,home,Ireland,11,6,3,3,29 Jan 1966
-won,home,England,13,0,5,0,26 Feb 1966
-lost,home,Scotland,8,9,3,6,14 Jan 1967
-won,home,Australia,20,14,8,5,11 Feb 1967
-won,home,Italy,60,13,34,3,26 Mar 1967
-won,home,Wales,20,14,9,6,1 Apr 1967
-lost,home,New Zealand,15,21,9,11,25 Nov 1967
-won,home,Romania,11,3,6,3,10 Dec 1967
-won,home,Ireland,16,6,8,6,27 Jan 1968
-won,home,England,14,9,3,6,24 Feb 1968
-lost,home,South Africa,9,12,3,9,9 Nov 1968
-lost,home,South Africa,11,16,6,3,16 Nov 1968
-lost,home,Scotland,3,6,0,3,11 Jan 1969
-draw,home,Wales,8,8,0,8,22 Mar 1969
-won,home,Romania,14,9,6,3,14 Dec 1969
-won,home,Ireland,8,0,-,-,24 Jan 1970
-won,home,England,35,13,14,0,18 Apr 1970
-won,home,Scotland,13,8,3,3,16 Jan 1971
-lost,home,Wales,5,9,5,3,27 Mar 1971
-lost,home,Australia,11,13,11,6,20 Nov 1971
-won,home,Australia,18,9,12,6,27 Nov 1971
-won,home,Romania,31,12,9,9,11 Dec 1971
-lost,home,Ireland,9,14,3,11,29 Jan 1972
-won,home,England,37,12,15,6,26 Feb 1972
-won,home,Scotland,16,13,10,6,13 Jan 1973
-won,home,New Zealand,13,6,10,3,10 Feb 1973
-won,home,Wales,12,3,9,0,24 Mar 1973
-won,home,Japan,30,18,10,7,27 Oct 1973
-won,home,Romania,7,6,3,0,11 Nov 1973
-won,home,Ireland,9,6,0,3,19 Jan 1974
-draw,home,England,12,12,6,0,2 Mar 1974
-lost,home,South Africa,4,13,0,7,23 Nov 1974
-lost,home,South Africa,8,10,4,3,30 Nov 1974
-lost,home,Wales,10,25,7,17,18 Jan 1975
-won,home,Scotland,10,9,3,3,15 Feb 1975
-won,home,Argentina,29,6,11,6,19 Oct 1975
-won,home,Argentina,36,21,26,12,25 Oct 1975
-won,home,Romania,36,12,13,3,23 Nov 1975
-won,home,Ireland,26,3,6,0,7 Feb 1976
-won,home,England,30,9,10,3,20 Mar 1976
-won,home,Australia,18,15,12,9,24 Oct 1976
-won,home,Australia,34,6,13,3,30 Oct 1976
-won,home,Wales,16,9,3,3,5 Feb 1977
-won,home,Scotland,23,3,9,3,5 Mar 1977
-won,home,New Zealand,18,13,6,10,11 Nov 1977
-lost,home,New Zealand,3,15,3,9,19 Nov 1977
-won,home,Romania,9,6,6,0,10 Dec 1977
-won,home,England,15,6,3,6,21 Jan 1978
-won,home,Ireland,10,9,10,6,18 Feb 1978
-won,home,Wales,14,13,7,7,17 Feb 1979
-won,home,Scotland,21,17,10,10,17 Mar 1979
-won,home,Romania,30,12,3,9,2 Dec 1979
-lost,home,England,13,17,7,14,2 Feb 1980
-won,home,Ireland,19,18,3,9,1 Mar 1980
-won,home,Scotland,16,9,16,3,17 Jan 1981
-won,home,Wales,19,15,9,9,7 Mar 1981
-won,home,Romania,17,9,14,6,1 Nov 1981
-lost,home,New Zealand,9,13,6,10,14 Nov 1981
-lost,home,New Zealand,6,18,3,9,21 Nov 1981
-lost,home,England,15,27,6,12,20 Feb 1982
-won,home,Ireland,22,9,3,6,20 Mar 1982
-won,home,Argentina,25,12,4,9,14 Nov 1982
-won,home,Argentina,13,6,0,3,20 Nov 1982
-won,home,Scotland,19,15,15,15,5 Feb 1983
-won,home,Wales,16,9,6,6,19 Mar 1983
-draw,home,Australia,15,15,9,6,13 Nov 1983
-won,home,Australia,15,6,6,3,19 Nov 1983
-won,home,Romania,26,15,19,9,4 Dec 1983
-won,home,Ireland,25,12,16,9,21 Jan 1984
-won,home,England,32,18,9,6,3 Mar 1984
-won,home,Scotland,11,3,11,3,16 Feb 1985
-won,home,Wales,14,3,7,3,30 Mar 1985
-won,home,Ireland,29,9,9,6,1 Feb 1986
-won,home,England,29,10,10,0,15 Mar 1986
-won,home,Romania,25,13,11,9,12 Apr 1986
-lost,home,New Zealand,7,19,3,6,8 Nov 1986
-won,home,New Zealand,16,3,3,3,15 Nov 1986
-won,home,Wales,16,9,3,9,7 Feb 1987
-won,home,Scotland,28,22,18,7,7 Mar 1987
-won,home,Romania,49,3,15,3,11 Nov 1987
-won,home,England,10,9,3,3,16 Jan 1988
-won,home,Ireland,25,6,7,0,20 Feb 1988
-won,home,Argentina,29,9,10,3,5 Nov 1988
-won,home,Argentina,28,18,13,9,11 Nov 1988
-won,home,Wales,31,12,16,6,18 Feb 1989
-won,home,Scotland,19,3,6,3,18 Mar 1989
-lost,home,Lions XV,27,29,9,16,4 Oct 1989
-lost,home,Australia,15,32,12,10,4 Nov 1989
-won,home,Australia,25,19,6,13,11 Nov 1989
-lost,home,England,7,26,0,13,3 Feb 1990
-won,home,Ireland,31,12,12,6,3 Mar 1990
-lost,home,Romania,6,12,0,9,24 May 1990
-lost,home,New Zealand,3,24,3,18,3 Nov 1990
-lost,home,New Zealand,12,30,6,15,10 Nov 1990
-won,home,Scotland,15,9,9,3,19 Jan 1991
-won,home,Wales,36,3,14,3,2 Mar 1991
-won,home,Romania,30,3,6,0,4 Oct 1991
-won,home,Fiji,33,9,19,3,8 Oct 1991
-won,home,Canada,19,13,9,7,13 Oct 1991
-lost,home,England,10,19,6,10,19 Oct 1991
-lost,home,England,13,31,4,15,15 Feb 1992
-won,home,Ireland,44,12,18,6,21 Mar 1992
-won,home,Romania,25,6,9,0,28 May 1992
-lost,home,South Africa,15,20,0,13,17 Oct 1992
-won,home,South Africa,29,16,6,6,24 Oct 1992
-lost,home,Argentina,20,24,15,12,14 Nov 1992
-won,home,Scotland,11,3,3,3,6 Feb 1993
-won,home,Wales,26,10,16,3,20 Mar 1993
-won,home,Romania,51,0,16,0,17 Oct 1993
-won,home,Australia,16,13,13,10,30 Oct 1993
-lost,home,Australia,3,24,3,13,6 Nov 1993
-won,home,Ireland,35,15,16,12,15 Jan 1994
-lost,home,England,14,18,0,9,5 Mar 1994
-won,home,Canada,28,9,8,6,17 Dec 1994
-won,home,Wales,21,9,15,6,21 Jan 1995
-lost,home,Scotland,21,23,5,13,18 Feb 1995
-won,home,New Zealand,22,15,17,3,11 Nov 1995
-lost,home,New Zealand,12,37,5,20,18 Nov 1995
-won,home,England,15,12,3,6,20 Jan 1996
-won,home,Ireland,45,10,24,3,17 Feb 1996
-won,home,Romania,64,12,26,12,20 Apr 1996
-lost,home,South Africa,12,22,6,19,30 Nov 1996
-lost,home,South Africa,12,13,3,10,7 Dec 1996
-won,home,Wales,27,22,20,10,15 Feb 1997
-won,home,Scotland,47,20,26,13,15 Mar 1997
-lost,home,Italy,32,40,13,20,22 Mar 1997
-won,home,Italy,30,19,17,9,18 Oct 1997
-won,home,Romania,39,3,27,3,22 Oct 1997
-won,home,Argentina,32,27,5,7,26 Oct 1997
-lost,home,South Africa,32,36,9,19,15 Nov 1997
-lost,home,South Africa,10,52,3,28,22 Nov 1997
-won,home,England,24,17,15,3,7 Feb 1998
-won,home,Ireland,18,16,6,13,7 Mar 1998
-won,home,Argentina,34,14,17,8,14 Nov 1998
-lost,home,Australia,21,32,21,20,21 Nov 1998
-lost,home,Wales,33,34,18,28,6 Mar 1999
-lost,home,Scotland,22,36,22,33,10 Apr 1999
-won,home,Romania,62,8,29,3,3 Jun 1999
-won,home,Canada,33,20,18,10,2 Oct 1999
-won,home,Namibia,47,13,23,13,8 Oct 1999
-won,home,Fiji,28,19,13,3,16 Oct 1999
-lost,home,England,9,15,0,9,19 Feb 2000
-lost,home,Ireland,25,27,13,7,19 Mar 2000
-won,home,Italy,42,31,20,17,1 Apr 2000
-lost,home,Australia,13,18,3,9,4 Nov 2000
-lost,home,New Zealand,26,39,12,15,11 Nov 2000
-won,home,New Zealand,42,33,26,24,18 Nov 2000
-won,home,Scotland,16,6,6,6,4 Feb 2001
-lost,home,Wales,35,43,19,16,17 Mar 2001
-won,home,South Africa,20,10,9,3,10 Nov 2001
-won,home,Australia,14,13,11,3,17 Nov 2001
-won,home,Fiji,77,10,29,0,24 Nov 2001
-won,home,Italy,33,12,19,12,2 Feb 2002
-won,home,England,20,15,17,7,2 Mar 2002
-won,home,Ireland,44,5,28,5,6 Apr 2002
-won,home,South Africa,30,10,12,3,9 Nov 2002
-draw,home,New Zealand,20,20,10,10,16 Nov 2002
-won,home,Canada,35,3,13,0,23 Nov 2002
-won,home,Scotland,38,3,17,3,23 Feb 2003
-won,home,Wales,33,5,10,5,29 Mar 2003
-won,home,Romania,56,8,35,5,22 Aug 2003
-won,home,England,17,16,14,13,30 Aug 2003
-won,home,Ireland,35,17,11,3,14 Feb 2004
-won,home,Italy,25,0,10,0,21 Feb 2004
-won,home,England,24,21,21,3,27 Mar 2004
-won,home,Australia,27,14,12,11,13 Nov 2004
-lost,home,Argentina,14,24,5,19,20 Nov 2004
-lost,home,New Zealand,6,45,6,19,27 Nov 2004
-won,home,Scotland,16,9,0,6,5 Feb 2005
-lost,home,Wales,18,24,15,6,26 Feb 2005
-won,home,Australia,26,16,10,9,5 Nov 2005
-won,home,Canada,50,6,25,3,12 Nov 2005
-won,home,Tonga,43,8,12,8,19 Nov 2005
-won,home,South Africa,26,20,15,3,26 Nov 2005
-won,home,Ireland,43,31,29,3,11 Feb 2006
-won,home,Italy,37,12,8,12,25 Feb 2006
-won,home,England,31,6,16,3,12 Mar 2006
-lost,home,New Zealand,3,47,3,23,11 Nov 2006
-lost,home,New Zealand,11,23,5,16,18 Nov 2006
-won,home,Argentina,27,26,17,9,25 Nov 2006
-won,home,Wales,32,21,23,14,24 Feb 2007
-won,home,Scotland,46,19,20,14,17 Mar 2007
-won,home,England,22,9,12,3,18 Aug 2007
-lost,home,Argentina,12,17,9,17,7 Sep 2007
-won,home,Namibia,87,10,40,3,16 Sep 2007
-won,home,Ireland,25,3,12,3,21 Sep 2007
-won,home,Georgia,64,7,30,0,30 Sep 2007
-lost,home,England,9,14,6,5,13 Oct 2007
-lost,home,Argentina,10,34,3,17,19 Oct 2007
-won,home,Ireland,26,21,19,6,9 Feb 2008
-lost,home,England,13,24,7,13,23 Feb 2008
-won,home,Italy,25,13,13,6,9 Mar 2008
-won,home,Argentina,12,6,9,6,8 Nov 2008
-won,home,Pacific Is,42,17,17,12,15 Nov 2008
-lost,home,Australia,13,18,7,10,22 Nov 2008
-won,home,Scotland,22,13,6,3,14 Feb 2009
-won,home,Wales,21,16,13,13,27 Feb 2009
-won,home,South Africa,20,13,11,13,13 Nov 2009
-won,home,Samoa,43,5,33,0,21 Nov 2009
-lost,home,New Zealand,12,39,12,22,28 Nov 2009
-won,home,Ireland,33,10,17,3,13 Feb 2010
-won,home,Italy,46,20,22,3,14 Mar 2010
-won,home,England,12,10,12,7,20 Mar 2010
-won,home,Fiji,34,12,16,6,13 Nov 2010
-won,home,Argentina,15,9,9,3,20 Nov 2010
-lost,home,Australia,16,59,13,13,27 Nov 2010
-won,home,Scotland,34,21,17,7,5 Feb 2011
-won,home,Wales,28,9,11,3,19 Mar 2011
-won,home,Ireland,19,12,13,3,13 Aug 2011
-won,home,Italy,30,12,15,6,4 Feb 2012
-draw,home,Ireland,17,17,6,17,4 Mar 2012
-lost,home,England,22,24,9,14,11 Mar 2012
-won,home,Australia,33,6,16,6,10 Nov 2012
-won,home,Argentina,39,22,24,13,17 Nov 2012
-won,home,Samoa,22,14,10,7,24 Nov 2012
-lost,home,Wales,6,16,3,3,9 Feb 2013
-won,home,Scotland,23,16,0,6,16 Mar 2013
-lost,home,New Zealand,19,26,9,9,9 Nov 2013
-won,home,Tonga,38,18,21,6,16 Nov 2013
-lost,home,South Africa,10,19,7,13,23 Nov 2013
-won,home,England,26,24,16,8,1 Feb 2014
-won,home,Italy,30,10,9,3,9 Feb 2014
-lost,home,Ireland,20,22,13,12,15 Mar 2014
-won,home,Fiji,40,15,14,0,8 Nov 2014
-won,home,Australia,29,26,17,16,15 Nov 2014
-lost,home,Argentina,13,18,3,15,22 Nov 2014
-won,home,Scotland,15,8,9,8,7 Feb 2015
-lost,home,Wales,13,20,3,6,28 Feb 2015
-won,home,England,25,20,15,6,22 Aug 2015
-won,home,Scotland,19,16,6,9,5 Sep 2015
-won,home,Italy,23,21,10,8,6 Feb 2016
-won,home,Ireland,10,9,3,9,13 Feb 2016
-lost,home,England,21,31,12,17,19 Mar 2016
-won,home,Samoa,52,8,26,3,12 Nov 2016
-lost,home,Australia,23,25,11,13,19 Nov 2016
-lost,home,New Zealand,19,24,6,10,26 Nov 2016
-won,home,Scotland,22,16,13,11,12 Feb 2017
-won,home,Wales,20,18,10,9,18 Mar 2017
-lost,home,New Zealand,18,38,5,31,11 Nov 2017
-lost,home,South Africa,17,18,7,8,18 Nov 2017
-draw,home,Japan,23,23,13,8,25 Nov 2017
-lost,home,Ireland,13,15,3,9,3 Feb 2018
-won,home,Italy,34,17,11,7,23 Feb 2018
-won,home,England,22,16,9,9,10 Mar 2018
-lost,home,South Africa,26,29,16,9,10 Nov 2018
-won,home,Argentina,28,13,11,10,17 Nov 2018
-lost,home,Fiji,14,21,14,12,24 Nov 2018
-lost,home,Wales,19,24,16,0,1 Feb 2019
-won,home,Scotland,27,10,10,3,23 Feb 2019
-won,home,Scotland,32,3,20,3,17 Aug 2019
-won,home,Italy,47,19,19,7,30 Aug 2019
-lost,home,Germany,16,17,5,0,15 May 1927
-won,home,Germany,14,3,3,3,18 Mar 1928
-won,home,Germany,31,0,-,-,6 Apr 1930
-won,home,Germany,20,4,14,4,17 Apr 1932
-won,home,Germany,13,9,-,-,25 Mar 1934
-won,home,Germany,19,14,8,9,17 May 1936
-won,home,Germany,6,3,-,-,1 Nov 1936
-lost,home,Germany,0,3,-,-,27 Mar 1938
-lost,home,Ireland,8,19,0,8,20 Mar 1909
-lost,home,Ireland,5,25,5,0,25 Mar 1911
-lost,home,Ireland,0,24,0,8,24 Mar 1913
-won,home,Ireland,15,7,9,0,3 Apr 1920
-lost,home,Ireland,3,8,0,5,8 Apr 1922
-lost,home,Ireland,0,6,0,3,26 Jan 1924
-lost,home,Ireland,0,11,0,8,23 Jan 1926
-lost,home,Ireland,8,12,8,6,28 Jan 1928
-won,home,Ireland,5,0,-,-,25 Jan 1930
-won,home,Ireland XV,4,3,-,-,26 Jan 1946
-won,home,Ireland,12,8,3,8,25 Jan 1947
-won,home,Ireland,16,9,8,6,29 Jan 1949
-lost,home,Ireland,8,9,3,3,27 Jan 1951
-lost,home,Ireland,3,16,0,5,24 Jan 1953
-won,home,Ireland,5,3,5,0,22 Jan 1955
-lost,home,Ireland,6,11,3,8,26 Jan 1957
-lost,home,Ireland,5,9,0,6,18 Apr 1959
-won,home,Ireland,15,3,3,3,15 Apr 1961
-won,home,Ireland,24,5,6,5,26 Jan 1963
-draw,home,Ireland,3,3,-,-,23 Jan 1965
-won,home,Ireland,11,6,5,3,15 Apr 1967
-lost,home,Ireland,9,17,6,11,25 Jan 1969
-draw,home,Ireland,9,9,3,0,30 Jan 1971
-lost,home,Ireland,14,24,4,15,29 Apr 1972
-lost,home,Ireland,4,6,0,3,14 Apr 1973
-lost,home,Ireland,6,25,6,10,1 Mar 1975
-won,home,Ireland,15,6,3,6,19 Mar 1977
-draw,home,Ireland,9,9,3,6,20 Jan 1979
-won,home,Ireland,19,13,12,9,7 Feb 1981
-lost,home,Ireland,16,22,3,15,19 Feb 1983
-draw,home,Ireland,15,15,9,12,2 Mar 1985
-won,home,Ireland,19,13,3,10,21 Mar 1987
-won,home,Ireland,26,21,7,18,21 Jan 1989
-won,home,Ireland,21,13,6,10,2 Feb 1991
-won,home,Ireland,21,6,6,6,20 Feb 1993
-won,home,Ireland,25,7,3,0,4 Mar 1995
-won,home,Ireland,32,15,12,12,18 Jan 1997
-won,home,Ireland,10,9,0,6,6 Feb 1999
-won,home,Argentina,47,26,27,20,24 Oct 1999
-lost,home,Ireland,15,22,3,9,17 Feb 2001
-lost,home,Ireland,12,15,3,12,8 Mar 2003
-won,home,Ireland,26,19,18,9,12 Mar 2005
-won,home,Ireland,20,17,13,11,11 Feb 2007
-lost,home,Ireland,21,30,10,13,7 Feb 2009
-won,home,Ireland,25,22,12,15,13 Feb 2011
-won,home,Ireland,26,22,16,8,20 Aug 2011
-draw,home,Ireland,13,13,3,13,9 Mar 2013
-lost,home,Ireland,11,18,6,12,14 Feb 2015
-lost,home,Ireland,9,19,6,7,25 Feb 2017
-lost,home,Ireland,14,26,0,19,10 Mar 2019
-won,home,Italy,17,8,3,5,17 May 1952
-won,home,Italy,39,12,16,6,24 Apr 1954
-won,home,Italy,16,3,3,3,2 Apr 1956
-won,home,Italy,11,3,8,3,7 Apr 1958
-won,home,Italy,26,0,18,0,17 Apr 1960
-won,home,Italy,6,3,6,3,22 Apr 1962
-won,home,Italy,12,3,6,0,29 Mar 1964
-won,home,Italy,21,0,11,0,9 Apr 1966
-won,home,Italy,30,19,14,9,3 Mar 2001
-won,home,Italy,53,27,41,10,23 Mar 2003
-won,home,Italy,56,13,24,10,19 Mar 2005
-won,home,Italy,39,3,22,3,3 Feb 2007
-won,home,Italy,50,8,25,3,21 Mar 2009
-lost,home,Italy,21,22,8,6,12 Mar 2011
-lost,home,Italy,18,23,15,13,3 Feb 2013
-won,home,Italy,29,0,9,0,15 Mar 2015
-won,home,Italy,40,18,16,11,11 Mar 2017
-won,home,Italy,25,14,10,6,16 Mar 2019
-won,home,Argentina,23,21,20,3,21 Sep 2019
-won,home,USA,33,9,12,6,2 Oct 2019
-won,home,Tonga,23,21,17,7,6 Oct 2019
-lost,home,Wales,19,20,19,10,20 Oct 2019
-lost,home,New Zealand,6,13,6,5,22 Jul 1961
-lost,home,New Zealand,3,5,-,-,5 Aug 1961
-lost,home,New Zealand,3,32,3,13,19 Aug 1961
-lost,home,New Zealand,9,12,3,3,13 Jul 1968
-lost,home,New Zealand,3,9,3,0,27 Jul 1968
-lost,home,New Zealand,12,19,0,16,10 Aug 1968
-lost,home,New Zealand,9,23,3,10,7 Jul 1979
-won,home,New Zealand,24,19,11,7,14 Jul 1979
-lost,home,New Zealand,9,10,3,3,16 Jun 1984
-lost,home,New Zealand,18,31,6,16,23 Jun 1984
-lost,home,New Zealand,9,18,6,12,28 Jun 1986
-draw,home,Scotland,20,20,6,13,23 May 1987
-won,home,Romania,55,12,12,12,28 May 1987
-won,home,Zimbabwe,70,12,22,3,2 Jun 1987
-won,home,Fiji,31,16,22,7,7 Jun 1987
-lost,home,New Zealand,9,29,0,9,20 Jun 1987
-lost,home,New Zealand,17,25,0,18,17 Jun 1989
-lost,home,New Zealand,20,34,13,16,1 Jul 1989
-won,home,New Zealand,22,8,9,3,26 Jun 1994
-won,home,New Zealand,23,20,13,9,3 Jul 1994
-lost,home,New Zealand,7,54,0,30,26 Jun 1999
-lost,home,New Zealand,12,37,6,17,30 Jun 2001
-lost,home,New Zealand,23,31,13,19,28 Jun 2003
-lost,home,New Zealand,11,42,3,20,2 Jun 2007
-lost,home,New Zealand,10,61,3,30,9 Jun 2007
-won,home,New Zealand,27,22,17,11,13 Jun 2009
-lost,home,New Zealand,10,14,0,8,20 Jun 2009
-won,home,Japan,47,21,25,11,10 Sep 2011
-won,home,Canada,46,19,19,10,18 Sep 2011
-lost,home,New Zealand,17,37,3,19,24 Sep 2011
-lost,home,Tonga,14,19,6,13,1 Oct 2011
-won,home,England,19,12,16,0,8 Oct 2011
-won,home,Wales,9,8,6,3,15 Oct 2011
-lost,home,New Zealand,7,8,0,5,23 Oct 2011
-lost,home,New Zealand,13,23,10,17,8 Jun 2013
-lost,home,New Zealand,0,30,0,10,15 Jun 2013
-lost,home,New Zealand,9,24,6,8,22 Jun 2013
-lost,home,New Zealand,11,52,11,8,9 Jun 2018
-lost,home,New Zealand,13,26,6,21,16 Jun 2018
-lost,home,New Zealand,14,49,14,21,23 Jun 2018
-won,home,Romania,11,8,11,0,15 May 1938
-won,home,Germany,8,5,3,5,22 May 1938
-won,home,Romania,18,15,6,9,19 May 1957
-lost,home,Romania,5,11,0,5,5 Jun 1960
-lost,home,Romania,0,3,-,-,11 Nov 1962
-won,home,Romania,9,6,3,3,29 Nov 1964
-won,home,Romania,9,3,3,3,27 Nov 1966
-lost,home,Romania,14,15,8,12,1 Dec 1968
-won,home,Romania,14,3,6,3,29 Nov 1970
-won,home,Romania,15,6,15,0,26 Nov 1972
-lost,home,Romania,10,15,6,3,13 Oct 1974
-lost,home,Romania,12,15,9,0,14 Nov 1976
-won,home,Romania,9,6,9,0,3 Dec 1978
-lost,home,Romania,0,15,-,-,23 Nov 1980
-lost,home,Romania,9,13,6,3,31 Oct 1982
-won,home,Romania,18,3,6,0,10 Nov 1984
-won,home,Romania,20,3,14,0,23 Oct 1986
-won,home,Romania,16,12,6,3,26 Nov 1988
-won,home,Romania,33,21,18,18,22 Jun 1991
-won,home,Romania,37,20,16,3,20 May 1993
-won,home,Romania,24,15,6,12,8 Apr 1995
-won,home,Romania,51,20,29,10,1 Jun 1997
-won,home,Romania,67,20,29,8,28 May 2000
-won,home,Romania,62,14,31,6,17 Jun 2006
-won,home,Samoa,39,22,12,16,12 Jun 1999
-lost,home,Scotland,0,27,0,11,22 Jan 1910
-lost,home,Scotland,3,31,3,13,20 Jan 1912
-won,home,Scotland,3,0,3,0,22 Jan 1921
-lost,home,Scotland,3,16,0,5,20 Jan 1923
-lost,home,Scotland,4,25,4,5,24 Jan 1925
-lost,home,Scotland,6,23,3,20,22 Jan 1927
-lost,home,Scotland,3,6,3,6,19 Jan 1929
-lost,home,Scotland,4,6,0,6,24 Jan 1931
-lost,home,Scotland,8,9,8,3,24 Jan 1948
-lost,home,Scotland,5,8,0,8,14 Jan 1950
-won,home,Scotland,13,11,8,3,12 Jan 1952
-won,home,Scotland,3,0,-,-,9 Jan 1954
-lost,home,Scotland,0,12,0,6,14 Jan 1956
-lost,home,Scotland,9,11,6,8,11 Jan 1958
-won,home,Scotland,13,11,5,0,9 Jan 1960
-won,home,Scotland,11,3,3,3,13 Jan 1962
-lost,home,Scotland,0,10,0,5,4 Jan 1964
-draw,home,Scotland,3,3,3,3,15 Jan 1966
-won,home,Scotland,8,6,3,3,13 Jan 1968
-won,home,Scotland,11,9,11,6,10 Jan 1970
-lost,home,Scotland,9,20,0,10,15 Jan 1972
-lost,home,Scotland,6,19,3,9,16 Mar 1974
-won,home,Scotland,13,6,7,3,10 Jan 1976
-won,home,Scotland,19,16,4,13,4 Feb 1978
-lost,home,Scotland,14,22,7,4,16 Feb 1980
-lost,home,Scotland,7,16,7,3,6 Mar 1982
-lost,home,Scotland,12,21,6,3,17 Mar 1984
-lost,home,Scotland,17,18,7,12,18 Jan 1986
-lost,home,Scotland,12,23,6,11,6 Feb 1988
-lost,home,Scotland,0,21,0,3,17 Feb 1990
-lost,home,Scotland,6,10,3,4,7 Mar 1992
-won,home,Scotland,20,12,13,9,19 Mar 1994
-lost,home,Scotland,14,19,8,11,3 Feb 1996
-won,home,Scotland,51,16,22,9,21 Feb 1998
-won,home,Scotland,28,16,10,6,4 Mar 2000
-won,home,Scotland,22,10,10,3,23 Mar 2002
-won,home,Scotland,31,0,11,0,21 Mar 2004
-lost,home,Scotland,16,20,3,13,5 Feb 2006
-won,home,Scotland,27,6,17,6,3 Feb 2008
-won,home,Scotland,18,9,15,6,7 Feb 2010
-won,home,Scotland,23,17,10,10,26 Feb 2012
-won,home,Scotland,19,17,9,14,8 Mar 2014
-lost,home,Scotland,18,29,12,18,13 Mar 2016
-lost,home,Scotland,26,32,20,14,11 Feb 2018
-lost,home,Scotland,14,17,14,10,24 Aug 2019
-draw,home,South Africa,3,3,3,0,26 Jul 1958
-won,home,South Africa,9,5,3,5,16 Aug 1958
-won,home,South Africa,8,6,8,3,25 Jul 1964
-lost,home,South Africa,3,26,3,18,15 Jul 1967
-lost,home,South Africa,3,16,0,3,22 Jul 1967
-won,home,South Africa,19,14,8,6,29 Jul 1967
-draw,home,South Africa,6,6,3,0,12 Aug 1967
-lost,home,South Africa,9,22,3,6,12 Jun 1971
-draw,home,South Africa,8,8,3,0,19 Jun 1971
-lost,home,South Africa,25,38,3,21,21 Jun 1975
-lost,home,South Africa,18,33,15,18,28 Jun 1975
-lost,home,South Africa,15,37,0,13,8 Nov 1980
-draw,home,South Africa,20,20,14,11,26 Jun 1993
-won,home,South Africa,18,17,9,8,3 Jul 1993
-won,home,Tonga,38,10,6,0,26 May 1995
-won,home,Cote d'Iv,54,18,28,3,30 May 1995
-won,home,Scotland,22,19,3,13,3 Jun 1995
-won,home,Ireland,36,12,15,12,10 Jun 1995
-lost,home,South Africa,15,19,6,10,17 Jun 1995
-won,home,England,19,9,3,3,22 Jun 1995
-won,home,South Africa,32,23,16,11,16 Jun 2001
-lost,home,South Africa,15,20,15,14,23 Jun 2001
-draw,home,South Africa,30,30,13,13,18 Jun 2005
-lost,home,South Africa,13,27,6,20,25 Jun 2005
-won,home,South Africa,36,26,11,12,24 Jun 2006
-lost,home,South Africa,17,42,10,25,12 Jun 2010
-lost,home,South Africa,14,37,7,16,10 Jun 2017
-lost,home,South Africa,15,37,7,23,17 Jun 2017
-lost,home,South Africa,12,35,9,16,24 Jun 2017
-lost,home,Tonga,16,20,6,15,16 Jun 1999
-won,home,USA,33,14,15,10,12 Jun 1976
-won,home,USA,41,9,21,3,13 Jul 1991
-won,home,USA,10,3,10,3,20 Jul 1991
-won,home,USA,39,31,17,21,3 Jul 2004
-lost,home,Wales,4,36,4,17,2 Mar 1908
-lost,home,Wales,14,49,14,21,1 Jan 1910
-lost,home,Wales,8,14,8,6,25 Mar 1912
-lost,home,Wales,0,31,0,13,2 Mar 1914
-lost,home,Wales,4,12,0,12,26 Feb 1921
-lost,home,Wales,8,16,3,5,24 Feb 1923
-lost,home,Wales,5,11,0,3,28 Feb 1925
-lost,home,Wales,7,25,3,12,26 Feb 1927
-lost,home,Wales,3,8,0,5,23 Feb 1929
-lost,home,Wales,3,35,0,8,28 Feb 1931
-lost,home,Wales XV,0,8,-,-,22 Dec 1945
-won,home,Wales,11,3,5,0,21 Feb 1948
-lost,home,Wales,0,21,0,5,25 Mar 1950
-lost,home,Wales,5,9,5,3,22 Mar 1952
-lost,home,Wales,13,19,5,5,27 Mar 1954
-lost,home,Wales,3,5,-,-,24 Mar 1956
-won,home,Wales,16,6,3,3,29 Mar 1958
-won,home,Wales,16,8,5,3,26 Mar 1960
-lost,home,Wales,0,3,0,3,24 Mar 1962
-draw,home,Wales,11,11,11,3,21 Mar 1964
-lost,home,Wales,8,9,8,6,26 Mar 1966
-won,home,Wales,14,9,3,9,23 Mar 1968
-lost,home,Wales,6,11,3,6,4 Apr 1970
-lost,home,Wales,6,20,6,9,25 Mar 1972
-draw,home,Wales,16,16,13,13,16 Feb 1974
-lost,home,Wales,13,19,9,13,6 Mar 1976
-lost,home,Wales,7,16,7,13,18 Mar 1978
-lost,home,Wales,9,18,3,4,19 Jan 1980
-lost,home,Wales,12,22,9,6,6 Feb 1982
-won,home,Wales,21,16,12,3,18 Feb 1984
-won,home,Wales,23,15,11,9,1 Mar 1986
-won,home,Wales,10,9,3,3,19 Mar 1988
-won,home,Wales,29,19,9,13,20 Jan 1990
-won,home,Wales,22,9,7,3,4 Sep 1991
-won,home,Wales,12,9,12,0,1 Feb 1992
-lost,home,Wales,15,24,3,11,19 Feb 1994
-lost,home,Wales,15,16,5,10,16 Mar 1996
-won,home,Wales,40,33,10,27,25 Sep 1996
-lost,home,Wales,23,34,6,12,28 Aug 1999
-lost,home,Australia,12,35,6,12,6 Nov 1999
-won,home,Wales,36,3,9,3,5 Feb 2000
-won,home,Wales,37,33,24,19,16 Feb 2002
-won,home,Wales,29,22,13,12,7 Mar 2004
-won,home,Wales,21,16,6,13,18 Mar 2006
-won,home,Wales,34,7,17,7,26 Aug 2007
-won,home,New Zealand,20,18,3,13,6 Oct 2007
-lost,home,Wales,12,29,6,9,15 Mar 2008
-won,home,Wales,26,20,20,0,26 Feb 2010
-lost,home,Wales,9,16,3,10,17 Mar 2012
-lost,home,Wales,6,27,6,20,21 Feb 2014
-lost,home,Ireland,9,24,6,9,11 Oct 2015
-lost,home,New Zealand,13,62,13,29,17 Oct 2015
-lost,home,Wales,10,19,3,6,26 Feb 2016
-lost,home,Wales,13,14,10,14,17 Mar 2018
+result,where,opponent,pointsFor,pointsAgainst,pointsForHalfTime,pointsAgainstHalfTime,year
+won,home,Argentina,5,0,-,-,1949
+won,home,Argentina,12,3,-,-,1949
+won,home,Argentina,22,8,16,0,1954
+won,home,Argentina,30,3,-,-,1954
+won,home,Argentina,37,3,16,3,1960
+won,home,Argentina,12,3,-,-,1960
+won,home,Argentina,29,6,21,0,1960
+won,home,Argentina,20,15,6,12,1974
+won,home,Argentina,31,27,12,12,1974
+won,home,Argentina,29,6,11,6,1975
+won,home,Argentina,36,21,26,12,1975
+won,home,Argentina,26,3,6,3,1977
+draw,home,Argentina,18,18,0,9,1977
+won,home,Argentina,25,12,4,9,1982
+won,home,Argentina,13,6,0,3,1982
+lost,home,Argentina,16,24,6,15,1985
+won,home,Argentina,23,15,16,6,1985
+lost,home,Argentina,13,15,10,3,1986
+won,home,Argentina,22,9,13,3,1986
+won,home,Argentina,18,15,12,15,1988
+lost,home,Argentina,6,18,3,9,1988
+won,home,Argentina,29,9,10,3,1988
+won,home,Argentina,28,18,13,9,1988
+won,home,Argentina,27,12,14,6,1992
+won,home,Argentina,33,9,9,6,1992
+lost,home,Argentina,20,24,15,12,1992
+won,home,Argentina,47,12,20,6,1995
+won,home,Argentina,34,27,22,0,1996
+won,home,Argentina,34,15,13,9,1996
+won,home,Argentina,32,27,5,7,1997
+won,home,Argentina,35,18,14,6,1998
+won,home,Argentina,37,12,18,6,1998
+won,home,Argentina,34,14,17,8,1998
+won,home,Argentina,47,26,27,20,1999
+lost,home,Argentina,27,28,6,6,2002
+lost,home,Argentina,6,10,0,10,2003
+lost,home,Argentina,32,33,12,21,2003
+lost,home,Argentina,14,24,5,19,2004
+won,home,Argentina,27,26,17,9,2006
+lost,home,Argentina,12,17,9,17,2007
+lost,home,Argentina,10,34,3,17,2007
+won,home,Argentina,12,6,9,6,2008
+lost,home,Argentina,13,41,6,19,2010
+won,home,Argentina,15,9,9,3,2010
+lost,home,Argentina,20,23,14,13,2012
+won,home,Argentina,49,10,30,3,2012
+won,home,Argentina,39,22,24,13,2012
+lost,home,Argentina,13,18,3,15,2014
+lost,home,Argentina,19,30,10,17,2016
+won,home,Argentina,27,0,10,0,2016
+won,home,Argentina,28,13,11,10,2018
+won,home,Argentina,23,21,20,3,2019
+lost,home,Australia,8,11,3,11,1928
+won,home,Australia,13,6,13,3,1948
+won,home,Australia,19,0,-,-,1958
+won,home,Australia,15,8,9,3,1961
+won,home,Australia,20,14,8,5,1967
+lost,home,Australia,10,11,5,0,1968
+lost,home,Australia,11,13,11,6,1971
+won,home,Australia,18,9,12,6,1971
+draw,home,Australia,14,14,10,7,1972
+won,home,Australia,16,15,6,6,1972
+won,home,Australia,18,15,12,9,1976
+won,home,Australia,34,6,13,3,1976
+lost,home,Australia,15,17,9,10,1981
+lost,home,Australia,14,24,6,9,1981
+draw,home,Australia,15,15,9,6,1983
+won,home,Australia,15,6,6,3,1983
+lost,home,Australia,14,27,4,15,1986
+won,home,Australia,30,24,6,9,1987
+lost,home,Australia,15,32,12,10,1989
+won,home,Australia,25,19,6,13,1989
+lost,home,Australia,9,21,6,15,1990
+lost,home,Australia,31,48,15,24,1990
+won,home,Australia,28,19,13,12,1990
+won,home,Australia,16,13,13,10,1993
+lost,home,Australia,3,24,3,13,1993
+lost,home,Australia,15,29,8,6,1997
+lost,home,Australia,19,26,13,20,1997
+lost,home,Australia,21,32,21,20,1998
+lost,home,Australia,12,35,6,12,1999
+lost,home,Australia,13,18,3,9,2000
+won,home,Australia,14,13,11,3,2001
+lost,home,Australia,17,29,9,23,2002
+lost,home,Australia,25,31,8,13,2002
+won,home,Australia,27,14,12,11,2004
+lost,home,Australia,31,37,7,15,2005
+won,home,Australia,26,16,10,9,2005
+lost,home,Australia,13,34,6,10,2008
+lost,home,Australia,10,40,3,26,2008
+lost,home,Australia,13,18,7,10,2008
+lost,home,Australia,6,22,3,10,2009
+lost,home,Australia,16,59,13,13,2010
+won,home,Australia,33,6,16,6,2012
+lost,home,Australia,23,50,9,29,2014
+lost,home,Australia,0,6,-,-,2014
+lost,home,Australia,13,39,6,20,2014
+won,home,Australia,29,26,17,16,2014
+lost,home,Australia,23,25,11,13,2016
+lost,home,Lions XV,27,29,9,16,1989
+lost,home,British Army,3,36,-,-,1940
+won,home,British Army,21,9,-,-,1945
+won,home,Canada,19,13,9,7,1991
+lost,home,Canada,16,18,6,12,1994
+won,home,Canada,28,9,8,6,1994
+won,home,Canada,33,20,18,10,1999
+won,home,Canada,35,3,13,0,2002
+won,home,Canada,47,13,24,13,2004
+won,home,Canada,50,6,25,3,2005
+won,home,Canada,46,19,19,10,2011
+won,home,Canada,41,18,24,12,2015
+won,home,Czech Rep,28,3,17,0,1956
+won,home,Czech Rep,19,6,16,3,1968
+lost,home,England,8,35,0,22,1906
+lost,home,England,13,41,13,13,1907
+lost,home,England,0,19,0,6,1908
+lost,home,England,0,22,0,10,1909
+lost,home,England,3,11,0,8,1910
+lost,home,England,0,37,0,8,1911
+lost,home,England,8,18,0,14,1912
+lost,home,England,0,20,0,6,1913
+lost,home,England,13,39,8,13,1914
+lost,home,England,3,8,3,3,1920
+lost,home,England,6,10,3,10,1921
+draw,home,England,11,11,0,6,1922
+lost,home,England,3,12,3,3,1923
+lost,home,England,7,19,0,9,1924
+lost,home,England,11,13,5,13,1925
+lost,home,England,0,11,0,6,1926
+won,home,England,3,0,3,0,1927
+lost,home,England,8,18,3,10,1928
+lost,home,England,6,16,3,8,1929
+lost,home,England,5,11,5,6,1930
+won,home,England,14,13,4,5,1931
+lost,home,England,3,6,0,3,1947
+won,home,England,15,0,3,0,1948
+lost,home,England,3,8,0,5,1949
+won,home,England,6,3,3,3,1950
+won,home,England,11,3,5,3,1951
+lost,home,England,3,6,3,0,1952
+lost,home,England,0,11,0,6,1953
+won,home,England,11,3,3,3,1954
+won,home,England,16,9,3,6,1955
+won,home,England,14,9,6,6,1956
+lost,home,England,5,9,0,6,1957
+lost,home,England,0,14,0,11,1958
+draw,home,England,3,3,3,3,1959
+draw,home,England,3,3,3,3,1960
+draw,home,England,5,5,-,-,1961
+won,home,England,13,0,5,0,1962
+lost,home,England,5,6,5,3,1963
+lost,home,England,3,6,3,3,1964
+lost,home,England,6,9,3,3,1965
+won,home,England,13,0,5,0,1966
+won,home,England,16,12,13,9,1967
+won,home,England,14,9,3,6,1968
+lost,home,England,8,22,5,11,1969
+won,home,England,35,13,14,0,1970
+draw,home,England,14,14,6,14,1971
+won,home,England,37,12,15,6,1972
+lost,home,England,6,14,0,7,1973
+draw,home,England,12,12,6,0,1974
+won,home,England,27,20,12,10,1975
+won,home,England,30,9,10,3,1976
+won,home,England,4,3,-,-,1977
+won,home,England,15,6,3,6,1978
+lost,home,England,6,7,0,3,1979
+lost,home,England,13,17,7,14,1980
+won,home,England,16,12,16,0,1981
+lost,home,England,15,27,6,12,1982
+won,home,England,19,15,3,9,1983
+won,home,England,32,18,9,6,1984
+draw,home,England,9,9,6,3,1985
+won,home,England,29,10,10,0,1986
+won,home,England,19,15,3,12,1987
+won,home,England,10,9,3,3,1988
+lost,home,England,0,11,0,4,1989
+lost,home,England,7,26,0,13,1990
+lost,home,England,19,21,9,18,1991
+lost,home,England,10,19,6,10,1991
+lost,home,England,13,31,4,15,1992
+lost,home,England,15,16,12,13,1993
+lost,home,England,14,18,0,9,1994
+lost,home,England,10,31,3,13,1995
+won,home,England,19,9,3,3,1995
+won,home,England,15,12,3,6,1996
+won,home,England,23,20,6,14,1997
+won,home,England,24,17,15,3,1998
+lost,home,England,10,21,0,9,1999
+lost,home,England,9,15,0,9,2000
+lost,home,England,19,48,16,13,2001
+won,home,England,20,15,17,7,2002
+lost,home,England,17,25,7,12,2003
+won,home,England,17,16,14,13,2003
+lost,home,England,14,45,3,33,2003
+lost,home,England,7,24,7,12,2003
+won,home,England,24,21,21,3,2004
+won,home,England,18,17,6,17,2005
+won,home,England,31,6,16,3,2006
+lost,home,England,18,26,12,9,2007
+won,home,England,21,15,11,12,2007
+won,home,England,22,9,12,3,2007
+lost,home,England,9,14,6,5,2007
+lost,home,England,13,24,7,13,2008
+lost,home,England,10,34,0,29,2009
+won,home,England,12,10,12,7,2010
+lost,home,England,9,17,9,9,2011
+won,home,England,19,12,16,0,2011
+lost,home,England,22,24,9,14,2012
+lost,home,England,13,23,10,9,2013
+won,home,England,26,24,16,8,2014
+lost,home,England,35,55,15,27,2015
+lost,home,England,14,19,9,12,2015
+won,home,England,25,20,15,6,2015
+lost,home,England,21,31,12,17,2016
+lost,home,England,16,19,9,9,2017
+won,home,England,22,16,9,9,2018
+lost,home,England,8,44,8,30,2019
+won,home,Fiji,21,3,13,0,1964
+won,home,Fiji,31,16,22,7,1987
+won,home,Fiji,33,9,19,3,1991
+won,home,Fiji,34,9,10,9,1998
+won,home,Fiji,28,19,13,3,1999
+won,home,Fiji,77,10,29,0,2001
+won,home,Fiji,61,18,24,8,2003
+won,home,Fiji,34,12,16,6,2010
+won,home,Fiji,40,15,14,0,2014
+lost,home,Fiji,14,21,14,12,2018
+won,home,Georgia,64,7,30,0,2007
+won,home,Germany,30,5,16,0,1927
+lost,home,Germany,16,17,5,0,1927
+won,home,Germany,14,3,3,3,1928
+won,home,Germany,24,0,8,0,1929
+won,home,Germany,31,0,-,-,1930
+won,home,Germany,34,0,8,0,1931
+won,home,Germany,20,4,14,4,1932
+won,home,Germany,38,17,-,-,1933
+won,home,Germany,13,9,-,-,1934
+won,home,Germany,18,3,-,-,1935
+won,home,Germany,19,14,8,9,1936
+won,home,Germany,6,3,-,-,1936
+won,home,Germany,27,6,11,3,1937
+lost,home,Germany,0,3,-,-,1938
+won,home,Germany,8,5,3,5,1938
+lost,home,Ireland,8,19,0,8,1909
+lost,home,Ireland,3,8,3,8,1910
+lost,home,Ireland,5,25,5,0,1911
+lost,home,Ireland,6,11,6,11,1912
+lost,home,Ireland,0,24,0,8,1913
+lost,home,Ireland,6,8,3,0,1914
+won,home,Ireland,15,7,9,0,1920
+won,home,Ireland,20,10,5,5,1921
+lost,home,Ireland,3,8,0,5,1922
+won,home,Ireland,14,8,6,5,1923
+lost,home,Ireland,0,6,0,3,1924
+lost,home,Ireland,3,9,3,0,1925
+lost,home,Ireland,0,11,0,8,1926
+lost,home,Ireland,3,8,0,3,1927
+lost,home,Ireland,8,12,8,6,1928
+lost,home,Ireland,0,6,-,-,1928
+won,home,Ireland,5,0,-,-,1930
+won,home,Ireland,3,0,3,0,1931
+won,home,Ireland XV,4,3,-,-,1946
+won,home,Ireland,12,8,3,8,1947
+lost,home,Ireland,6,13,0,10,1948
+won,home,Ireland,16,9,8,6,1949
+draw,home,Ireland,3,3,3,0,1950
+lost,home,Ireland,8,9,3,3,1951
+lost,home,Ireland,8,11,0,6,1952
+lost,home,Ireland,3,16,0,5,1953
+won,home,Ireland,8,0,-,-,1954
+won,home,Ireland,5,3,5,0,1955
+won,home,Ireland,14,8,3,0,1956
+lost,home,Ireland,6,11,3,8,1957
+won,home,Ireland,11,6,3,3,1958
+lost,home,Ireland,5,9,0,6,1959
+won,home,Ireland,23,6,12,3,1960
+won,home,Ireland,15,3,3,3,1961
+won,home,Ireland,11,0,5,0,1962
+won,home,Ireland,24,5,6,5,1963
+won,home,Ireland,27,6,14,3,1964
+draw,home,Ireland,3,3,-,-,1965
+won,home,Ireland,11,6,3,3,1966
+won,home,Ireland,11,6,5,3,1967
+won,home,Ireland,16,6,8,6,1968
+lost,home,Ireland,9,17,6,11,1969
+won,home,Ireland,8,0,-,-,1970
+draw,home,Ireland,9,9,3,0,1971
+lost,home,Ireland,9,14,3,11,1972
+lost,home,Ireland,14,24,4,15,1972
+lost,home,Ireland,4,6,0,3,1973
+won,home,Ireland,9,6,0,3,1974
+lost,home,Ireland,6,25,6,10,1975
+won,home,Ireland,26,3,6,0,1976
+won,home,Ireland,15,6,3,6,1977
+won,home,Ireland,10,9,10,6,1978
+draw,home,Ireland,9,9,3,6,1979
+won,home,Ireland,19,18,3,9,1980
+won,home,Ireland,19,13,12,9,1981
+won,home,Ireland,22,9,3,6,1982
+lost,home,Ireland,16,22,3,15,1983
+won,home,Ireland,25,12,16,9,1984
+draw,home,Ireland,15,15,9,12,1985
+won,home,Ireland,29,9,9,6,1986
+won,home,Ireland,19,13,3,10,1987
+won,home,Ireland,25,6,7,0,1988
+won,home,Ireland,26,21,7,18,1989
+won,home,Ireland,31,12,12,6,1990
+won,home,Ireland,21,13,6,10,1991
+won,home,Ireland,44,12,18,6,1992
+won,home,Ireland,21,6,6,6,1993
+won,home,Ireland,35,15,16,12,1994
+won,home,Ireland,25,7,3,0,1995
+won,home,Ireland,36,12,15,12,1995
+won,home,Ireland,45,10,24,3,1996
+won,home,Ireland,32,15,12,12,1997
+won,home,Ireland,18,16,6,13,1998
+won,home,Ireland,10,9,0,6,1999
+lost,home,Ireland,25,27,13,7,2000
+lost,home,Ireland,15,22,3,9,2001
+won,home,Ireland,44,5,28,5,2002
+lost,home,Ireland,12,15,3,12,2003
+won,home,Ireland,43,21,27,0,2003
+won,home,Ireland,35,17,11,3,2004
+won,home,Ireland,26,19,18,9,2005
+won,home,Ireland,43,31,29,3,2006
+won,home,Ireland,20,17,13,11,2007
+won,home,Ireland,25,3,12,3,2007
+won,home,Ireland,26,21,19,6,2008
+lost,home,Ireland,21,30,10,13,2009
+won,home,Ireland,33,10,17,3,2010
+won,home,Ireland,25,22,12,15,2011
+won,home,Ireland,19,12,13,3,2011
+won,home,Ireland,26,22,16,8,2011
+draw,home,Ireland,17,17,6,17,2012
+draw,home,Ireland,13,13,3,13,2013
+lost,home,Ireland,20,22,13,12,2014
+lost,home,Ireland,11,18,6,12,2015
+lost,home,Ireland,9,24,6,9,2015
+won,home,Ireland,10,9,3,9,2016
+lost,home,Ireland,9,19,6,7,2017
+lost,home,Ireland,13,15,3,9,2018
+lost,home,Ireland,14,26,0,19,2019
+won,home,Italy,43,5,17,5,1937
+won,home,Italy,17,8,3,5,1952
+won,home,Italy,22,8,11,3,1953
+won,home,Italy,39,12,16,6,1954
+won,home,Italy,24,0,14,0,1955
+won,home,Italy,16,3,3,3,1956
+won,home,Italy,38,6,10,6,1957
+won,home,Italy,11,3,8,3,1958
+won,home,Italy,22,0,14,0,1959
+won,home,Italy,26,0,18,0,1960
+won,home,Italy,17,0,6,0,1961
+won,home,Italy,6,3,6,3,1962
+won,home,Italy,14,12,6,3,1963
+won,home,Italy,12,3,6,0,1964
+won,home,Italy,21,0,10,0,1965
+won,home,Italy,21,0,11,0,1966
+won,home,Italy,60,13,34,3,1967
+won,home,Italy,34,22,10,16,1995
+lost,home,Italy,32,40,13,20,1997
+won,home,Italy,30,19,17,9,1997
+won,home,Italy,42,31,20,17,2000
+won,home,Italy,30,19,14,9,2001
+won,home,Italy,33,12,19,12,2002
+won,home,Italy,53,27,41,10,2003
+won,home,Italy,25,0,10,0,2004
+won,home,Italy,56,13,24,10,2005
+won,home,Italy,37,12,8,12,2006
+won,home,Italy,39,3,22,3,2007
+won,home,Italy,25,13,13,6,2008
+won,home,Italy,50,8,25,3,2009
+won,home,Italy,46,20,22,3,2010
+lost,home,Italy,21,22,8,6,2011
+won,home,Italy,30,12,15,6,2012
+lost,home,Italy,18,23,15,13,2013
+won,home,Italy,30,10,9,3,2014
+won,home,Italy,29,0,9,0,2015
+won,home,Italy,32,10,15,3,2015
+won,home,Italy,23,21,10,8,2016
+won,home,Italy,40,18,16,11,2017
+won,home,Italy,34,17,11,7,2018
+won,home,Italy,25,14,10,6,2019
+won,home,Italy,47,19,19,7,2019
+won,home,Cote d'Iv,54,18,28,3,1995
+won,home,Japan,30,18,10,7,1973
+won,home,Japan,51,29,20,16,2003
+won,home,Japan,47,21,25,11,2011
+draw,home,Japan,23,23,13,8,2017
+lost,home,Kiwis,9,14,3,8,1946
+won,home,Namibia,47,13,23,13,1999
+won,home,Namibia,87,10,40,3,2007
+lost,home,New Zealand,8,38,3,18,1906
+lost,home,New Zealand,6,30,0,17,1925
+won,home,New Zealand,3,0,3,0,1954
+lost,home,New Zealand,6,13,6,5,1961
+lost,home,New Zealand,3,5,-,-,1961
+lost,home,New Zealand,3,32,3,13,1961
+lost,home,New Zealand,3,12,3,6,1964
+lost,home,New Zealand,15,21,9,11,1967
+lost,home,New Zealand,9,12,3,3,1968
+lost,home,New Zealand,3,9,3,0,1968
+lost,home,New Zealand,12,19,0,16,1968
+won,home,New Zealand,13,6,10,3,1973
+won,home,New Zealand,18,13,6,10,1977
+lost,home,New Zealand,3,15,3,9,1977
+lost,home,New Zealand,9,23,3,10,1979
+won,home,New Zealand,24,19,11,7,1979
+lost,home,New Zealand,9,13,6,10,1981
+lost,home,New Zealand,6,18,3,9,1981
+lost,home,New Zealand,9,10,3,3,1984
+lost,home,New Zealand,18,31,6,16,1984
+lost,home,New Zealand,9,18,6,12,1986
+lost,home,New Zealand,7,19,3,6,1986
+won,home,New Zealand,16,3,3,3,1986
+lost,home,New Zealand,9,29,0,9,1987
+lost,home,New Zealand,17,25,0,18,1989
+lost,home,New Zealand,20,34,13,16,1989
+lost,home,New Zealand,3,24,3,18,1990
+lost,home,New Zealand,12,30,6,15,1990
+won,home,New Zealand,22,8,9,3,1994
+won,home,New Zealand,23,20,13,9,1994
+won,home,New Zealand,22,15,17,3,1995
+lost,home,New Zealand,12,37,5,20,1995
+lost,home,New Zealand,7,54,0,30,1999
+won,home,New Zealand,43,31,10,17,1999
+lost,home,New Zealand,26,39,12,15,2000
+won,home,New Zealand,42,33,26,24,2000
+lost,home,New Zealand,12,37,6,17,2001
+draw,home,New Zealand,20,20,10,10,2002
+lost,home,New Zealand,23,31,13,19,2003
+lost,home,New Zealand,13,40,6,14,2003
+lost,home,New Zealand,6,45,6,19,2004
+lost,home,New Zealand,3,47,3,23,2006
+lost,home,New Zealand,11,23,5,16,2006
+lost,home,New Zealand,11,42,3,20,2007
+lost,home,New Zealand,10,61,3,30,2007
+won,home,New Zealand,20,18,3,13,2007
+won,home,New Zealand,27,22,17,11,2009
+lost,home,New Zealand,10,14,0,8,2009
+lost,home,New Zealand,12,39,12,22,2009
+lost,home,New Zealand,17,37,3,19,2011
+lost,home,New Zealand,7,8,0,5,2011
+lost,home,New Zealand,13,23,10,17,2013
+lost,home,New Zealand,0,30,0,10,2013
+lost,home,New Zealand,9,24,6,8,2013
+lost,home,New Zealand,19,26,9,9,2013
+lost,home,New Zealand,13,62,13,29,2015
+lost,home,New Zealand,19,24,6,10,2016
+lost,home,New Zealand,18,38,5,31,2017
+lost,home,New Zealand,11,52,11,8,2018
+lost,home,New Zealand,13,26,6,21,2018
+lost,home,New Zealand,14,49,14,21,2018
+lost,home,NZ Maori,3,12,3,3,1926
+won,home,Pacific Is,42,17,17,12,2008
+won,home,Romania,61,3,19,3,1924
+won,home,Romania,11,8,11,0,1938
+won,home,Romania,18,15,6,9,1957
+won,home,Romania,39,0,16,0,1957
+lost,home,Romania,5,11,0,5,1960
+draw,home,Romania,5,5,-,-,1961
+lost,home,Romania,0,3,-,-,1962
+draw,home,Romania,6,6,3,3,1963
+won,home,Romania,9,6,3,3,1964
+won,home,Romania,8,3,5,0,1965
+won,home,Romania,9,3,3,3,1966
+won,home,Romania,11,3,6,3,1967
+lost,home,Romania,14,15,8,12,1968
+won,home,Romania,14,9,6,3,1969
+won,home,Romania,14,3,6,3,1970
+won,home,Romania,31,12,9,9,1971
+won,home,Romania,15,6,15,0,1972
+won,home,Romania,7,6,3,0,1973
+lost,home,Romania,10,15,6,3,1974
+won,home,Romania,36,12,13,3,1975
+lost,home,Romania,12,15,9,0,1976
+won,home,Romania,9,6,6,0,1977
+won,home,Romania,9,6,9,0,1978
+won,home,Romania,30,12,3,9,1979
+lost,home,Romania,0,15,-,-,1980
+won,home,Romania,17,9,14,6,1981
+lost,home,Romania,9,13,6,3,1982
+won,home,Romania,26,15,19,9,1983
+won,home,Romania,18,3,6,0,1984
+won,home,Romania,25,13,11,9,1986
+won,home,Romania,20,3,14,0,1986
+won,home,Romania,55,12,12,12,1987
+won,home,Romania,49,3,15,3,1987
+won,home,Romania,16,12,6,3,1988
+lost,home,Romania,6,12,0,9,1990
+won,home,Romania,33,21,18,18,1991
+won,home,Romania,30,3,6,0,1991
+won,home,Romania,25,6,9,0,1992
+won,home,Romania,37,20,16,3,1993
+won,home,Romania,51,0,16,0,1993
+won,home,Romania,24,15,6,12,1995
+won,home,Romania,52,8,22,0,1995
+won,home,Romania,64,12,26,12,1996
+won,home,Romania,51,20,29,10,1997
+won,home,Romania,39,3,27,3,1997
+won,home,Romania,62,8,29,3,1999
+won,home,Romania,67,20,29,8,2000
+won,home,Romania,56,8,35,5,2003
+won,home,Romania,62,14,31,6,2006
+won,home,Romania,38,11,17,6,2015
+won,home,Samoa,39,22,12,16,1999
+won,home,Samoa,43,5,33,0,2009
+won,home,Samoa,22,14,10,7,2012
+won,home,Samoa,52,8,26,3,2016
+lost,home,Scotland,0,27,0,11,1910
+won,home,Scotland,16,15,11,8,1911
+lost,home,Scotland,3,31,3,13,1912
+lost,home,Scotland,3,21,3,8,1913
+lost,home,Scotland,0,5,-,-,1920
+won,home,Scotland,3,0,3,0,1921
+draw,home,Scotland,3,3,3,3,1922
+lost,home,Scotland,3,16,0,5,1923
+won,home,Scotland,12,10,6,3,1924
+lost,home,Scotland,4,25,4,5,1925
+lost,home,Scotland,6,20,0,9,1926
+lost,home,Scotland,6,23,3,20,1927
+lost,home,Scotland,6,15,3,9,1928
+lost,home,Scotland,3,6,3,6,1929
+won,home,Scotland,7,3,3,3,1930
+lost,home,Scotland,4,6,0,6,1931
+won,home,Scotland,8,3,8,3,1947
+lost,home,Scotland,8,9,8,3,1948
+lost,home,Scotland,0,8,0,3,1949
+lost,home,Scotland,5,8,0,8,1950
+won,home,Scotland,14,12,6,6,1951
+won,home,Scotland,13,11,8,3,1952
+won,home,Scotland,11,5,6,5,1953
+won,home,Scotland,3,0,-,-,1954
+won,home,Scotland,15,0,9,0,1955
+lost,home,Scotland,0,12,0,6,1956
+lost,home,Scotland,0,6,-,-,1957
+lost,home,Scotland,9,11,6,8,1958
+won,home,Scotland,9,0,6,0,1959
+won,home,Scotland,13,11,5,0,1960
+won,home,Scotland,11,0,-,-,1961
+won,home,Scotland,11,3,3,3,1962
+lost,home,Scotland,6,11,6,0,1963
+lost,home,Scotland,0,10,0,5,1964
+won,home,Scotland,16,8,5,5,1965
+draw,home,Scotland,3,3,3,3,1966
+lost,home,Scotland,8,9,3,6,1967
+won,home,Scotland,8,6,3,3,1968
+lost,home,Scotland,3,6,0,3,1969
+won,home,Scotland,11,9,11,6,1970
+won,home,Scotland,13,8,3,3,1971
+lost,home,Scotland,9,20,0,10,1972
+won,home,Scotland,16,13,10,6,1973
+lost,home,Scotland,6,19,3,9,1974
+won,home,Scotland,10,9,3,3,1975
+won,home,Scotland,13,6,7,3,1976
+won,home,Scotland,23,3,9,3,1977
+won,home,Scotland,19,16,4,13,1978
+won,home,Scotland,21,17,10,10,1979
+lost,home,Scotland,14,22,7,4,1980
+won,home,Scotland,16,9,16,3,1981
+lost,home,Scotland,7,16,7,3,1982
+won,home,Scotland,19,15,15,15,1983
+lost,home,Scotland,12,21,6,3,1984
+won,home,Scotland,11,3,11,3,1985
+lost,home,Scotland,17,18,7,12,1986
+won,home,Scotland,28,22,18,7,1987
+draw,home,Scotland,20,20,6,13,1987
+lost,home,Scotland,12,23,6,11,1988
+won,home,Scotland,19,3,6,3,1989
+lost,home,Scotland,0,21,0,3,1990
+won,home,Scotland,15,9,9,3,1991
+lost,home,Scotland,6,10,3,4,1992
+won,home,Scotland,11,3,3,3,1993
+won,home,Scotland,20,12,13,9,1994
+lost,home,Scotland,21,23,5,13,1995
+won,home,Scotland,22,19,3,13,1995
+lost,home,Scotland,14,19,8,11,1996
+won,home,Scotland,47,20,26,13,1997
+won,home,Scotland,51,16,22,9,1998
+lost,home,Scotland,22,36,22,33,1999
+won,home,Scotland,28,16,10,6,2000
+won,home,Scotland,16,6,6,6,2001
+won,home,Scotland,22,10,10,3,2002
+won,home,Scotland,38,3,17,3,2003
+won,home,Scotland,51,9,19,6,2003
+won,home,Scotland,31,0,11,0,2004
+won,home,Scotland,16,9,0,6,2005
+lost,home,Scotland,16,20,3,13,2006
+won,home,Scotland,46,19,20,14,2007
+won,home,Scotland,27,6,17,6,2008
+won,home,Scotland,22,13,6,3,2009
+won,home,Scotland,18,9,15,6,2010
+won,home,Scotland,34,21,17,7,2011
+won,home,Scotland,23,17,10,10,2012
+won,home,Scotland,23,16,0,6,2013
+won,home,Scotland,19,17,9,14,2014
+won,home,Scotland,15,8,9,8,2015
+won,home,Scotland,19,16,6,9,2015
+lost,home,Scotland,18,29,12,18,2016
+won,home,Scotland,22,16,13,11,2017
+lost,home,Scotland,26,32,20,14,2018
+won,home,Scotland,27,10,10,3,2019
+won,home,Scotland,32,3,20,3,2019
+lost,home,Scotland,14,17,14,10,2019
+lost,home,South Africa,5,38,5,11,1913
+lost,home,South Africa,3,25,3,6,1952
+draw,home,South Africa,3,3,3,0,1958
+won,home,South Africa,9,5,3,5,1958
+draw,home,South Africa,0,0,-,-,1961
+won,home,South Africa,8,6,8,3,1964
+lost,home,South Africa,3,26,3,18,1967
+lost,home,South Africa,3,16,0,3,1967
+won,home,South Africa,19,14,8,6,1967
+draw,home,South Africa,6,6,3,0,1967
+lost,home,South Africa,9,12,3,9,1968
+lost,home,South Africa,11,16,6,3,1968
+lost,home,South Africa,9,22,3,6,1971
+draw,home,South Africa,8,8,3,0,1971
+lost,home,South Africa,4,13,0,7,1974
+lost,home,South Africa,8,10,4,3,1974
+lost,home,South Africa,25,38,3,21,1975
+lost,home,South Africa,18,33,15,18,1975
+lost,home,South Africa,15,37,0,13,1980
+lost,home,South Africa,15,20,0,13,1992
+won,home,South Africa,29,16,6,6,1992
+draw,home,South Africa,20,20,14,11,1993
+won,home,South Africa,18,17,9,8,1993
+lost,home,South Africa,15,19,6,10,1995
+lost,home,South Africa,12,22,6,19,1996
+lost,home,South Africa,12,13,3,10,1996
+lost,home,South Africa,32,36,9,19,1997
+lost,home,South Africa,10,52,3,28,1997
+won,home,South Africa,32,23,16,11,2001
+lost,home,South Africa,15,20,15,14,2001
+won,home,South Africa,20,10,9,3,2001
+won,home,South Africa,30,10,12,3,2002
+draw,home,South Africa,30,30,13,13,2005
+lost,home,South Africa,13,27,6,20,2005
+won,home,South Africa,26,20,15,3,2005
+won,home,South Africa,36,26,11,12,2006
+won,home,South Africa,20,13,11,13,2009
+lost,home,South Africa,17,42,10,25,2010
+lost,home,South Africa,10,19,7,13,2013
+lost,home,South Africa,14,37,7,16,2017
+lost,home,South Africa,15,37,7,23,2017
+lost,home,South Africa,12,35,9,16,2017
+lost,home,South Africa,17,18,7,8,2017
+lost,home,South Africa,26,29,16,9,2018
+won,home,Tonga,38,10,6,0,1995
+lost,home,Tonga,16,20,6,15,1999
+won,home,Tonga,43,8,12,8,2005
+lost,home,Tonga,14,19,6,13,2011
+won,home,Tonga,38,18,21,6,2013
+won,home,Tonga,23,21,17,7,2019
+won,home,USA,14,5,6,5,1920
+lost,home,USA,3,17,0,3,1924
+won,home,USA,33,14,15,10,1976
+won,home,USA,41,9,21,3,1991
+won,home,USA,10,3,10,3,1991
+won,home,USA,41,14,26,0,2003
+won,home,USA,39,31,17,21,2004
+won,home,USA,33,9,12,6,2019
+lost,home,Wales,4,36,4,17,1908
+lost,home,Wales,5,47,0,9,1909
+lost,home,Wales,14,49,14,21,1910
+lost,home,Wales,0,15,-,-,1911
+lost,home,Wales,8,14,8,6,1912
+lost,home,Wales,8,11,0,3,1913
+lost,home,Wales,0,31,0,13,1914
+lost,home,Wales,5,6,-,-,1920
+lost,home,Wales,4,12,0,12,1921
+lost,home,Wales,3,11,-,-,1922
+lost,home,Wales,8,16,3,5,1923
+lost,home,Wales,6,10,6,7,1924
+lost,home,Wales,5,11,0,3,1925
+lost,home,Wales,5,7,5,0,1926
+lost,home,Wales,7,25,3,12,1927
+won,home,Wales,8,3,0,3,1928
+lost,home,Wales,3,8,0,5,1929
+lost,home,Wales,0,11,0,3,1930
+lost,home,Wales,3,35,0,8,1931
+lost,home,Wales XV,0,8,-,-,1945
+won,home,Wales XV,12,0,3,0,1946
+lost,home,Wales,0,3,0,3,1947
+won,home,Wales,11,3,5,0,1948
+won,home,Wales,5,3,0,3,1949
+lost,home,Wales,0,21,0,5,1950
+won,home,Wales,8,3,0,3,1951
+lost,home,Wales,5,9,5,3,1952
+lost,home,Wales,3,6,0,3,1953
+lost,home,Wales,13,19,5,5,1954
+lost,home,Wales,11,16,0,11,1955
+lost,home,Wales,3,5,-,-,1956
+lost,home,Wales,13,19,3,8,1957
+won,home,Wales,16,6,3,3,1958
+won,home,Wales,11,3,8,3,1959
+won,home,Wales,16,8,5,3,1960
+won,home,Wales,8,6,3,3,1961
+lost,home,Wales,0,3,0,3,1962
+won,home,Wales,5,3,0,3,1963
+draw,home,Wales,11,11,11,3,1964
+won,home,Wales,22,13,19,0,1965
+lost,home,Wales,8,9,8,6,1966
+won,home,Wales,20,14,9,6,1967
+won,home,Wales,14,9,3,9,1968
+draw,home,Wales,8,8,0,8,1969
+lost,home,Wales,6,11,3,6,1970
+lost,home,Wales,5,9,5,3,1971
+lost,home,Wales,6,20,6,9,1972
+won,home,Wales,12,3,9,0,1973
+draw,home,Wales,16,16,13,13,1974
+lost,home,Wales,10,25,7,17,1975
+lost,home,Wales,13,19,9,13,1976
+won,home,Wales,16,9,3,3,1977
+lost,home,Wales,7,16,7,13,1978
+won,home,Wales,14,13,7,7,1979
+lost,home,Wales,9,18,3,4,1980
+won,home,Wales,19,15,9,9,1981
+lost,home,Wales,12,22,9,6,1982
+won,home,Wales,16,9,6,6,1983
+won,home,Wales,21,16,12,3,1984
+won,home,Wales,14,3,7,3,1985
+won,home,Wales,23,15,11,9,1986
+won,home,Wales,16,9,3,9,1987
+won,home,Wales,10,9,3,3,1988
+won,home,Wales,31,12,16,6,1989
+won,home,Wales,29,19,9,13,1990
+won,home,Wales,36,3,14,3,1991
+won,home,Wales,22,9,7,3,1991
+won,home,Wales,12,9,12,0,1992
+won,home,Wales,26,10,16,3,1993
+lost,home,Wales,15,24,3,11,1994
+won,home,Wales,21,9,15,6,1995
+lost,home,Wales,15,16,5,10,1996
+won,home,Wales,40,33,10,27,1996
+won,home,Wales,27,22,20,10,1997
+won,home,Wales,51,0,29,0,1998
+lost,home,Wales,33,34,18,28,1999
+lost,home,Wales,23,34,6,12,1999
+won,home,Wales,36,3,9,3,2000
+lost,home,Wales,35,43,19,16,2001
+won,home,Wales,37,33,24,19,2002
+won,home,Wales,33,5,10,5,2003
+won,home,Wales,29,22,13,12,2004
+lost,home,Wales,18,24,15,6,2005
+won,home,Wales,21,16,6,13,2006
+won,home,Wales,32,21,23,14,2007
+won,home,Wales,34,7,17,7,2007
+lost,home,Wales,12,29,6,9,2008
+won,home,Wales,21,16,13,13,2009
+won,home,Wales,26,20,20,0,2010
+won,home,Wales,28,9,11,3,2011
+won,home,Wales,9,8,6,3,2011
+lost,home,Wales,9,16,3,10,2012
+lost,home,Wales,6,16,3,3,2013
+lost,home,Wales,6,27,6,20,2014
+lost,home,Wales,13,20,3,6,2015
+lost,home,Wales,10,19,3,6,2016
+won,home,Wales,20,18,10,9,2017
+lost,home,Wales,13,14,10,14,2018
+lost,home,Wales,19,24,16,0,2019
+lost,home,Wales,19,20,19,10,2019
+won,home,Zimbabwe,70,12,22,3,1987
+won,home,Argentina,5,0,-,-,1949
+won,home,Argentina,12,3,-,-,1949
+won,home,Argentina,22,8,16,0,1954
+won,home,Argentina,30,3,-,-,1954
+won,home,Argentina,37,3,16,3,1960
+won,home,Argentina,12,3,-,-,1960
+won,home,Argentina,29,6,21,0,1960
+won,home,Argentina,20,15,6,12,1974
+won,home,Argentina,31,27,12,12,1974
+won,home,Argentina,26,3,6,3,1977
+draw,home,Argentina,18,18,0,9,1977
+lost,home,Argentina,16,24,6,15,1985
+won,home,Argentina,23,15,16,6,1985
+lost,home,Argentina,13,15,10,3,1986
+won,home,Argentina,22,9,13,3,1986
+won,home,Argentina,18,15,12,15,1988
+lost,home,Argentina,6,18,3,9,1988
+won,home,Argentina,27,12,14,6,1992
+won,home,Argentina,33,9,9,6,1992
+won,home,Italy,34,22,10,16,1995
+won,home,Romania,52,8,22,0,1995
+won,home,Argentina,47,12,20,6,1995
+won,home,Argentina,34,27,22,0,1996
+won,home,Argentina,34,15,13,9,1996
+won,home,Argentina,35,18,14,6,1998
+won,home,Argentina,37,12,18,6,1998
+lost,home,Argentina,27,28,6,6,2002
+lost,home,Argentina,6,10,0,10,2003
+lost,home,Argentina,32,33,12,21,2003
+lost,home,Argentina,13,41,6,19,2010
+lost,home,Argentina,20,23,14,13,2012
+won,home,Argentina,49,10,30,3,2012
+lost,home,Argentina,19,30,10,17,2016
+won,home,Argentina,27,0,10,0,2016
+won,home,Australia,15,8,9,3,1961
+lost,home,Australia,10,11,5,0,1968
+draw,home,Australia,14,14,10,7,1972
+won,home,Australia,16,15,6,6,1972
+lost,home,Australia,15,17,9,10,1981
+lost,home,Australia,14,24,6,9,1981
+lost,home,Australia,14,27,4,15,1986
+won,home,Australia,30,24,6,9,1987
+lost,home,Australia,9,21,6,15,1990
+lost,home,Australia,31,48,15,24,1990
+won,home,Australia,28,19,13,12,1990
+lost,home,Australia,15,29,8,6,1997
+lost,home,Australia,19,26,13,20,1997
+lost,home,Australia,17,29,9,23,2002
+lost,home,Australia,25,31,8,13,2002
+won,home,Fiji,61,18,24,8,2003
+won,home,Japan,51,29,20,16,2003
+won,home,Scotland,51,9,19,6,2003
+won,home,USA,41,14,26,0,2003
+won,home,Ireland,43,21,27,0,2003
+lost,home,England,7,24,7,12,2003
+lost,home,New Zealand,13,40,6,14,2003
+lost,home,Australia,31,37,7,15,2005
+lost,home,Australia,13,34,6,10,2008
+lost,home,Australia,10,40,3,26,2008
+lost,home,Australia,6,22,3,10,2009
+lost,home,Australia,23,50,9,29,2014
+lost,home,Australia,0,6,-,-,2014
+lost,home,Australia,13,39,6,20,2014
+lost,home,Canada,16,18,6,12,1994
+won,home,Canada,47,13,24,13,2004
+won,home,Czech Rep,19,6,16,3,1968
+lost,home,England,13,41,13,13,1907
+lost,home,England,0,22,0,10,1909
+lost,home,England,0,37,0,8,1911
+lost,home,England,0,20,0,6,1913
+lost,home,England,3,8,3,3,1920
+draw,home,England,11,11,0,6,1922
+lost,home,England,7,19,0,9,1924
+lost,home,England,0,11,0,6,1926
+lost,home,England,8,18,3,10,1928
+lost,home,England,5,11,5,6,1930
+lost,home,England,3,6,0,3,1947
+lost,home,England,3,8,0,5,1949
+won,home,England,11,3,5,3,1951
+lost,home,England,0,11,0,6,1953
+won,home,England,16,9,3,6,1955
+lost,home,England,5,9,0,6,1957
+draw,home,England,3,3,3,3,1959
+draw,home,England,5,5,-,-,1961
+lost,home,England,5,6,5,3,1963
+lost,home,England,6,9,3,3,1965
+won,home,England,16,12,13,9,1967
+lost,home,England,8,22,5,11,1969
+draw,home,England,14,14,6,14,1971
+lost,home,England,6,14,0,7,1973
+won,home,England,27,20,12,10,1975
+won,home,England,4,3,-,-,1977
+lost,home,England,6,7,0,3,1979
+won,home,England,16,12,16,0,1981
+won,home,England,19,15,3,9,1983
+draw,home,England,9,9,6,3,1985
+won,home,England,19,15,3,12,1987
+lost,home,England,0,11,0,4,1989
+lost,home,England,19,21,9,18,1991
+lost,home,England,15,16,12,13,1993
+lost,home,England,10,31,3,13,1995
+won,home,England,23,20,6,14,1997
+won,home,Wales,51,0,29,0,1998
+lost,home,England,10,21,0,9,1999
+won,home,New Zealand,43,31,10,17,1999
+lost,home,England,19,48,16,13,2001
+lost,home,England,17,25,7,12,2003
+lost,home,England,14,45,3,33,2003
+won,home,England,18,17,6,17,2005
+lost,home,England,18,26,12,9,2007
+won,home,England,21,15,11,12,2007
+lost,home,England,10,34,0,29,2009
+lost,home,England,9,17,9,9,2011
+lost,home,England,13,23,10,9,2013
+lost,home,England,35,55,15,27,2015
+lost,home,England,14,19,9,12,2015
+won,home,Italy,32,10,15,3,2015
+won,home,Romania,38,11,17,6,2015
+won,home,Canada,41,18,24,12,2015
+lost,home,England,16,19,9,9,2017
+lost,home,England,8,44,8,30,2019
+won,home,Fiji,34,9,10,9,1998
+lost,home,New Zealand,8,38,3,18,1906
+lost,home,England,8,35,0,22,1906
+lost,home,England,0,19,0,6,1908
+lost,home,Wales,5,47,0,9,1909
+lost,home,England,3,11,0,8,1910
+lost,home,Ireland,3,8,3,8,1910
+won,home,Scotland,16,15,11,8,1911
+lost,home,Wales,0,15,-,-,1911
+lost,home,Ireland,6,11,6,11,1912
+lost,home,England,8,18,0,14,1912
+lost,home,Scotland,3,21,3,8,1913
+lost,home,South Africa,5,38,5,11,1913
+lost,home,Wales,8,11,0,3,1913
+lost,home,Ireland,6,8,3,0,1914
+lost,home,England,13,39,8,13,1914
+lost,home,Scotland,0,5,-,-,1920
+lost,home,Wales,5,6,-,-,1920
+won,home,USA,14,5,6,5,1920
+lost,home,England,6,10,3,10,1921
+won,home,Ireland,20,10,5,5,1921
+draw,home,Scotland,3,3,3,3,1922
+lost,home,Wales,3,11,-,-,1922
+lost,home,England,3,12,3,3,1923
+won,home,Ireland,14,8,6,5,1923
+won,home,Scotland,12,10,6,3,1924
+lost,home,Wales,6,10,6,7,1924
+won,home,Romania,61,3,19,3,1924
+lost,home,USA,3,17,0,3,1924
+lost,home,Ireland,3,9,3,0,1925
+lost,home,New Zealand,6,30,0,17,1925
+lost,home,England,11,13,5,13,1925
+lost,home,Scotland,6,20,0,9,1926
+lost,home,Wales,5,7,5,0,1926
+lost,home,NZ Maori,3,12,3,3,1926
+lost,home,Ireland,3,8,0,3,1927
+won,home,England,3,0,3,0,1927
+won,home,Germany,30,5,16,0,1927
+lost,home,Scotland,6,15,3,9,1928
+lost,home,Australia,8,11,3,11,1928
+won,home,Wales,8,3,0,3,1928
+lost,home,Ireland,0,6,-,-,1928
+lost,home,England,6,16,3,8,1929
+won,home,Germany,24,0,8,0,1929
+won,home,Scotland,7,3,3,3,1930
+lost,home,Wales,0,11,0,3,1930
+won,home,Ireland,3,0,3,0,1931
+won,home,England,14,13,4,5,1931
+won,home,Germany,34,0,8,0,1931
+won,home,Germany,38,17,-,-,1933
+won,home,Germany,18,3,-,-,1935
+won,home,Germany,27,6,11,3,1937
+won,home,Italy,43,5,17,5,1937
+lost,home,British Army,3,36,-,-,1940
+won,home,British Army,21,9,-,-,1945
+lost,home,Kiwis,9,14,3,8,1946
+won,home,Wales XV,12,0,3,0,1946
+won,home,Scotland,8,3,8,3,1947
+lost,home,Wales,0,3,0,3,1947
+lost,home,Ireland,6,13,0,10,1948
+won,home,Australia,13,6,13,3,1948
+won,home,England,15,0,3,0,1948
+lost,home,Scotland,0,8,0,3,1949
+won,home,Wales,5,3,0,3,1949
+draw,home,Ireland,3,3,3,0,1950
+won,home,England,6,3,3,3,1950
+won,home,Scotland,14,12,6,6,1951
+won,home,Wales,8,3,0,3,1951
+lost,home,Ireland,8,11,0,6,1952
+lost,home,South Africa,3,25,3,6,1952
+lost,home,England,3,6,3,0,1952
+won,home,Scotland,11,5,6,5,1953
+lost,home,Wales,3,6,0,3,1953
+won,home,Italy,22,8,11,3,1953
+won,home,Ireland,8,0,-,-,1954
+won,home,New Zealand,3,0,3,0,1954
+won,home,England,11,3,3,3,1954
+won,home,Scotland,15,0,9,0,1955
+lost,home,Wales,11,16,0,11,1955
+won,home,Italy,24,0,14,0,1955
+won,home,Ireland,14,8,3,0,1956
+won,home,England,14,9,6,6,1956
+won,home,Czech Rep,28,3,17,0,1956
+lost,home,Scotland,0,6,-,-,1957
+lost,home,Wales,13,19,3,8,1957
+won,home,Italy,38,6,10,6,1957
+won,home,Romania,39,0,16,0,1957
+lost,home,England,0,14,0,11,1958
+won,home,Australia,19,0,-,-,1958
+won,home,Ireland,11,6,3,3,1958
+won,home,Scotland,9,0,6,0,1959
+won,home,Italy,22,0,14,0,1959
+won,home,Wales,11,3,8,3,1959
+draw,home,England,3,3,3,3,1960
+won,home,Ireland,23,6,12,3,1960
+won,home,Scotland,11,0,-,-,1961
+draw,home,South Africa,0,0,-,-,1961
+won,home,Wales,8,6,3,3,1961
+won,home,Italy,17,0,6,0,1961
+draw,home,Romania,5,5,-,-,1961
+won,home,England,13,0,5,0,1962
+won,home,Ireland,11,0,5,0,1962
+lost,home,Scotland,6,11,6,0,1963
+won,home,Wales,5,3,0,3,1963
+won,home,Italy,14,12,6,3,1963
+draw,home,Romania,6,6,3,3,1963
+lost,home,New Zealand,3,12,3,6,1964
+lost,home,England,3,6,3,3,1964
+won,home,Ireland,27,6,14,3,1964
+won,home,Fiji,21,3,13,0,1964
+won,home,Scotland,16,8,5,5,1965
+won,home,Wales,22,13,19,0,1965
+won,home,Italy,21,0,10,0,1965
+won,home,Romania,8,3,5,0,1965
+won,home,Ireland,11,6,3,3,1966
+won,home,England,13,0,5,0,1966
+lost,home,Scotland,8,9,3,6,1967
+won,home,Australia,20,14,8,5,1967
+won,home,Italy,60,13,34,3,1967
+won,home,Wales,20,14,9,6,1967
+lost,home,New Zealand,15,21,9,11,1967
+won,home,Romania,11,3,6,3,1967
+won,home,Ireland,16,6,8,6,1968
+won,home,England,14,9,3,6,1968
+lost,home,South Africa,9,12,3,9,1968
+lost,home,South Africa,11,16,6,3,1968
+lost,home,Scotland,3,6,0,3,1969
+draw,home,Wales,8,8,0,8,1969
+won,home,Romania,14,9,6,3,1969
+won,home,Ireland,8,0,-,-,1970
+won,home,England,35,13,14,0,1970
+won,home,Scotland,13,8,3,3,1971
+lost,home,Wales,5,9,5,3,1971
+lost,home,Australia,11,13,11,6,1971
+won,home,Australia,18,9,12,6,1971
+won,home,Romania,31,12,9,9,1971
+lost,home,Ireland,9,14,3,11,1972
+won,home,England,37,12,15,6,1972
+won,home,Scotland,16,13,10,6,1973
+won,home,New Zealand,13,6,10,3,1973
+won,home,Wales,12,3,9,0,1973
+won,home,Japan,30,18,10,7,1973
+won,home,Romania,7,6,3,0,1973
+won,home,Ireland,9,6,0,3,1974
+draw,home,England,12,12,6,0,1974
+lost,home,South Africa,4,13,0,7,1974
+lost,home,South Africa,8,10,4,3,1974
+lost,home,Wales,10,25,7,17,1975
+won,home,Scotland,10,9,3,3,1975
+won,home,Argentina,29,6,11,6,1975
+won,home,Argentina,36,21,26,12,1975
+won,home,Romania,36,12,13,3,1975
+won,home,Ireland,26,3,6,0,1976
+won,home,England,30,9,10,3,1976
+won,home,Australia,18,15,12,9,1976
+won,home,Australia,34,6,13,3,1976
+won,home,Wales,16,9,3,3,1977
+won,home,Scotland,23,3,9,3,1977
+won,home,New Zealand,18,13,6,10,1977
+lost,home,New Zealand,3,15,3,9,1977
+won,home,Romania,9,6,6,0,1977
+won,home,England,15,6,3,6,1978
+won,home,Ireland,10,9,10,6,1978
+won,home,Wales,14,13,7,7,1979
+won,home,Scotland,21,17,10,10,1979
+won,home,Romania,30,12,3,9,1979
+lost,home,England,13,17,7,14,1980
+won,home,Ireland,19,18,3,9,1980
+won,home,Scotland,16,9,16,3,1981
+won,home,Wales,19,15,9,9,1981
+won,home,Romania,17,9,14,6,1981
+lost,home,New Zealand,9,13,6,10,1981
+lost,home,New Zealand,6,18,3,9,1981
+lost,home,England,15,27,6,12,1982
+won,home,Ireland,22,9,3,6,1982
+won,home,Argentina,25,12,4,9,1982
+won,home,Argentina,13,6,0,3,1982
+won,home,Scotland,19,15,15,15,1983
+won,home,Wales,16,9,6,6,1983
+draw,home,Australia,15,15,9,6,1983
+won,home,Australia,15,6,6,3,1983
+won,home,Romania,26,15,19,9,1983
+won,home,Ireland,25,12,16,9,1984
+won,home,England,32,18,9,6,1984
+won,home,Scotland,11,3,11,3,1985
+won,home,Wales,14,3,7,3,1985
+won,home,Ireland,29,9,9,6,1986
+won,home,England,29,10,10,0,1986
+won,home,Romania,25,13,11,9,1986
+lost,home,New Zealand,7,19,3,6,1986
+won,home,New Zealand,16,3,3,3,1986
+won,home,Wales,16,9,3,9,1987
+won,home,Scotland,28,22,18,7,1987
+won,home,Romania,49,3,15,3,1987
+won,home,England,10,9,3,3,1988
+won,home,Ireland,25,6,7,0,1988
+won,home,Argentina,29,9,10,3,1988
+won,home,Argentina,28,18,13,9,1988
+won,home,Wales,31,12,16,6,1989
+won,home,Scotland,19,3,6,3,1989
+lost,home,Lions XV,27,29,9,16,1989
+lost,home,Australia,15,32,12,10,1989
+won,home,Australia,25,19,6,13,1989
+lost,home,England,7,26,0,13,1990
+won,home,Ireland,31,12,12,6,1990
+lost,home,Romania,6,12,0,9,1990
+lost,home,New Zealand,3,24,3,18,1990
+lost,home,New Zealand,12,30,6,15,1990
+won,home,Scotland,15,9,9,3,1991
+won,home,Wales,36,3,14,3,1991
+won,home,Romania,30,3,6,0,1991
+won,home,Fiji,33,9,19,3,1991
+won,home,Canada,19,13,9,7,1991
+lost,home,England,10,19,6,10,1991
+lost,home,England,13,31,4,15,1992
+won,home,Ireland,44,12,18,6,1992
+won,home,Romania,25,6,9,0,1992
+lost,home,South Africa,15,20,0,13,1992
+won,home,South Africa,29,16,6,6,1992
+lost,home,Argentina,20,24,15,12,1992
+won,home,Scotland,11,3,3,3,1993
+won,home,Wales,26,10,16,3,1993
+won,home,Romania,51,0,16,0,1993
+won,home,Australia,16,13,13,10,1993
+lost,home,Australia,3,24,3,13,1993
+won,home,Ireland,35,15,16,12,1994
+lost,home,England,14,18,0,9,1994
+won,home,Canada,28,9,8,6,1994
+won,home,Wales,21,9,15,6,1995
+lost,home,Scotland,21,23,5,13,1995
+won,home,New Zealand,22,15,17,3,1995
+lost,home,New Zealand,12,37,5,20,1995
+won,home,England,15,12,3,6,1996
+won,home,Ireland,45,10,24,3,1996
+won,home,Romania,64,12,26,12,1996
+lost,home,South Africa,12,22,6,19,1996
+lost,home,South Africa,12,13,3,10,1996
+won,home,Wales,27,22,20,10,1997
+won,home,Scotland,47,20,26,13,1997
+lost,home,Italy,32,40,13,20,1997
+won,home,Italy,30,19,17,9,1997
+won,home,Romania,39,3,27,3,1997
+won,home,Argentina,32,27,5,7,1997
+lost,home,South Africa,32,36,9,19,1997
+lost,home,South Africa,10,52,3,28,1997
+won,home,England,24,17,15,3,1998
+won,home,Ireland,18,16,6,13,1998
+won,home,Argentina,34,14,17,8,1998
+lost,home,Australia,21,32,21,20,1998
+lost,home,Wales,33,34,18,28,1999
+lost,home,Scotland,22,36,22,33,1999
+won,home,Romania,62,8,29,3,1999
+won,home,Canada,33,20,18,10,1999
+won,home,Namibia,47,13,23,13,1999
+won,home,Fiji,28,19,13,3,1999
+lost,home,England,9,15,0,9,2000
+lost,home,Ireland,25,27,13,7,2000
+won,home,Italy,42,31,20,17,2000
+lost,home,Australia,13,18,3,9,2000
+lost,home,New Zealand,26,39,12,15,2000
+won,home,New Zealand,42,33,26,24,2000
+won,home,Scotland,16,6,6,6,2001
+lost,home,Wales,35,43,19,16,2001
+won,home,South Africa,20,10,9,3,2001
+won,home,Australia,14,13,11,3,2001
+won,home,Fiji,77,10,29,0,2001
+won,home,Italy,33,12,19,12,2002
+won,home,England,20,15,17,7,2002
+won,home,Ireland,44,5,28,5,2002
+won,home,South Africa,30,10,12,3,2002
+draw,home,New Zealand,20,20,10,10,2002
+won,home,Canada,35,3,13,0,2002
+won,home,Scotland,38,3,17,3,2003
+won,home,Wales,33,5,10,5,2003
+won,home,Romania,56,8,35,5,2003
+won,home,England,17,16,14,13,2003
+won,home,Ireland,35,17,11,3,2004
+won,home,Italy,25,0,10,0,2004
+won,home,England,24,21,21,3,2004
+won,home,Australia,27,14,12,11,2004
+lost,home,Argentina,14,24,5,19,2004
+lost,home,New Zealand,6,45,6,19,2004
+won,home,Scotland,16,9,0,6,2005
+lost,home,Wales,18,24,15,6,2005
+won,home,Australia,26,16,10,9,2005
+won,home,Canada,50,6,25,3,2005
+won,home,Tonga,43,8,12,8,2005
+won,home,South Africa,26,20,15,3,2005
+won,home,Ireland,43,31,29,3,2006
+won,home,Italy,37,12,8,12,2006
+won,home,England,31,6,16,3,2006
+lost,home,New Zealand,3,47,3,23,2006
+lost,home,New Zealand,11,23,5,16,2006
+won,home,Argentina,27,26,17,9,2006
+won,home,Wales,32,21,23,14,2007
+won,home,Scotland,46,19,20,14,2007
+won,home,England,22,9,12,3,2007
+lost,home,Argentina,12,17,9,17,2007
+won,home,Namibia,87,10,40,3,2007
+won,home,Ireland,25,3,12,3,2007
+won,home,Georgia,64,7,30,0,2007
+lost,home,England,9,14,6,5,2007
+lost,home,Argentina,10,34,3,17,2007
+won,home,Ireland,26,21,19,6,2008
+lost,home,England,13,24,7,13,2008
+won,home,Italy,25,13,13,6,2008
+won,home,Argentina,12,6,9,6,2008
+won,home,Pacific Is,42,17,17,12,2008
+lost,home,Australia,13,18,7,10,2008
+won,home,Scotland,22,13,6,3,2009
+won,home,Wales,21,16,13,13,2009
+won,home,South Africa,20,13,11,13,2009
+won,home,Samoa,43,5,33,0,2009
+lost,home,New Zealand,12,39,12,22,2009
+won,home,Ireland,33,10,17,3,2010
+won,home,Italy,46,20,22,3,2010
+won,home,England,12,10,12,7,2010
+won,home,Fiji,34,12,16,6,2010
+won,home,Argentina,15,9,9,3,2010
+lost,home,Australia,16,59,13,13,2010
+won,home,Scotland,34,21,17,7,2011
+won,home,Wales,28,9,11,3,2011
+won,home,Ireland,19,12,13,3,2011
+won,home,Italy,30,12,15,6,2012
+draw,home,Ireland,17,17,6,17,2012
+lost,home,England,22,24,9,14,2012
+won,home,Australia,33,6,16,6,2012
+won,home,Argentina,39,22,24,13,2012
+won,home,Samoa,22,14,10,7,2012
+lost,home,Wales,6,16,3,3,2013
+won,home,Scotland,23,16,0,6,2013
+lost,home,New Zealand,19,26,9,9,2013
+won,home,Tonga,38,18,21,6,2013
+lost,home,South Africa,10,19,7,13,2013
+won,home,England,26,24,16,8,2014
+won,home,Italy,30,10,9,3,2014
+lost,home,Ireland,20,22,13,12,2014
+won,home,Fiji,40,15,14,0,2014
+won,home,Australia,29,26,17,16,2014
+lost,home,Argentina,13,18,3,15,2014
+won,home,Scotland,15,8,9,8,2015
+lost,home,Wales,13,20,3,6,2015
+won,home,England,25,20,15,6,2015
+won,home,Scotland,19,16,6,9,2015
+won,home,Italy,23,21,10,8,2016
+won,home,Ireland,10,9,3,9,2016
+lost,home,England,21,31,12,17,2016
+won,home,Samoa,52,8,26,3,2016
+lost,home,Australia,23,25,11,13,2016
+lost,home,New Zealand,19,24,6,10,2016
+won,home,Scotland,22,16,13,11,2017
+won,home,Wales,20,18,10,9,2017
+lost,home,New Zealand,18,38,5,31,2017
+lost,home,South Africa,17,18,7,8,2017
+draw,home,Japan,23,23,13,8,2017
+lost,home,Ireland,13,15,3,9,2018
+won,home,Italy,34,17,11,7,2018
+won,home,England,22,16,9,9,2018
+lost,home,South Africa,26,29,16,9,2018
+won,home,Argentina,28,13,11,10,2018
+lost,home,Fiji,14,21,14,12,2018
+lost,home,Wales,19,24,16,0,2019
+won,home,Scotland,27,10,10,3,2019
+won,home,Scotland,32,3,20,3,2019
+won,home,Italy,47,19,19,7,2019
+lost,home,Germany,16,17,5,0,1927
+won,home,Germany,14,3,3,3,1928
+won,home,Germany,31,0,-,-,1930
+won,home,Germany,20,4,14,4,1932
+won,home,Germany,13,9,-,-,1934
+won,home,Germany,19,14,8,9,1936
+won,home,Germany,6,3,-,-,1936
+lost,home,Germany,0,3,-,-,1938
+lost,home,Ireland,8,19,0,8,1909
+lost,home,Ireland,5,25,5,0,1911
+lost,home,Ireland,0,24,0,8,1913
+won,home,Ireland,15,7,9,0,1920
+lost,home,Ireland,3,8,0,5,1922
+lost,home,Ireland,0,6,0,3,1924
+lost,home,Ireland,0,11,0,8,1926
+lost,home,Ireland,8,12,8,6,1928
+won,home,Ireland,5,0,-,-,1930
+won,home,Ireland XV,4,3,-,-,1946
+won,home,Ireland,12,8,3,8,1947
+won,home,Ireland,16,9,8,6,1949
+lost,home,Ireland,8,9,3,3,1951
+lost,home,Ireland,3,16,0,5,1953
+won,home,Ireland,5,3,5,0,1955
+lost,home,Ireland,6,11,3,8,1957
+lost,home,Ireland,5,9,0,6,1959
+won,home,Ireland,15,3,3,3,1961
+won,home,Ireland,24,5,6,5,1963
+draw,home,Ireland,3,3,-,-,1965
+won,home,Ireland,11,6,5,3,1967
+lost,home,Ireland,9,17,6,11,1969
+draw,home,Ireland,9,9,3,0,1971
+lost,home,Ireland,14,24,4,15,1972
+lost,home,Ireland,4,6,0,3,1973
+lost,home,Ireland,6,25,6,10,1975
+won,home,Ireland,15,6,3,6,1977
+draw,home,Ireland,9,9,3,6,1979
+won,home,Ireland,19,13,12,9,1981
+lost,home,Ireland,16,22,3,15,1983
+draw,home,Ireland,15,15,9,12,1985
+won,home,Ireland,19,13,3,10,1987
+won,home,Ireland,26,21,7,18,1989
+won,home,Ireland,21,13,6,10,1991
+won,home,Ireland,21,6,6,6,1993
+won,home,Ireland,25,7,3,0,1995
+won,home,Ireland,32,15,12,12,1997
+won,home,Ireland,10,9,0,6,1999
+won,home,Argentina,47,26,27,20,1999
+lost,home,Ireland,15,22,3,9,2001
+lost,home,Ireland,12,15,3,12,2003
+won,home,Ireland,26,19,18,9,2005
+won,home,Ireland,20,17,13,11,2007
+lost,home,Ireland,21,30,10,13,2009
+won,home,Ireland,25,22,12,15,2011
+won,home,Ireland,26,22,16,8,2011
+draw,home,Ireland,13,13,3,13,2013
+lost,home,Ireland,11,18,6,12,2015
+lost,home,Ireland,9,19,6,7,2017
+lost,home,Ireland,14,26,0,19,2019
+won,home,Italy,17,8,3,5,1952
+won,home,Italy,39,12,16,6,1954
+won,home,Italy,16,3,3,3,1956
+won,home,Italy,11,3,8,3,1958
+won,home,Italy,26,0,18,0,1960
+won,home,Italy,6,3,6,3,1962
+won,home,Italy,12,3,6,0,1964
+won,home,Italy,21,0,11,0,1966
+won,home,Italy,30,19,14,9,2001
+won,home,Italy,53,27,41,10,2003
+won,home,Italy,56,13,24,10,2005
+won,home,Italy,39,3,22,3,2007
+won,home,Italy,50,8,25,3,2009
+lost,home,Italy,21,22,8,6,2011
+lost,home,Italy,18,23,15,13,2013
+won,home,Italy,29,0,9,0,2015
+won,home,Italy,40,18,16,11,2017
+won,home,Italy,25,14,10,6,2019
+won,home,Argentina,23,21,20,3,2019
+won,home,USA,33,9,12,6,2019
+won,home,Tonga,23,21,17,7,2019
+lost,home,Wales,19,20,19,10,2019
+lost,home,New Zealand,6,13,6,5,1961
+lost,home,New Zealand,3,5,-,-,1961
+lost,home,New Zealand,3,32,3,13,1961
+lost,home,New Zealand,9,12,3,3,1968
+lost,home,New Zealand,3,9,3,0,1968
+lost,home,New Zealand,12,19,0,16,1968
+lost,home,New Zealand,9,23,3,10,1979
+won,home,New Zealand,24,19,11,7,1979
+lost,home,New Zealand,9,10,3,3,1984
+lost,home,New Zealand,18,31,6,16,1984
+lost,home,New Zealand,9,18,6,12,1986
+draw,home,Scotland,20,20,6,13,1987
+won,home,Romania,55,12,12,12,1987
+won,home,Zimbabwe,70,12,22,3,1987
+won,home,Fiji,31,16,22,7,1987
+lost,home,New Zealand,9,29,0,9,1987
+lost,home,New Zealand,17,25,0,18,1989
+lost,home,New Zealand,20,34,13,16,1989
+won,home,New Zealand,22,8,9,3,1994
+won,home,New Zealand,23,20,13,9,1994
+lost,home,New Zealand,7,54,0,30,1999
+lost,home,New Zealand,12,37,6,17,2001
+lost,home,New Zealand,23,31,13,19,2003
+lost,home,New Zealand,11,42,3,20,2007
+lost,home,New Zealand,10,61,3,30,2007
+won,home,New Zealand,27,22,17,11,2009
+lost,home,New Zealand,10,14,0,8,2009
+won,home,Japan,47,21,25,11,2011
+won,home,Canada,46,19,19,10,2011
+lost,home,New Zealand,17,37,3,19,2011
+lost,home,Tonga,14,19,6,13,2011
+won,home,England,19,12,16,0,2011
+won,home,Wales,9,8,6,3,2011
+lost,home,New Zealand,7,8,0,5,2011
+lost,home,New Zealand,13,23,10,17,2013
+lost,home,New Zealand,0,30,0,10,2013
+lost,home,New Zealand,9,24,6,8,2013
+lost,home,New Zealand,11,52,11,8,2018
+lost,home,New Zealand,13,26,6,21,2018
+lost,home,New Zealand,14,49,14,21,2018
+won,home,Romania,11,8,11,0,1938
+won,home,Germany,8,5,3,5,1938
+won,home,Romania,18,15,6,9,1957
+lost,home,Romania,5,11,0,5,1960
+lost,home,Romania,0,3,-,-,1962
+won,home,Romania,9,6,3,3,1964
+won,home,Romania,9,3,3,3,1966
+lost,home,Romania,14,15,8,12,1968
+won,home,Romania,14,3,6,3,1970
+won,home,Romania,15,6,15,0,1972
+lost,home,Romania,10,15,6,3,1974
+lost,home,Romania,12,15,9,0,1976
+won,home,Romania,9,6,9,0,1978
+lost,home,Romania,0,15,-,-,1980
+lost,home,Romania,9,13,6,3,1982
+won,home,Romania,18,3,6,0,1984
+won,home,Romania,20,3,14,0,1986
+won,home,Romania,16,12,6,3,1988
+won,home,Romania,33,21,18,18,1991
+won,home,Romania,37,20,16,3,1993
+won,home,Romania,24,15,6,12,1995
+won,home,Romania,51,20,29,10,1997
+won,home,Romania,67,20,29,8,2000
+won,home,Romania,62,14,31,6,2006
+won,home,Samoa,39,22,12,16,1999
+lost,home,Scotland,0,27,0,11,1910
+lost,home,Scotland,3,31,3,13,1912
+won,home,Scotland,3,0,3,0,1921
+lost,home,Scotland,3,16,0,5,1923
+lost,home,Scotland,4,25,4,5,1925
+lost,home,Scotland,6,23,3,20,1927
+lost,home,Scotland,3,6,3,6,1929
+lost,home,Scotland,4,6,0,6,1931
+lost,home,Scotland,8,9,8,3,1948
+lost,home,Scotland,5,8,0,8,1950
+won,home,Scotland,13,11,8,3,1952
+won,home,Scotland,3,0,-,-,1954
+lost,home,Scotland,0,12,0,6,1956
+lost,home,Scotland,9,11,6,8,1958
+won,home,Scotland,13,11,5,0,1960
+won,home,Scotland,11,3,3,3,1962
+lost,home,Scotland,0,10,0,5,1964
+draw,home,Scotland,3,3,3,3,1966
+won,home,Scotland,8,6,3,3,1968
+won,home,Scotland,11,9,11,6,1970
+lost,home,Scotland,9,20,0,10,1972
+lost,home,Scotland,6,19,3,9,1974
+won,home,Scotland,13,6,7,3,1976
+won,home,Scotland,19,16,4,13,1978
+lost,home,Scotland,14,22,7,4,1980
+lost,home,Scotland,7,16,7,3,1982
+lost,home,Scotland,12,21,6,3,1984
+lost,home,Scotland,17,18,7,12,1986
+lost,home,Scotland,12,23,6,11,1988
+lost,home,Scotland,0,21,0,3,1990
+lost,home,Scotland,6,10,3,4,1992
+won,home,Scotland,20,12,13,9,1994
+lost,home,Scotland,14,19,8,11,1996
+won,home,Scotland,51,16,22,9,1998
+won,home,Scotland,28,16,10,6,2000
+won,home,Scotland,22,10,10,3,2002
+won,home,Scotland,31,0,11,0,2004
+lost,home,Scotland,16,20,3,13,2006
+won,home,Scotland,27,6,17,6,2008
+won,home,Scotland,18,9,15,6,2010
+won,home,Scotland,23,17,10,10,2012
+won,home,Scotland,19,17,9,14,2014
+lost,home,Scotland,18,29,12,18,2016
+lost,home,Scotland,26,32,20,14,2018
+lost,home,Scotland,14,17,14,10,2019
+draw,home,South Africa,3,3,3,0,1958
+won,home,South Africa,9,5,3,5,1958
+won,home,South Africa,8,6,8,3,1964
+lost,home,South Africa,3,26,3,18,1967
+lost,home,South Africa,3,16,0,3,1967
+won,home,South Africa,19,14,8,6,1967
+draw,home,South Africa,6,6,3,0,1967
+lost,home,South Africa,9,22,3,6,1971
+draw,home,South Africa,8,8,3,0,1971
+lost,home,South Africa,25,38,3,21,1975
+lost,home,South Africa,18,33,15,18,1975
+lost,home,South Africa,15,37,0,13,1980
+draw,home,South Africa,20,20,14,11,1993
+won,home,South Africa,18,17,9,8,1993
+won,home,Tonga,38,10,6,0,1995
+won,home,Cote d'Iv,54,18,28,3,1995
+won,home,Scotland,22,19,3,13,1995
+won,home,Ireland,36,12,15,12,1995
+lost,home,South Africa,15,19,6,10,1995
+won,home,England,19,9,3,3,1995
+won,home,South Africa,32,23,16,11,2001
+lost,home,South Africa,15,20,15,14,2001
+draw,home,South Africa,30,30,13,13,2005
+lost,home,South Africa,13,27,6,20,2005
+won,home,South Africa,36,26,11,12,2006
+lost,home,South Africa,17,42,10,25,2010
+lost,home,South Africa,14,37,7,16,2017
+lost,home,South Africa,15,37,7,23,2017
+lost,home,South Africa,12,35,9,16,2017
+lost,home,Tonga,16,20,6,15,1999
+won,home,USA,33,14,15,10,1976
+won,home,USA,41,9,21,3,1991
+won,home,USA,10,3,10,3,1991
+won,home,USA,39,31,17,21,2004
+lost,home,Wales,4,36,4,17,1908
+lost,home,Wales,14,49,14,21,1910
+lost,home,Wales,8,14,8,6,1912
+lost,home,Wales,0,31,0,13,1914
+lost,home,Wales,4,12,0,12,1921
+lost,home,Wales,8,16,3,5,1923
+lost,home,Wales,5,11,0,3,1925
+lost,home,Wales,7,25,3,12,1927
+lost,home,Wales,3,8,0,5,1929
+lost,home,Wales,3,35,0,8,1931
+lost,home,Wales XV,0,8,-,-,1945
+won,home,Wales,11,3,5,0,1948
+lost,home,Wales,0,21,0,5,1950
+lost,home,Wales,5,9,5,3,1952
+lost,home,Wales,13,19,5,5,1954
+lost,home,Wales,3,5,-,-,1956
+won,home,Wales,16,6,3,3,1958
+won,home,Wales,16,8,5,3,1960
+lost,home,Wales,0,3,0,3,1962
+draw,home,Wales,11,11,11,3,1964
+lost,home,Wales,8,9,8,6,1966
+won,home,Wales,14,9,3,9,1968
+lost,home,Wales,6,11,3,6,1970
+lost,home,Wales,6,20,6,9,1972
+draw,home,Wales,16,16,13,13,1974
+lost,home,Wales,13,19,9,13,1976
+lost,home,Wales,7,16,7,13,1978
+lost,home,Wales,9,18,3,4,1980
+lost,home,Wales,12,22,9,6,1982
+won,home,Wales,21,16,12,3,1984
+won,home,Wales,23,15,11,9,1986
+won,home,Wales,10,9,3,3,1988
+won,home,Wales,29,19,9,13,1990
+won,home,Wales,22,9,7,3,1991
+won,home,Wales,12,9,12,0,1992
+lost,home,Wales,15,24,3,11,1994
+lost,home,Wales,15,16,5,10,1996
+won,home,Wales,40,33,10,27,1996
+lost,home,Wales,23,34,6,12,1999
+lost,home,Australia,12,35,6,12,1999
+won,home,Wales,36,3,9,3,2000
+won,home,Wales,37,33,24,19,2002
+won,home,Wales,29,22,13,12,2004
+won,home,Wales,21,16,6,13,2006
+won,home,Wales,34,7,17,7,2007
+won,home,New Zealand,20,18,3,13,2007
+lost,home,Wales,12,29,6,9,2008
+won,home,Wales,26,20,20,0,2010
+lost,home,Wales,9,16,3,10,2012
+lost,home,Wales,6,27,6,20,2014
+lost,home,Ireland,9,24,6,9,2015
+lost,home,New Zealand,13,62,13,29,2015
+lost,home,Wales,10,19,3,6,2016
+lost,home,Wales,13,14,10,14,2018
