@@ -83,15 +83,40 @@ df=as.data.frame(details)
 
 head(df)
 
+df=ddply(details, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
+
+ggplot(df, aes(year, y=pens)) +
+  geom_line() +
+  xlab("Année") +
+  scale_x_discrete(limits=c(1950:max(names$Année)))
+  #ylab("Longueur") +
+  #ggtitle("Longueur moyenne des noms")
+
+approxData = data.frame(
+  with(df,
+       approx(df$year, df$mean_pens, xout = seq(min(df$year), max(df$year), by=10), rule=1)
+  )
+)
+
+ggplot(approxData, aes(x, y)) +
+  geom_line(col = "blue")
 
 
+approxData <- data.frame(
+  with(df, 
+       approx(year, mean_pens, xout = seq(1, 1000, by = 10), method = "linear")
+  ),
+  method = "approx()"
+)
 
+approxData
 
-
-
-
-
-
+ggplot(approxData, aes(year, mean_pens)) + 
+  #geom_point(df = df, aes(year, mean_pens), alpha = 0.2, col = "red") +
+  geom_line(col = "blue") +
+  facet_wrap(~method) +
+  ggtitle("Interpolation and smoothing functions in R") +
+  theme_bw(16)
 
 
 
