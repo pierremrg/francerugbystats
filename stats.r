@@ -8,21 +8,18 @@ require(reshape2)
 
 matches = read.csv2("data/matches_list.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
 
-#df=as.data.frame(aggregate(Nombre ~ Année, matches, sum))
 df=as.data.frame(matches)
 
 head(df)
 
-head(df[df$result == 'won', ])
-
 won = matches[matches$result == 'won', ]
-df_won = as.data.frame(aggregate(result ~ year, won, FUN=length), c("one", "two"))
+df_won = as.data.frame(aggregate(result ~ year, won, FUN=length))
 
 lost = matches[matches$result == 'lost', ]
 df_lost = as.data.frame(aggregate(result ~ year, lost, FUN=length))
 
-head(df_won)
-head(df_lost)
+#head(df_won)
+#head(df_lost)
 
 # Annees sans défaite
 years_missing_lost = df_won[!df_won$year %in% df_lost$year, ]$year
@@ -60,15 +57,14 @@ colnames(df_result) = c('year', 'won', 'lost')
 percent_won = df_result$won/(df_result$won + df_result$lost)
 
 df_result = cbind(df_result, percent_won)
-head(df_result, 10)
+#head(df_result, 10)
 
 
 ggplot(df_result, aes(year, y=percent_won)) +
-  geom_line()
-  #xlab("Année") +
-  #scale_x_discrete(limits=c(min(names$Année):max(names$Année))) +
-  #ylab("Longueur") +
-  #ggtitle("Longueur moyenne des noms")
+  geom_line() +
+  xlab("Année") +
+  ylab("Nombre de victoires") +
+  ggtitle("Nombre moyen de victoires de l'équipe de France par an")
 
 
 
@@ -80,10 +76,11 @@ ggplot(df_result, aes(year, y=percent_won)) +
 details = read.csv2("data/details_scores.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
 
 df=as.data.frame(details)
+
 # On supprime l'annee en cours (donnees incompletes)
 df = df[df$year < 2019,]
 
-head(df)
+#head(df)
 
 df=ddply(df, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
 
@@ -91,17 +88,12 @@ ggplot(df, aes(year, y=mean_pens)) +
   geom_line() +
   xlab("Année") +
   scale_x_discrete(limits=c(min(df$year):max(df$year)))
-  #ylab("Longueur") +
-  #ggtitle("Longueur moyenne des noms")
 
 approxData = data.frame(
   with(df,
        approx(df$year, df$mean_pens, xout = seq(min(df$year), max(df$year), by=10), rule=1)
   )
 )
-
-head(df)
-approxData
 
 
 # Fonction qui renvoie une partie des lignes d'une dataframe autour de l'annee indiquee
@@ -139,19 +131,6 @@ ggplot() +
 #####################
 # Villes finalistes #
 #####################
-
-
-#require('jsonlite')
-#json = fromJSON("https://nominatim.openstreetmap.org/search?format=json&q=Castres")
-#df_city = as.data.frame(json)
-
-#as.double(df_city$lat[[1]])
-#as.double(df_city$lon[[1]])
-
-
-#json = fromJSON("https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyCx5qXLm-eyr51hJvSPhsNfOnZZMjMvjAg&address=Toulouse")
-#json
-
 
 require(leaflet)
 require(plyr)
