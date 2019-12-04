@@ -80,15 +80,17 @@ ggplot(df_result, aes(year, y=percent_won)) +
 details = read.csv2("data/details_scores.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
 
 df=as.data.frame(details)
+# On supprime l'annee en cours (donnees incompletes)
+df = df[df$year < 2019,]
 
 head(df)
 
-df=ddply(details, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
+df=ddply(df, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
 
-ggplot(df, aes(year, y=pens)) +
+ggplot(df, aes(year, y=mean_pens)) +
   geom_line() +
   xlab("Année") +
-  scale_x_discrete(limits=c(1950:max(names$Année)))
+  scale_x_discrete(limits=c(min(df$year):max(df$year)))
   #ylab("Longueur") +
   #ggtitle("Longueur moyenne des noms")
 
@@ -98,31 +100,204 @@ approxData = data.frame(
   )
 )
 
+head(df)
+approxData
+
+df2000 = df[df$year >= 2000,]
+
+df2000
+
+
+# Fonction qui renvoie une partie des lignes d'une dataframe autour de l'annee indiquee
+df_windows_years = function(df, year, w = 5){
+  #min_year = floor(year/w)*w
+  #max_year = min_year + w
+  min_year = year - 2
+  max_year = year + 2
+  df = df[df$year >= min_year & df$year <= max_year, ]
+  return(df)
+}
+
+
+df2000 = ddply(df, .(year, mean_tries, mean_pens), summarize,
+        NombreV=mean(unlist(lapply(
+              df_windows_years(df2000, year), function(x) x
+        )))
+)
+
+
+
+ggplot(df2000, aes(year, NombreV)) +
+  geom_line(col = "blue")
+
 ggplot(approxData, aes(x, y)) +
   geom_line(col = "blue")
 
 
-approxData <- data.frame(
-  with(df, 
-       approx(year, mean_pens, xout = seq(1, 1000, by = 10), method = "linear")
-  ),
-  method = "approx()"
+#####################
+# Villes finalistes #
+#####################
+
+
+#require('jsonlite')
+#json = fromJSON("https://nominatim.openstreetmap.org/search?format=json&q=Castres")
+#df_city = as.data.frame(json)
+
+#as.double(df_city$lat[[1]])
+#as.double(df_city$lon[[1]])
+
+
+#json = fromJSON("https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyCx5qXLm-eyr51hJvSPhsNfOnZZMjMvjAg&address=Toulouse")
+#json
+
+
+require(leaflet)
+require(plyr)
+
+
+format_cities_data = function(df, min_year, max_year){
+  # On garde seulement la tranche d'annees concernees
+  df = df[df$year >= min_year & df$year <= max_year, ]
+  
+  # On assemble les champions et les finalistes
+  df_winners = df[, c('champion', 'champion_lat', 'champion_lon')]
+  colnames(df_winners) = c('city', 'lat', 'lon')
+  df_losers = df[, c('finalist', 'finalist_lat', 'finalist_lon')]
+  colnames(df_losers) = c('city', 'lat', 'lon')
+  
+  df = rbind(df_winners, df_losers)
+  
+  # On compte le nombre de fois ou l'equipe etait en finale (vainqueur ou non)
+  df$appearances = as.numeric(ave(df$city, df$city, FUN = length))
+  
+  # Lat/Lon en nombres
+  df$lat = as.numeric(df$lat)
+  df$lon = as.numeric(df$lon)
+  
+  # On enleve les lignes dupliquees
+  df = df[!duplicated(df), ]
+  
+  return(df)
+}
+
+create_cities_map = function(df){
+  # Map design
+  df = ddply(df, .(city, lat, lon, appearances), summarize,
+             radius=min(40, 15+5*appearances),
+             opacity=min(0.8, 0.1+0.1*appearances)
+  )
+  
+  # Creation de la map
+  map = leaflet(padding = 0)
+  map = addTiles(map)
+  map = setView(map, lng=2, lat=47,zoom = 6)
+  map = addProviderTiles(map,"CartoDB.Positron")
+  map = addCircleMarkers(map,
+                         lng = df$lon,
+                         lat = df$lat,
+                         radius = df$radius, weight = 1,
+                         opacity = 0,
+                         fill = T, fillColor = "#2A4293",
+                         fillOpacity = 0.95,
+                         color = "white")
+  return(map)
+}
+
+
+finalists = read.csv2("data/finalists.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 2000, 2020)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1980, 1999)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1960, 1979)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1940, 1959)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1920, 1939)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1900, 1919)
+nrow(df)
+map = create_cities_map(df)
+map
+
+
+###################################
+# tests
+
+
+
+
+df=ddply(details, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
+
+df_2015 = df[df$year >= 2015, ]
+
+df_2015
+
+df_2015$champion_lat = as.numeric(df_2015$champion_lat)
+df_2015$champion_lon = as.numeric(df_2015$champion_lon)
+df_2015$finalist_lat = as.numeric(df_2015$finalist_lat)
+df_2015$finalist_lon = as.numeric(df_2015$finalist_lon)
+
+
+tail(df)
+end_df = df[df$year <= 1908,]
+end_df
+
+test = end_df
+
+test=ddply(test, .(champion, champion_lat, champion_lon, finalist_lat, finalist_lon),
+           summarize, c=sum(test[which(test$champion == champion)])
 )
+test
 
-approxData
-
-ggplot(approxData, aes(year, mean_pens)) + 
-  #geom_point(df = df, aes(year, mean_pens), alpha = 0.2, col = "red") +
-  geom_line(col = "blue") +
-  facet_wrap(~method) +
-  ggtitle("Interpolation and smoothing functions in R") +
-  theme_bw(16)
+test$c <- as.numeric(ave(test$champion, test$champion, FUN = length))
 
 
+map = leaflet(padding = 0)
+map = addTiles(map)
+map = setView(map, lng=2, lat=47,zoom = 6)
+map = addProviderTiles(map,"CartoDB.Positron")
+map = addCircleMarkers(map, 
+                       lng = df_2015$champion_lon, 
+                       lat = df_2015$champion_lat, 
+                       radius = 20, weight = 0.25, 
+                       opacity = 0.3,
+                       fill = T, fillColor = "red", 
+                       fillOpacity = 0.3,
+                       color = "white")
+
+map
 
 
 
 
-
-
-
+map = addCircleMarkers(map, 
+                       lng = 2.19, 
+                       lat = 48.52, 
+                       radius = 20, weight = 0.25, 
+                       opacity = 0.3,
+                       fill = T, fillColor = "red", 
+                       fillOpacity = 0.3,
+                       color = "white")

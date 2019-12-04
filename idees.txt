@@ -10,3 +10,5 @@
 - Poids/taille des joueurs / commotions
 - Budgets des équipes
 - Les pays qui gagnent plus ou moins ?
+
+- Plot couleur "reste dans le sud-ouest" (licenciés par région)
