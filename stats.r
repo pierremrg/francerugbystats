@@ -103,35 +103,37 @@ approxData = data.frame(
 head(df)
 approxData
 
-df2000 = df[df$year >= 2000,]
-
-df2000
-
 
 # Fonction qui renvoie une partie des lignes d'une dataframe autour de l'annee indiquee
 df_windows_years = function(df, year, w = 5){
   #min_year = floor(year/w)*w
   #max_year = min_year + w
-  min_year = year - 2
-  max_year = year + 2
+  min_year = year - w/2
+  max_year = year + w/2
   df = df[df$year >= min_year & df$year <= max_year, ]
   return(df)
 }
 
+head(df)
 
-df2000 = ddply(df, .(year, mean_tries, mean_pens), summarize,
-        NombreV=mean(unlist(lapply(
-              df_windows_years(df2000, year), function(x) x
-        )))
+df_smooth = ddply(df, .(year, mean_tries, mean_pens), summarize,
+        mean_tries_smooth=mean(df_windows_years(df, year, 30)$mean_tries),
+        mean_pens_smooth=mean(df_windows_years(df, year, 30)$mean_pens)
 )
 
+ggplot() +
+  geom_line(data=df_smooth, aes(year, mean_tries), color='gray') +
+  geom_line(data=df_smooth, aes(year, mean_tries_smooth), color='blue') +
+  xlab("Année") +
+  ylab("Nombre d'essais moyen") +
+  ggtitle("Evolution du nombre d'essais par match en fonction des années")
 
-
-ggplot(df2000, aes(year, NombreV)) +
-  geom_line(col = "blue")
-
-ggplot(approxData, aes(x, y)) +
-  geom_line(col = "blue")
+ggplot() +
+  geom_line(data=df_smooth, aes(year, mean_pens), color='black') +
+  geom_line(data=df_smooth, aes(year, mean_pens_smooth), color='red') +
+  xlab("Année") +
+  ylab("Nombre de pénalités moyen") +
+  ggtitle("Evolution du nombre de pénalités par match en fonction des années")
 
 
 #####################
