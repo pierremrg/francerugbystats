@@ -44,10 +44,11 @@ dfRealWeight = data.frame(a=df$AnneeNaiss, w=df$mean_wgh)
 
 ggplot() + 
   geom_line(data=dfRealWeight, aes(x=a, y=w), color='black') + 
-  geom_smooth(data=dfRealWeight, aes(x=a, y=w), color='red') + 
-  xlab("Année") +
+  geom_smooth(data=dfRealWeight, aes(x=a, y=w), color='red', level = 0) + 
+#  scale_x_continuous(breaks=seq(min(dfRealWeight$a), max(dfRealWeight$a), 10)) +
+  xlab("Année de naissance") +
   ylab("Poids en kg") +
-  ggtitle("Evolution du poids moyen des joueurs en fonction de leur année de naissance")
+  ggtitle("Poids moyen des joueurs en fonction de leur année de naissance")
 
 ###
 approxDataSize = data.frame(
@@ -64,8 +65,8 @@ dfRealSize = data.frame(a=df$AnneeNaiss, w=df$mean_size)
 
 ggplot() + 
   geom_line(data=dfRealSize, aes(x=a, y=w), color='black') + 
-  geom_smooth(data=dfRealSize, aes(x=a, y=w), color='red') + 
-  xlab("Année") +
+  geom_smooth(data=dfRealSize, aes(x=a, y=w), color='red', level=0) + 
+  xlab("Année de naissance") +
   ylab("Taille en cm en kg") +
   ggtitle("Evolution de la taille moyenne des joueurs en fonction de leur année de naissance")
 
@@ -80,11 +81,16 @@ head(nbPlayers)
 
 ggplot() + 
   geom_bar(mapping = aes(x=nbPlayers$Annee, y=nbPlayers$NbLicencies), stat = "identity", color="blue", fill="blue") +
-  geom_smooth(data=nbPlayers, aes(x=Annee, y=NbLicencies), color='red', level = 0.95, span = 0.90) + 
+  geom_smooth(data=nbPlayers, aes(x=Annee, y=NbLicencies), color='red', level = 0.90, span = .90) + 
   xlab("Année") +
   xlim(1960, 2020) +
   ylab("Nombre de licenciés") +
-  ggtitle("Evolution du nombre de licenciés")
+  ggtitle("Evolution du nombre de licenciés") +
+  annotate("segment", x = 1995, xend = 1995, y = 0, yend = 500000, colour="red") +
+  annotate("text", x = 1995, y = -10000, label = "Professionnalisation") +
+  annotate("segment", x = 2013, xend = 2013, y = 0, yend = 500000, colour="red") +
+  annotate("text", x = 2013, y = -10000, label = "Commotions")
+
 
 
 
