@@ -113,9 +113,12 @@ df_smooth = ddply(df, .(year, mean_tries, mean_pens), summarize,
         mean_pens_smooth=mean(df_windows_years(df, year, 30)$mean_pens)
 )
 
+df_smooth = df_smooth[df_smooth$year >= 1950, ]
+
 ggplot() +
   geom_line(data=df_smooth, aes(year, mean_tries), color='gray') +
   geom_line(data=df_smooth, aes(year, mean_tries_smooth), color='blue') +
+  scale_y_discrete(limits=c(floor(min(df_smooth$mean_tries)):ceiling(max(df_smooth$mean_tries)))) +
   xlab("Année") +
   ylab("Nombre d'essais moyen") +
   ggtitle("Evolution du nombre d'essais par match en fonction des années")
