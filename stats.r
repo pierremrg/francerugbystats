@@ -68,10 +68,39 @@ ggplot(df_result, aes(year, y=percent_won)) +
 
 
 
+################################################
+# Moyenne du nombre de points par match par an #
+################################################
 
-###############################################
-# Moyenne du nombre d'essais/pénalités par an #
-###############################################
+matches = read.csv2("data/matches_list.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
+
+df=as.data.frame(matches)
+
+# On enleve les matchs dupliques (a domicile + a l'exterieur)
+df = df[!duplicated(df), ]
+
+#head(df)
+
+# Calcul du nombre total de points
+df$totalPoints = df$pointsFor + df$pointsAgainst
+
+# Calcul de la moyenne des points a partir de 1950 (plus representatif)
+df_points = ddply(df, .(year), summarize, mean_points = mean(totalPoints))
+df_points = df_points[df_points$year >= 1950, ]
+
+ggplot() +
+  geom_line(data=df_points, aes(year, mean_points)) +
+  geom_smooth(data=df_points, aes(x=year, y=mean_points), color='orange', level = 0) +
+  xlab("Année") +
+  ylab("Nombre de points moyen") +
+  ggtitle("Evolution du nombre de points par match en fonction des années") +
+  geom_vline(xintercept = 1995, linetype = "dotted", color="black", size=1.5) +
+  annotate("text", x=1993, y=15, label="Pro", angle=90)
+
+
+#########################################################
+# Moyenne du nombre d'essais/pénalités par match par an #
+#########################################################
 
 details = read.csv2("data/details_scores.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
 
@@ -80,23 +109,27 @@ df=as.data.frame(details)
 # On supprime l'annee en cours (donnees incompletes)
 df = df[df$year < 2019,]
 
-#head(df)
-
 df=ddply(df, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
 
-ggplot(df, aes(year, y=mean_pens)) +
-  geom_line() +
+ggplot() +
+  geom_point(data=df, aes(year, mean_tries)) +
+  geom_smooth(data=df, aes(x=year, y=mean_tries), color='blue', level = 0) +
   xlab("Année") +
-  scale_x_discrete(limits=c(min(df$year):max(df$year)))
+  ylab("Nombre d'essais moyen") +
+  ggtitle("Evolution du nombre d'essais par match en fonction des années") +
+  scale_y_discrete(limits=c(floor(min(df_smooth$mean_tries)):ceiling(max(df_smooth$mean_tries))))
 
-approxData = data.frame(
-  with(df,
-       approx(df$year, df$mean_pens, xout = seq(min(df$year), max(df$year), by=10), rule=1)
-  )
-)
+ggplot() +
+  geom_point(data=df, aes(year, mean_pens)) +
+  geom_smooth(data=df, aes(x=year, y=mean_pens), color='red', level = 0) +
+  xlab("Année") +
+  ylab("Nombre de pénalités moyen par match") +
+  ggtitle("Evolution du nombre de pénalités par match en fonction des années") +
+  scale_y_discrete(limits=c(floor(min(df_smooth$mean_tries)):ceiling(max(df_smooth$mean_tries))))
 
 
 # Fonction qui renvoie une partie des lignes d'une dataframe autour de l'annee indiquee
+# Fonction non utilisee, finalement remplacee par geom_smooth() qui offre un rendu plus joli
 df_windows_years = function(df, year, w = 5){
   #min_year = floor(year/w)*w
   #max_year = min_year + w
@@ -106,20 +139,21 @@ df_windows_years = function(df, year, w = 5){
   return(df)
 }
 
-head(df)
-
+# Utilisation de la fonction de moyenne
 df_smooth = ddply(df, .(year, mean_tries, mean_pens), summarize,
-        mean_tries_smooth=mean(df_windows_years(df, year, 30)$mean_tries),
-        mean_pens_smooth=mean(df_windows_years(df, year, 30)$mean_pens)
+                  mean_tries_smooth=mean(df_windows_years(df, year, 30)$mean_tries),
+                  mean_pens_smooth=mean(df_windows_years(df, year, 30)$mean_pens)
 )
 
 ggplot() +
   geom_line(data=df_smooth, aes(year, mean_tries), color='gray') +
   geom_line(data=df_smooth, aes(year, mean_tries_smooth), color='blue') +
+  scale_y_discrete(limits=c(floor(min(df_smooth$mean_tries)):ceiling(max(df_smooth$mean_tries)))) +
   xlab("Année") +
   ylab("Nombre d'essais moyen") +
   ggtitle("Evolution du nombre d'essais par match en fonction des années")
 
+# Plot penalites en utilisant la fonction de moyenne
 ggplot() +
   geom_line(data=df_smooth, aes(year, mean_pens), color='black') +
   geom_line(data=df_smooth, aes(year, mean_pens_smooth), color='red') +
