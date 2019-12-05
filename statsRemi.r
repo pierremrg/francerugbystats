@@ -4,6 +4,9 @@
 require(ggplot2)
 require(plyr)
 require(reshape2)
+require(gridExtra)
+require(scales)
+
 
 
 # source donnÃ©es : http://www.cybervulcans.net/site/
@@ -42,7 +45,7 @@ dfInterpWeight = data.frame(a=approxDataWeight$x, w=approxDataWeight$y)
 
 dfRealWeight = data.frame(a=df$AnneeNaiss, w=df$mean_wgh)
 
-ggplot() + 
+plotWeight = ggplot() + 
   geom_line(data=dfRealWeight, aes(x=a, y=w), color='black') + 
   geom_smooth(data=dfRealWeight, aes(x=a, y=w), color='red', level = 0) + 
 #  scale_x_continuous(breaks=seq(min(dfRealWeight$a), max(dfRealWeight$a), 10)) +
@@ -63,12 +66,15 @@ dfInterpSize = data.frame(a=approxDataSize$x, w=approxDataSize$y)
 dfRealSize = data.frame(a=df$AnneeNaiss, w=df$mean_size)
 
 
-ggplot() + 
+plotHeight = ggplot() + 
   geom_line(data=dfRealSize, aes(x=a, y=w), color='black') + 
   geom_smooth(data=dfRealSize, aes(x=a, y=w), color='red', level=0) + 
   xlab("Année de naissance") +
-  ylab("Taille en cm en kg") +
-  ggtitle("Evolution de la taille moyenne des joueurs en fonction de leur année de naissance")
+  ylab("Taille en cm") +
+  ggtitle("Taille moyenne des joueurs en fonction de leur année de naissance")
+
+
+grid.arrange(plotWeight, plotHeight, nrow=2)
 
 
 ####################################
@@ -79,12 +85,14 @@ nbPlayers = read.csv2("data/nbPlayers.csv", encoding="UTF-8", stringsAsFactors=F
 
 head(nbPlayers)
 
+
 ggplot() + 
   geom_bar(mapping = aes(x=nbPlayers$Annee, y=nbPlayers$NbLicencies), stat = "identity", color="blue", fill="blue") +
   geom_smooth(data=nbPlayers, aes(x=Annee, y=NbLicencies), color='red', level = 0.90, span = .90) + 
   xlab("Année") +
   xlim(1960, 2020) +
   ylab("Nombre de licenciés") +
+  scale_y_continuous(labels = comma) +
   ggtitle("Evolution du nombre de licenciés") +
   annotate("segment", x = 1995, xend = 1995, y = 0, yend = 500000, colour="red") +
   annotate("text", x = 1995, y = -10000, label = "Professionnalisation") +
