@@ -1,6 +1,9 @@
 require(ggplot2)
 require(plyr)
 require(reshape2)
+require(gridExtra)
+require(scales)
+require(leaflet)
 
 ########################################################
 # Pourcentage de victoire de l'équipe de France par an #
@@ -166,10 +169,6 @@ ggplot() +
 # Villes finalistes #
 #####################
 
-require(leaflet)
-require(plyr)
-
-
 format_cities_data = function(df, min_year, max_year){
   # On garde seulement la tranche d'annees concernees
   df = df[df$year >= min_year & df$year <= max_year, ]
@@ -198,8 +197,7 @@ format_cities_data = function(df, min_year, max_year){
 create_cities_map = function(df){
   # Map design
   df = ddply(df, .(city, lat, lon, appearances), summarize,
-             radius=min(40, 15+5*appearances),
-             opacity=min(0.8, 0.1+0.1*appearances)
+             radius=min(40, 15+5*appearances)
   )
   
   # Creation de la map
@@ -213,34 +211,25 @@ create_cities_map = function(df){
                          radius = df$radius, weight = 1,
                          opacity = 0,
                          fill = T, fillColor = "#2A4293",
-                         fillOpacity = 0.95,
+                         fillOpacity = 0.7,
                          color = "white")
+  
+  mean_lat = sum(df$lat * df$appearances)/sum(df$appearances)
+  mean_lon = sum(df$lon * df$appearances)/sum(df$appearances)
+  
+  map = addPolylines(map, lat = c(mean_lat, mean_lat), lng = c(-180,180), color = "red")
+  map = addPolylines(map, lat = c(-90, 90), lng = c(mean_lon, mean_lon), color = "red")
+  
+  
   return(map)
 }
+
 
 
 finalists = read.csv2("data/finalists.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
 
 df=as.data.frame(finalists)
-df = format_cities_data(df, 2000, 2020)
-nrow(df)
-map = create_cities_map(df)
-map
-
-df=as.data.frame(finalists)
-df = format_cities_data(df, 1980, 1999)
-nrow(df)
-map = create_cities_map(df)
-map
-
-df=as.data.frame(finalists)
-df = format_cities_data(df, 1960, 1979)
-nrow(df)
-map = create_cities_map(df)
-map
-
-df=as.data.frame(finalists)
-df = format_cities_data(df, 1940, 1959)
+df = format_cities_data(df, 1900, 1919)
 nrow(df)
 map = create_cities_map(df)
 map
@@ -252,67 +241,100 @@ map = create_cities_map(df)
 map
 
 df=as.data.frame(finalists)
-df = format_cities_data(df, 1900, 1919)
+df = format_cities_data(df, 1940, 1959)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1960, 1979)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 1980, 1999)
+nrow(df)
+map = create_cities_map(df)
+map
+
+df=as.data.frame(finalists)
+df = format_cities_data(df, 2000, 2019)
 nrow(df)
 map = create_cities_map(df)
 map
 
 
-###################################
-# tests
+##########################################################
+# Taille et poids moyen des joueurs de l'ASM depuis 1900 #
+##############4############################################
+
+asm_players = read.csv2("data/asm_players.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
+
+head(asm_players)
+
+df=ddply(asm_players, .(AnneeNaiss), summarize, mean_size=mean(Taille), mean_wgh=mean(Poids))
+
+head(df)
+
+
+ggplot(df, aes(AnneeNaiss, y=mean_size)) +
+  geom_line() +
+  xlab("AnnÃ©e") +
+  ylab("Taille en cm") +
+  ggtitle("Evolution de la taille moyenne des joueurs en fonction de leur annÃ©e de naissance")
+
+ggplot(df, aes(AnneeNaiss, y=mean_wgh)) +
+  geom_line() +
+  xlab("AnnÃ©e") +
+  ylab("Poids en kg") +
+  ggtitle("Evolution du poids moyen des joueurs en fonction de leur annÃ©e de naissance")
 
 
 
+dfRealWeight = data.frame(a=df$AnneeNaiss, w=df$mean_wgh)
 
-df=ddply(details, .(year), summarize, mean_tries=mean(tries), mean_pens=mean(pens))
-
-df_2015 = df[df$year >= 2015, ]
-
-df_2015
-
-df_2015$champion_lat = as.numeric(df_2015$champion_lat)
-df_2015$champion_lon = as.numeric(df_2015$champion_lon)
-df_2015$finalist_lat = as.numeric(df_2015$finalist_lat)
-df_2015$finalist_lon = as.numeric(df_2015$finalist_lon)
-
-
-tail(df)
-end_df = df[df$year <= 1908,]
-end_df
-
-test = end_df
-
-test=ddply(test, .(champion, champion_lat, champion_lon, finalist_lat, finalist_lon),
-           summarize, c=sum(test[which(test$champion == champion)])
-)
-test
-
-test$c <- as.numeric(ave(test$champion, test$champion, FUN = length))
-
-
-map = leaflet(padding = 0)
-map = addTiles(map)
-map = setView(map, lng=2, lat=47,zoom = 6)
-map = addProviderTiles(map,"CartoDB.Positron")
-map = addCircleMarkers(map, 
-                       lng = df_2015$champion_lon, 
-                       lat = df_2015$champion_lat, 
-                       radius = 20, weight = 0.25, 
-                       opacity = 0.3,
-                       fill = T, fillColor = "red", 
-                       fillOpacity = 0.3,
-                       color = "white")
-
-map
+plotWeight = ggplot() + 
+  geom_line(data=dfRealWeight, aes(x=a, y=w), color='black') + 
+  geom_smooth(data=dfRealWeight, aes(x=a, y=w), color='red', level = 0) + 
+  #  scale_x_continuous(breaks=seq(min(dfRealWeight$a), max(dfRealWeight$a), 10)) +
+  xlab("Année de naissance") +
+  ylab("Poids en kg") +
+  ggtitle("Poids moyen des joueurs en fonction de leur année de naissance")
 
 
 
+dfRealSize = data.frame(a=df$AnneeNaiss, w=df$mean_size)
 
-map = addCircleMarkers(map, 
-                       lng = 2.19, 
-                       lat = 48.52, 
-                       radius = 20, weight = 0.25, 
-                       opacity = 0.3,
-                       fill = T, fillColor = "red", 
-                       fillOpacity = 0.3,
-                       color = "white")
+plotHeight = ggplot() + 
+  geom_line(data=dfRealSize, aes(x=a, y=w), color='black') + 
+  geom_smooth(data=dfRealSize, aes(x=a, y=w), color='red', level=0) + 
+  xlab("Année de naissance") +
+  ylab("Taille en cm") +
+  ggtitle("Taille moyenne des joueurs en fonction de leur année de naissance")
+
+
+grid.arrange(plotWeight, plotHeight, nrow=2)
+
+
+####################################
+# Evolution du nombre de licenciés #
+##############4#####################
+
+nbPlayers = read.csv2("data/nbPlayers.csv", encoding="UTF-8", stringsAsFactors=FALSE, sep=',')
+
+head(nbPlayers)
+
+
+ggplot() + 
+  geom_bar(mapping = aes(x=nbPlayers$Annee, y=nbPlayers$NbLicencies), stat = "identity", color="blue", fill="blue") +
+  geom_smooth(data=nbPlayers, aes(x=Annee, y=NbLicencies), color='red', level = 0.90, span = .90) + 
+  xlab("Année") +
+  xlim(1960, 2020) +
+  ylab("Nombre de licenciés") +
+  scale_y_continuous(labels = comma) +
+  ggtitle("Evolution du nombre de licenciés") +
+  annotate("segment", x = 1995, xend = 1995, y = 0, yend = 500000, colour="red") +
+  annotate("text", x = 1995, y = -10000, label = "Professionnalisation") +
+  annotate("segment", x = 2013, xend = 2013, y = 0, yend = 500000, colour="red") +
+  annotate("text", x = 2013, y = -10000, label = "Commotions")
