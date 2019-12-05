@@ -326,15 +326,15 @@ nbPlayers = read.csv2("data/nbPlayers.csv", encoding="UTF-8", stringsAsFactors=F
 head(nbPlayers)
 
 
+
 ggplot() + 
   geom_bar(mapping = aes(x=nbPlayers$Annee, y=nbPlayers$NbLicencies), stat = "identity", color="blue", fill="blue") +
-  geom_smooth(data=nbPlayers, aes(x=Annee, y=NbLicencies), color='red', level = 0.90, span = .90) + 
+  geom_smooth(data=nbPlayers, aes(x=Annee, y=NbLicencies), color='red', level = 0.90, span = .94) + 
   xlab("Année") +
   xlim(1960, 2020) +
   ylab("Nombre de licenciés") +
   scale_y_continuous(labels = comma) +
   ggtitle("Evolution du nombre de licenciés") +
-  annotate("segment", x = 1995, xend = 1995, y = 0, yend = 500000, colour="red") +
-  annotate("text", x = 1995, y = -10000, label = "Professionnalisation") +
-  annotate("segment", x = 2013, xend = 2013, y = 0, yend = 500000, colour="red") +
-  annotate("text", x = 2013, y = -10000, label = "Commotions")
+  geom_vline(xintercept = 1995, linetype="dotted",color = "black", size=1.5) +
+  annotate("text", x = 1993, y = 50000, label = "Pro", angle=90)
+
